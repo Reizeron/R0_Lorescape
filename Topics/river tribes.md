@@ -1,0 +1,5 @@
+Class;Savant Author;R-Zero
+Also known as "the Horse-People", the [[Bjoulsae]] river-tribes are a loose federation of nomadic equestrian clans living interchangeably on the [[High Rock]] and the [[Hammerfell]] sides of the [[Bjoulsae]] river basin. Their culture is a byzantine mix of [[Breton]] and [[Redguard]] influences, as well as some peculiar customs not common to either. Their clansmen herd livestock and hunt but more than that they seem to enjoy the craft of war and are commonly seen employed as mercenary cavalry by the western kingdoms.
+
+Class;Noble Class;Knight Author;R-Zero
+These Horse-People may be uncultured savages, but their equestrian skills are beyond doubt, as is the quality of their steeds. They're not without a modicum of honor though, and despite constantly warring among themselves over territory and always being ready to sell their mercenary service for a premium, they utterly refuse to engage each other on the battlefield on behest of outsiders, as well as to employ mercenaries themselves.

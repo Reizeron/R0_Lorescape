@@ -1,0 +1,1 @@
+Class;Bard Class;Bookseller Class;Savant
