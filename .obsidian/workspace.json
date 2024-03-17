@@ -6,63 +6,26 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 54.1978387364921,
+        "dimension": 51.3715710723192,
         "children": [
-          {
-            "id": "bbd02bd296ecd74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Noble.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de78ae0e47713bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Savant.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d53932b056dca52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/my trade.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
           {
             "id": "1e9289d61813393e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/A Game at Dinner.md",
-                "mode": "source",
-                "source": false
+                "file": "Topics/High Rock lore.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4180158e3ccef415",
         "type": "tabs",
-        "dimension": 45.8021612635079,
+        "dimension": 48.6284289276808,
         "children": [
           {
             "id": "dc69d0274ecb5c58",
@@ -140,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/A Game at Dinner.md",
+                "file": "Topics/High Rock lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/A Game at Dinner.md",
+                "file": "Topics/High Rock lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/A Game at Dinner.md"
+                "file": "Topics/High Rock lore.md"
               }
             }
           }
@@ -201,25 +164,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dacba847e4ef666a",
+  "active": "1e9289d61813393e",
   "lastOpenFiles": [
-    "Classes/Knight.md",
     "Classes/Savant.md",
     "Classes/Noble.md",
-    "Topics/my trade.md",
-    "Topics/current events.md",
+    "Classes/Knight.md",
+    "Topics/Manmeri.md",
     "Topics/killing and murder.md",
+    "Topics/High Rock cultures.md",
+    "Topics/People/Senhyn.md",
+    "Topics/my trade.md",
+    "Books/A History of Daggerfall.md",
+    "Books/A Game at Dinner.md",
+    "Topics/current events.md",
     "R0_Lorescape",
     "Topics/slaughterfish.md",
     "Topics/river tribes.md",
     "Topics/Redguard.md",
     "Topics/Ra'Gada.md",
     "Topics/Masconian Trade Way.md",
-    "Topics/Manmeri.md",
     "Topics/Horley Dynasty.md",
     "Topics/High Rock's economy.md",
     "Topics/High Rock lore.md",
-    "Topics/High Rock cultures.md",
     "Topics/geography of High Rock.md",
     "Topics/Regions/Bjoulsae.md",
     "Topics/High Rock's neighbors.md",
@@ -227,8 +193,6 @@
     "Topics/Reach-magic.md",
     "Topics/Direnni Hegemony.md",
     "Topics/Direnni.md",
-    "Topics/Cursed Legion.md",
-    "Books/How Orsinium Passed to the Orcs.md",
     "Factions",
     "Untitled.canvas",
     "Topics/Events",

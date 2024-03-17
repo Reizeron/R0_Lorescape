@@ -3,7 +3,7 @@
 ```query
 title: Dialogue
 content:Class;Savant
-collapsed: false
+collapsed: true
 context: true
 renderMarkdown: true
 ```

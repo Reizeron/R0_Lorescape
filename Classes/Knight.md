@@ -6,7 +6,7 @@ Of noble birth, or distinguished in battle or tourney, knights are civilized war
 ```query
 title: Dialogue
 content:Class;Knight
-collapsed: false
+collapsed: true
 context: true
 renderMarkdown: true
 ```
