@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my trade.md",
+                "file": "Topics/my trade.md",
                 "mode": "preview",
                 "source": true
               }
@@ -142,7 +142,7 @@
               "state": {
                 "file": "Books/A Game at Dinner.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -201,14 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e9289d61813393e",
+  "active": "dacba847e4ef666a",
   "lastOpenFiles": [
     "Classes/Knight.md",
     "Classes/Savant.md",
     "Classes/Noble.md",
-    "my trade.md",
-    "current events.md",
-    "killing and murder.md",
+    "Topics/my trade.md",
+    "Topics/current events.md",
+    "Topics/killing and murder.md",
     "R0_Lorescape",
     "Topics/slaughterfish.md",
     "Topics/river tribes.md",
