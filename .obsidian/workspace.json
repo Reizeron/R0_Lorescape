@@ -6,7 +6,7 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 51.3715710723192,
+        "dimension": 47.547797173732334,
         "children": [
           {
             "id": "1e9289d61813393e",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/High Rock lore.md",
-                "mode": "preview",
+                "file": "Topics/Castellans.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "4180158e3ccef415",
         "type": "tabs",
-        "dimension": 48.6284289276808,
+        "dimension": 52.452202826267666,
         "children": [
           {
             "id": "dc69d0274ecb5c58",
@@ -103,9 +103,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/High Rock lore.md",
+                "file": "Topics/Castellans.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -120,8 +120,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/High Rock lore.md",
-                "linksCollapsed": false,
+                "file": "Topics/Castellans.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -143,12 +143,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/High Rock lore.md"
+                "file": "Topics/Castellans.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,33 +165,33 @@
   },
   "active": "1e9289d61813393e",
   "lastOpenFiles": [
-    "Classes/Savant.md",
-    "Classes/Noble.md",
-    "Classes/Knight.md",
-    "Topics/Manmeri.md",
-    "Topics/killing and murder.md",
-    "Topics/High Rock cultures.md",
-    "Topics/People/Senhyn.md",
-    "Topics/my trade.md",
-    "Books/A History of Daggerfall.md",
-    "Books/A Game at Dinner.md",
+    "Topics/Cumberland Dynasty.md",
     "Topics/current events.md",
-    "R0_Lorescape",
-    "Topics/slaughterfish.md",
+    "Topics/Cursed Legion.md",
+    "Topics/Gardner Dynasty.md",
+    "Topics/Horley Dynasty.md",
+    "Topics/Left-bank Bjoulsae.md",
+    "Topics/Manmer.md",
+    "Topics/my trade.md",
     "Topics/river tribes.md",
     "Topics/Redguard.md",
-    "Topics/Ra'Gada.md",
-    "Topics/Masconian Trade Way.md",
-    "Topics/Horley Dynasty.md",
-    "Topics/High Rock's economy.md",
-    "Topics/High Rock lore.md",
+    "Topics/Reachmen.md",
+    "Topics/Places/Wayrest.md",
+    "Topics/Places/Ykalon.md",
+    "Topics/Regions/Dellese Isles.md",
+    "Topics/Regions/Northern Coast.md",
     "Topics/geography of High Rock.md",
     "Topics/Regions/Bjoulsae.md",
-    "Topics/High Rock's neighbors.md",
-    "Topics/Reachmen.md",
-    "Topics/Reach-magic.md",
-    "Topics/Direnni Hegemony.md",
+    "Topics/killing and murder.md",
+    "Topics/Breton.md",
+    "Books/PGE1 High Rock.md",
+    "Books/Frontier, Conquest.md",
     "Topics/Direnni.md",
+    "Books/A History of Daggerfall.md",
+    "Topics/Masconian Trade Way.md",
+    "Books/PGE3 High Rock.md",
+    "Topics/High Rock lore.md",
+    "R0_Lorescape",
     "Factions",
     "Untitled.canvas",
     "Topics/Events",

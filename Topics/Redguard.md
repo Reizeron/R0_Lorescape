@@ -1,4 +1,7 @@
-
+---
+aliases:
+- Redguards
+---
 
 to-do: Race;Breton version
 

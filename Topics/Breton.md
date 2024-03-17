@@ -1,3 +1,8 @@
+---
+aliases:
+- Bretons
+---
+
 Class;Savant
 Passionate and eccentric, poetic and flamboyant, intelligent and willful, Bretons feel an inborn, instinctive bond with the mercurial forces of magic and the supernatural. Many great sorcerers have come from their home province of [[High Rock]], and in addition to their quick and perceptive grasp of spellcraft, enchantment, and alchemy, even the humblest of Bretons can boast a high resistance to destructive and dominating magical energies.
 
