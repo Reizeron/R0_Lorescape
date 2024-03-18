@@ -6,29 +6,29 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 62.34413965087282,
+        "dimension": 46.19085805934242,
         "children": [
           {
-            "id": "8082fd4c462b1b43",
+            "id": "c4c2236ed45ec5cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Regions/Glenumbria Moors.md",
-                "mode": "source",
+                "file": "exotic products.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "63cdaefa0c686863",
+            "id": "219f39e5e442b54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Regions/Glenumbria Moors.md",
+                "file": "vegetable products.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -38,7 +38,7 @@
       {
         "id": "4180158e3ccef415",
         "type": "tabs",
-        "dimension": 37.65586034912718,
+        "dimension": 53.80914194065758,
         "children": [
           {
             "id": "dc69d0274ecb5c58",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Regions/Glenumbria Moors.md",
+                "file": "vegetable products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Regions/Glenumbria Moors.md",
+                "file": "vegetable products.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -156,15 +156,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Regions/Glenumbria Moors.md"
+                "file": "vegetable products.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,43 +177,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63cdaefa0c686863",
+  "active": "219f39e5e442b54d",
   "lastOpenFiles": [
-    "Topics/Regions/Greater Bretony.md",
-    "Topics/Regions/Glenumbria Moors.md",
-    "Holidays of the Iliac Bay.md",
-    "Topics/Regions/Glenumbra Moors.md",
-    "Books/Broken Diamonds.md",
+    "silver.md",
+    "mineral products.md",
+    "exotic products.md",
+    "malouchite.md",
+    "Topics/Places/High Rock.md",
+    "Books/The Warp in the West.md",
+    "OOG Lore/Timelines/Bethesda's internal timeline (2000).md",
+    "OOG Lore/Ted Peterson on High Rock and Summerset - Geography.md",
+    "Topics/Groups/Castellans.md",
     "Books/PGE1 High Rock.md",
-    "Books/A History of Daggerfall.md",
-    "Classes/Noble.md",
+    "OOG Lore/Timelines/Elderscrolls.com Timeline.md",
+    "OOG Lore/Timelines/The Daggerfall Chronicles Timeline.md",
+    "OOG Lore/Timelines/test.md",
     "Books/Before the Ages of Man.md",
+    "OOG Lore/Timelines",
+    "Classes/Class;Commoner.md",
     "Topics/slaughterfish.md",
-    "Books/Wayrest, Jewel of the Bay.md",
-    "Topics/Regions/Bjoulsae.md",
-    "Topics/Reach-magic.md",
-    "Topics/Cumberland Dynasty.md",
-    "Topics/Castellans.md",
-    "Topics/current events.md",
-    "Topics/Cursed Legion.md",
-    "Topics/Gardner Dynasty.md",
-    "Topics/Horley Dynasty.md",
-    "Topics/Left-bank Bjoulsae.md",
-    "Topics/Manmer.md",
+    "vegetable products.md",
     "Topics/my trade.md",
-    "Topics/river tribes.md",
-    "Topics/Redguard.md",
-    "Topics/Reachmen.md",
-    "Topics/Places/Wayrest.md",
+    "Topics/Regions/Bjoulsae.md",
+    "Classes/Class;Merchant.md",
+    "Classes/Class;Savant.md",
+    "Topics/High Rock cultures.md",
+    "Topics/High Rock's economy.md",
+    "Classes/Class;Knight.md",
+    "Classes/Class;Noble.md",
+    "Class;Merchant",
+    "Topics/affairs of honor.md",
+    "OOG Lore",
     "R0_Lorescape",
-    "Factions",
+    "Topics/Groups",
     "Untitled.canvas",
     "Topics/Events",
     "Topics/People",
     "Topics/Places",
     "Books",
-    "Classes",
-    "Topics",
-    "Topics/Regions"
+    "Classes"
   ]
 }

@@ -10,3 +10,11 @@ I am a savant. I am a man of wide learning and cosmopolitan tastes, a well-trave
 Class;Knight Province;Morrowind
 I'm a knight. In the West, you need a horse and land to be a knight, but here, we have no horses, and all you need is good armor, good weapons, and the skill to use them. I prefer to fight with axes and shields. Since I live by my weapons, I have to pay careful attention to local feelings about [[killing and murder]] -- what's right and what's wrong.
 *;Knight; Axe, Shields, killing and murder*
+
+Class;Commoner Province;Morrowind
+I am a commoner. I do whatever needs doing -- cooking, cleaning, building, baking, making, breaking. And, by your accent, I can tell YOU are an outlander. Since you're new to these parts, perhaps you'd like me to share a little local lore.
+*;Commoner; Morrowind lore, local lore*
+
+Class;Merchant
+I am a merchant. I look for goods that are well-made, that people want to buy, that I can buy and sell at a profit. There are many different kinds of materials I can buy and sell -- [[animal products]], [[vegetable products]], [[mineral products]], even [[exotic products]]. Crafts and manufactured goods I deal in include weapons, armor, clothing, books, potions, enchanted items, and various housewares. I travel, talk with people I meet, buy what I like, and sell what people like.
+*;Merchant; generic merchants do not have services, and do not buy and sell; they are just merchant quest and scenery characters*
