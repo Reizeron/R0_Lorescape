@@ -6,26 +6,39 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 47.547797173732334,
+        "dimension": 62.34413965087282,
         "children": [
           {
-            "id": "1e9289d61813393e",
+            "id": "8082fd4c462b1b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Castellans.md",
+                "file": "Topics/Regions/Glenumbria Moors.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63cdaefa0c686863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Regions/Glenumbria Moors.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4180158e3ccef415",
         "type": "tabs",
-        "dimension": 52.452202826267666,
+        "dimension": 37.65586034912718,
         "children": [
           {
             "id": "dc69d0274ecb5c58",
@@ -103,9 +116,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Castellans.md",
+                "file": "Topics/Regions/Glenumbria Moors.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -120,9 +133,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Castellans.md",
+                "file": "Topics/Regions/Glenumbria Moors.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Castellans.md"
+                "file": "Topics/Regions/Glenumbria Moors.md"
               }
             }
           }
@@ -163,9 +176,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e9289d61813393e",
+  "active": "63cdaefa0c686863",
   "lastOpenFiles": [
+    "Topics/Regions/Greater Bretony.md",
+    "Topics/Regions/Glenumbria Moors.md",
+    "Holidays of the Iliac Bay.md",
+    "Topics/Regions/Glenumbra Moors.md",
+    "Books/Broken Diamonds.md",
+    "Books/PGE1 High Rock.md",
+    "Books/A History of Daggerfall.md",
+    "Classes/Noble.md",
+    "Books/Before the Ages of Man.md",
+    "Topics/slaughterfish.md",
+    "Books/Wayrest, Jewel of the Bay.md",
+    "Topics/Regions/Bjoulsae.md",
+    "Topics/Reach-magic.md",
     "Topics/Cumberland Dynasty.md",
+    "Topics/Castellans.md",
     "Topics/current events.md",
     "Topics/Cursed Legion.md",
     "Topics/Gardner Dynasty.md",
@@ -177,20 +204,6 @@
     "Topics/Redguard.md",
     "Topics/Reachmen.md",
     "Topics/Places/Wayrest.md",
-    "Topics/Places/Ykalon.md",
-    "Topics/Regions/Dellese Isles.md",
-    "Topics/Regions/Northern Coast.md",
-    "Topics/geography of High Rock.md",
-    "Topics/Regions/Bjoulsae.md",
-    "Topics/killing and murder.md",
-    "Topics/Breton.md",
-    "Books/PGE1 High Rock.md",
-    "Books/Frontier, Conquest.md",
-    "Topics/Direnni.md",
-    "Books/A History of Daggerfall.md",
-    "Topics/Masconian Trade Way.md",
-    "Books/PGE3 High Rock.md",
-    "Topics/High Rock lore.md",
     "R0_Lorescape",
     "Factions",
     "Untitled.canvas",
