@@ -1,1 +1,0 @@
-bear pelt, boar pelt, dreugh wax, pig sac, rat meat, spider milk, wolf pelt, wormmouth hide, 

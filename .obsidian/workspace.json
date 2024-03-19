@@ -6,7 +6,6 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 62.06896551724138,
         "children": [
           {
             "id": "c4c2236ed45ec5cf",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/exotic products.md",
+                "file": "Topics/Items/exotic products.md",
                 "mode": "preview",
                 "source": false
               }
@@ -26,31 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Class;Merchant.md",
-                "mode": "preview",
+                "file": "Topics/Items/vegetable products.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4180158e3ccef415",
-        "type": "tabs",
-        "dimension": 37.93103448275862,
-        "children": [
-          {
-            "id": "dc69d0274ecb5c58",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 218.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Class;Merchant.md",
+                "file": "Topics/Items/vegetable products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Class;Merchant.md",
+                "file": "Topics/Items/vegetable products.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -156,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Class;Merchant.md"
+                "file": "Topics/Items/vegetable products.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,32 +161,33 @@
   },
   "active": "219f39e5e442b54d",
   "lastOpenFiles": [
+    "Topics/Items/exotic products.md",
+    "Topics/Items/animal products.md",
+    "Topics/University of Gwylim.md",
+    "Topics/Items/silver.md",
+    "Topics/Items/malouchite.md",
+    "Topics/slaughterfish.md",
+    "Topics/Reach-magic.md",
+    "Topics/Items/ballom.md",
+    "OOG Lore/Ted Peterson on High Rock and Summerset - Geography.md",
+    "Topics/Places/Camlorn.md",
+    "Books/PGE1 High Rock.md",
+    "Topics/Groups/Castellans.md",
+    "Classes/Class;Merchant.md",
     "Untitled.md",
     "Topics/Items",
-    "Classes/Class;Merchant.md",
-    "Topics/exotic products.md",
-    "Topics/vegetable products.md",
-    "Topics/animal products.md",
+    "Topics/Items/vegetable products.md",
     "Books/How Orsinium Passed to the Orcs.md",
-    "Topics/cock tinsh.md",
-    "Topics/hyssop.md",
+    "Topics/Items/cock tinsh.md",
+    "Topics/Items/hyssop.md",
     "OOG Lore/Timelines/Bethesda's internal timeline (2000).md",
-    "Topics/collequiva ice.md",
-    "Topics/combwort.md",
-    "Topics/mortar and pestle.md",
-    "Topics/ballom.md",
+    "Topics/Items/collequiva ice.md",
+    "Topics/Items/combwort.md",
+    "Topics/Items/mortar and pestle.md",
     "Topics/Menevia.md",
-    "Topics/battaglir weed.md",
-    "Topics/University of Gwylim.md",
-    "Topics/silver.md",
-    "Topics/mineral products.md",
-    "Topics/malouchite.md",
+    "Topics/Items/battaglir weed.md",
+    "Topics/Items/mineral products.md",
     "Topics/Places/High Rock.md",
-    "Books/The Warp in the West.md",
-    "OOG Lore/Ted Peterson on High Rock and Summerset - Geography.md",
-    "Topics/Groups/Castellans.md",
-    "Books/PGE1 High Rock.md",
-    "OOG Lore/Timelines/Elderscrolls.com Timeline.md",
     "OOG Lore/Timelines",
     "Class;Merchant",
     "OOG Lore",
