@@ -6,7 +6,7 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 46.19085805934242,
+        "dimension": 62.06896551724138,
         "children": [
           {
             "id": "c4c2236ed45ec5cf",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exotic products.md",
+                "file": "Topics/exotic products.md",
                 "mode": "preview",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vegetable products.md",
+                "file": "Classes/Class;Merchant.md",
                 "mode": "preview",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "4180158e3ccef415",
         "type": "tabs",
-        "dimension": 53.80914194065758,
+        "dimension": 37.93103448275862,
         "children": [
           {
             "id": "dc69d0274ecb5c58",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vegetable products.md",
+                "file": "Classes/Class;Merchant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vegetable products.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Classes/Class;Merchant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -156,12 +156,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vegetable products.md"
+                "file": "Classes/Class;Merchant.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,34 +178,34 @@
   },
   "active": "219f39e5e442b54d",
   "lastOpenFiles": [
-    "silver.md",
-    "mineral products.md",
-    "exotic products.md",
-    "malouchite.md",
+    "Untitled.md",
+    "Topics/Items",
+    "Classes/Class;Merchant.md",
+    "Topics/exotic products.md",
+    "Topics/vegetable products.md",
+    "Topics/animal products.md",
+    "Books/How Orsinium Passed to the Orcs.md",
+    "Topics/cock tinsh.md",
+    "Topics/hyssop.md",
+    "OOG Lore/Timelines/Bethesda's internal timeline (2000).md",
+    "Topics/collequiva ice.md",
+    "Topics/combwort.md",
+    "Topics/mortar and pestle.md",
+    "Topics/ballom.md",
+    "Topics/Menevia.md",
+    "Topics/battaglir weed.md",
+    "Topics/University of Gwylim.md",
+    "Topics/silver.md",
+    "Topics/mineral products.md",
+    "Topics/malouchite.md",
     "Topics/Places/High Rock.md",
     "Books/The Warp in the West.md",
-    "OOG Lore/Timelines/Bethesda's internal timeline (2000).md",
     "OOG Lore/Ted Peterson on High Rock and Summerset - Geography.md",
     "Topics/Groups/Castellans.md",
     "Books/PGE1 High Rock.md",
     "OOG Lore/Timelines/Elderscrolls.com Timeline.md",
-    "OOG Lore/Timelines/The Daggerfall Chronicles Timeline.md",
-    "OOG Lore/Timelines/test.md",
-    "Books/Before the Ages of Man.md",
     "OOG Lore/Timelines",
-    "Classes/Class;Commoner.md",
-    "Topics/slaughterfish.md",
-    "vegetable products.md",
-    "Topics/my trade.md",
-    "Topics/Regions/Bjoulsae.md",
-    "Classes/Class;Merchant.md",
-    "Classes/Class;Savant.md",
-    "Topics/High Rock cultures.md",
-    "Topics/High Rock's economy.md",
-    "Classes/Class;Knight.md",
-    "Classes/Class;Noble.md",
     "Class;Merchant",
-    "Topics/affairs of honor.md",
     "OOG Lore",
     "R0_Lorescape",
     "Topics/Groups",
@@ -214,7 +213,6 @@
     "Topics/Events",
     "Topics/People",
     "Topics/Places",
-    "Books",
-    "Classes"
+    "Books"
   ]
 }

@@ -3,7 +3,7 @@
 The Cosmos is formed from the Aurbis [chaos, or totality] by Anu and Padomay.
 Akatosh (Auriel) forms and Time starts. Gods (et'Ada) form.
 Lorkhan convinces/tricks the Gods to create the mortal plane, Nirn. The mortal plane is highly magical and dangerous. As the Gods walk, its physical make-up and even time itself becomes unstable.
-When Magic (Magnus), architect of the plans for the mortal world, decides to terminate this project, the Gods convene at the [[Adamantine Tower]] [[[Direnni]] Tower, the oldest known structure in Tamriel] and decide what to do. Most leave when Magic does. Others sacrifice themselves into other forms to Stay (the Ehlnofey). In most accounts, Lorkhan is condemned to exile in the mortal realms, and his heart is torn out and cast from the Tower. Where it lands a Volcano forms. With Magic (in the Mythic Sense) gone, the Cosmos stabilizes. Elven history, finally linear, begins (ME2500).
+When Magic (Magnus), architect of the plans for the mortal world, decides to terminate this project, the Gods convene at the [[Adamantine Tower]] ([[Direnni]] Tower, the oldest known structure in Tamriel) and decide what to do. Most leave when Magic does. Others sacrifice themselves into other forms to Stay (the Ehlnofey). In most accounts, Lorkhan is condemned to exile in the mortal realms, and his heart is torn out and cast from the Tower. Where it lands a Volcano forms. With Magic (in the Mythic Sense) gone, the Cosmos stabilizes. Elven history, finally linear, begins (ME2500).
 
 ### Merethic Era
 

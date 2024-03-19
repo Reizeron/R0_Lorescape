@@ -1,0 +1,2 @@
+Class;Merchant
+Exotic products of commercial value in [[High Rock]] include the following: ambergris, Daedra skin, Daedra's heart, Dragonling scales, ectoplasm, fire salts, frost salts, Orc's blood, pearlessence, Scamp skin, Sprigann's ear, trichobesoar, Vampire dust, void salts, Unicorn's horn, Werewolf pelt and Wereboar tusk.
