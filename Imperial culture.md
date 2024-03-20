@@ -1,0 +1,2 @@
+Class;Savant Class;Bookseller Class;Bard
+Imperial culture is a pragmatic melting pot of the various contrasting cultures of the Imperial provinces, unified by a strong hereditary emperor and bureaucracy, the rule of law, a powerful professional army, and tolerance of disparate polytheistic cult worships. Education and wealth is broadly distributed through all social classes where Imperial culture has flourished; many citizens are literate and protected under Imperial law.

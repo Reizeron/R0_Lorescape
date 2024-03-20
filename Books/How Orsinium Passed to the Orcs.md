@@ -16,13 +16,13 @@ The year was 3E 399 and standing on a mountainside overlooking a vast tract of l
 
 "What must we do?" asked the Orc, his voice low and harsh, unused to the tongue of the Cyrodiils.
 
-"The first claimant, that's you, Lord [[Gortwog]], may choose the armor and weapon of the duelists. The second claimant, that's you, Lord Bowyn, may choose the location. If you would prefer, either or both you may choose a champion or you may duel yourself."
+"The first claimant, that's you, Lord [[Gortwog]], may choose the armor and weapon of the duelists. The second claimant, that's you, Lord Bowyn, may choose the location. If you would prefer, either or both you may choose a champion or you may [[duel]] yourself."
 
 The [[Breton]] and the Orc looked at one another, evaluating. Finally, [[Gortwog]] spoke, "The armor will be Orcish and the weapons will be common steel long swords. No enchantments. No wizardry allowed."
 
 "The arena will be the central courtyard of my cousin Lord Berylth's palace in [[Wayrest]]," said Bowyn, looking [[Gortwog]] in the eye scornfully. "None of your kind will be allowed in to witness."
 
-So it was agreed. [[Gortwog]] declared that he would fight the duel himself, and Bowyn, who was a fairly young man and in better than average condition, felt that he could not keep his honor without competing himself as well. Still, upon arriving at his cousin's palace a week before the duel was scheduled, he felt the need to practice. A suit of Orcish armor was purchased and for the first time in his life, Bowyn wore something of tremendous weight and limited facility.
+So it was agreed. [[Gortwog]] declared that he would fight the [[duel]] himself, and Bowyn, who was a fairly young man and in better than average condition, felt that he could not keep his honor without competing himself as well. Still, upon arriving at his cousin's palace a week before the [[duel]] was scheduled, he felt the need to practice. A suit of Orcish armor was purchased and for the first time in his life, Bowyn wore something of tremendous weight and limited facility.
 
 Bowyn and Berylth sparred in the courtyard. In ten minutes times, Bowyn had to stop. He was red-faced and out of breath from trying to move in the armor: to add to his exasperation, he had not scored one blow on his cousin, and had dozens of feinted strikes scored on him.
 
@@ -44,7 +44,7 @@ Bowyn tried to follow Tunner's instructions, but he quickly grew frustrated. And
 
 Tunner trained Bowyn hard the next two days, but her Ladyship Elysora's birthday followed hard upon them, and Bowyn enjoyed the feast thoroughly. A liquor of poppies and goose fat, and [[cock tinsh]] with buttered [[hyssop]] for a first course; roasted pike, [[combwort]], and balls of rabbit meat for a second; sliced fox tongues, [[ballom]] pudding with oyster gravy, [[battaglir weed]] and beans for the main course; [[collequiva ice]] and sugar fritters for dessert. As Bowyn was settling back afterwards, his eyes weary, he suddenly spied [[Gortwog]] and the judge entering the room.
 
-"What are you doing here?" he cried. "The duel's not for another two days!"
+"What are you doing here?" he cried. "The [[duel]]'s not for another two days!"
 
 "Lord [[Gortwog]] asked that we move it to tonight," said the judge. "You were training when my emisary arrived two days ago, but his lordship your cousin spoke for you, agreeing to the change of date."
 
