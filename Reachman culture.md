@@ -1,0 +1,4 @@
+Class;Savant Author;R-Zero
+In sharp contrast to the mainline [[Breton culture]], their eastern cousins stubbornly refuse to integrate with the common [[Imperial culture]] and prefer to maintain their old ways of living in isolated village clans and wasteland tribes. [[Reachmen]] do not currently have their own kingdoms and are ruled by [[Breton]] and Nordic minorities in their own lands which only exacerbates their withdrawn character and feelings of resentment towards outsiders.
+(continue)
+[[Reachmen]] have retained much of their character from the days of the autocratic witch-kings of old and are easily provoked into rebellions whenever a charismatic leader of another dark cult decides to forge himself a new kingdom, only to be put down by the Imperial legions or the neighboring authorities.
