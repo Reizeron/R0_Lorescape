@@ -6,7 +6,7 @@
       {
         "id": "382eb7fdcefa342d",
         "type": "tabs",
-        "dimension": 23.234200743494423,
+        "dimension": 65.82914572864321,
         "children": [
           {
             "id": "c4c2236ed45ec5cf",
@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bjoulsae river culture.md",
-                "mode": "preview",
+                "file": "Reachman culture.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
       {
         "id": "01e21176e554d292",
         "type": "tabs",
-        "dimension": 76.76579925650557,
+        "dimension": 34.17085427135678,
         "children": [
           {
             "id": "ac89371afe02f430",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 312.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reachman culture.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reachman culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reachman culture.md"
+              }
             }
           }
         ],
@@ -173,34 +177,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac89371afe02f430",
+  "active": "51bb652b001b3c06",
   "lastOpenFiles": [
+    "Orcish culture.md",
+    "Reachman culture.md",
+    "Masconian Trade Way.md",
+    "Imperial law.md",
+    "Imperial culture.md",
+    "Topics/Groups/Breton.md",
     "Bjoulsae river culture.md",
     "Breton culture.md",
-    "Reachman culture.md",
     "Books/PGE1 High Rock.md",
     "Topics/my trade.md",
     "Reachmen.md",
     "Topics/High Rock cultures.md",
-    "Imperial culture.md",
-    "Imperial law.md",
     "Topics/Items/animal products.md",
     "Topics/Items/vegetable products.md",
     "Topics/Items/exotic products.md",
     "Classes/Class;Knight.md",
     "Eltheric Ocean.md",
     "Topics/duel.md",
-    "Masconian Trade Way.md",
     "Topics/Items/malouchite.md",
     "Books/How Orsinium Passed to the Orcs.md",
     "Topics/Places/High Rock.md",
     "Books/PGE3 High Rock.md",
-    "Orcish culture.md",
     "Topics/slaughterfish.md",
     "Topics/Reach-magic.md",
     "Topics/Old Bretic.md",
     "Topics/killing and murder.md",
-    "Topics/Masconian Trade Way.md",
     "Topics/Items",
     "OOG Lore/Timelines",
     "Class;Merchant",
