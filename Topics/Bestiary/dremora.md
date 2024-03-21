@@ -1,0 +1,2 @@
+Class;Sorcerer Class;Priest
+The Dremora are a class of intelligent, powerful war spirits in the service of the Daedra Lord Mehrunes Dagon. Daedra hearts have modest magical properties.

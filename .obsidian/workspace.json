@@ -10,7 +10,7 @@
           {
             "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 69.90384615384615,
+            "dimension": 57.98076923076923,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -27,34 +27,21 @@
           {
             "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 30.096153846153843,
+            "dimension": 42.01923076923077,
             "children": [
-              {
-                "id": "5e49d6810f4e51dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/Items/animal products.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
               {
                 "id": "841d51de1919ea3f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "undead creatures.md",
+                    "file": "Topics/Regions/Greater Bretony.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -123,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Topics/Regions/Greater Bretony.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Topics/Regions/Greater Bretony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Topics/Regions/Greater Bretony.md"
+              }
             }
           }
         ],
@@ -181,34 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7a7662ab14ce5d",
+  "active": "841d51de1919ea3f",
   "lastOpenFiles": [
-    "undead creatures.md",
-    "Topics/Items/animal products.md",
-    "Topics/Items/exotic products.md",
-    "Topics/Items/vegetable products.md",
-    "Topics/races.md",
-    "Topics/Groups/Orc.md",
-    "Topics/native beastfolk.md",
-    "Topics/native creatures.md",
-    "Topics/goblin-ken.md",
-    "Topics/Groups/Breton.md",
-    "Topics/Reachman culture.md",
-    "Topics/High Rock cultures.md",
-    "Topics/Orcish culture.md",
-    "Topics/Bjoulsae river culture.md",
-    "Topics/Reachmen.md",
-    "Topics/killing and murder.md",
-    "Books/PGE3 High Rock.md",
-    "Topics/the Empire.md",
-    "Topics/High Rock lore.md",
-    "Topics/current events.md",
-    "Topics/High Rock's economy.md",
-    "Topics/settlements in High Rock.md",
-    "Books/PGE1 High Rock.md",
-    "Topics/geographic regions.md",
-    "Topics/Groups/river tribes.md",
     "Topics/Regions/Bjoulsae.md",
+    "Topics/Groups/Breton.md",
+    "Topics/geography of High Rock.md",
+    "Topics/Places/High Rock.md",
+    "Books/PGE1 High Rock.md",
+    "Topics/Breton culture.md",
+    "Books/PGE3 High Rock.md",
+    "Topics/Bestiary/Daedric summonings.md",
+    "Topics/Items/vegetable products.md",
+    "Topics/Regions/Dellese Isles.md",
+    "Topics/Bestiary",
+    "Topics/Regions/Glenumbria Moors.md",
+    "Topics/Eltheric Ocean.md",
+    "Topics/shrines.md",
+    "Topics/necromancers.md",
+    "Topics/Bestiary/dremora.md",
+    "Topics/Bestiary/golden saint.md",
+    "Topics/Bestiary/medusa.md",
+    "Topics/Bestiary/clannfear.md",
+    "Topics/Bestiary/scamp.md",
+    "Topics/Bestiary/ogrim.md",
+    "Topics/Bestiary/hunger.md",
+    "Topics/Bestiary/perthan.md",
+    "Topics/Bestiary/Atronachs.md",
+    "Topics/Items/exotic products.md",
+    "medusa tendril.md",
+    "Topics/my trade.md",
     "Topics/Items",
     "OOG Lore/Timelines",
     "Class;Merchant",
@@ -218,7 +210,6 @@
     "Untitled.canvas",
     "Topics/Events",
     "Topics/People",
-    "Topics/Places",
-    "Books"
+    "Topics/Places"
   ]
 }

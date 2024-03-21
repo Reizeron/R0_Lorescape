@@ -1,0 +1,2 @@
+Class;Sorcerer Class;Priest
+The scamp is a weak, cowardly servant of Mehrunes Dagon. Scamps may be summoned by conjurers, and their skin is sought by alchemists for its magical properties.
