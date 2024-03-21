@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "414c900509f540de",
+        "id": "0393785258507428",
         "type": "split",
         "children": [
           {
-            "id": "3417460bb382ffa0",
+            "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 50.57692307692307,
+            "dimension": 69.90384615384615,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -25,23 +25,36 @@
             ]
           },
           {
-            "id": "31e82385b66fce40",
+            "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 49.42307692307693,
+            "dimension": 30.096153846153843,
             "children": [
               {
-                "id": "5d1113b56f6ecb74",
+                "id": "5e49d6810f4e51dc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "settlements in High Rock.md",
-                    "mode": "preview",
+                    "file": "Topics/Items/animal products.md",
+                    "mode": "source",
                     "source": true
                   }
                 }
+              },
+              {
+                "id": "841d51de1919ea3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "undead creatures.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -94,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -111,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "settlements in High Rock.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "settlements in High Rock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "settlements in High Rock.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,34 +181,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d1113b56f6ecb74",
+  "active": "3c7a7662ab14ce5d",
   "lastOpenFiles": [
-    "settlements in High Rock.md",
+    "undead creatures.md",
+    "Topics/Items/animal products.md",
+    "Topics/Items/exotic products.md",
+    "Topics/Items/vegetable products.md",
+    "Topics/races.md",
+    "Topics/Groups/Orc.md",
+    "Topics/native beastfolk.md",
+    "Topics/native creatures.md",
+    "Topics/goblin-ken.md",
+    "Topics/Groups/Breton.md",
+    "Topics/Reachman culture.md",
+    "Topics/High Rock cultures.md",
+    "Topics/Orcish culture.md",
+    "Topics/Bjoulsae river culture.md",
+    "Topics/Reachmen.md",
+    "Topics/killing and murder.md",
     "Books/PGE3 High Rock.md",
+    "Topics/the Empire.md",
+    "Topics/High Rock lore.md",
+    "Topics/current events.md",
+    "Topics/High Rock's economy.md",
+    "Topics/settlements in High Rock.md",
     "Books/PGE1 High Rock.md",
-    "geographic regions.md",
+    "Topics/geographic regions.md",
     "Topics/Groups/river tribes.md",
     "Topics/Regions/Bjoulsae.md",
-    "Topics/Regions/Glenumbria Moors.md",
-    "Topics/Items/mineral products.md",
-    "Topics/Items/malouchite.md",
-    "Wrothgarian mountains.md",
-    "Topics/Items/rimewort root.md",
-    "Topics/Items/sengreen.md",
-    "Topics/Items/vegetable products.md",
-    "Topics/Places/High Rock.md",
-    "Topics/geography of High Rock.md",
-    "Reachmen.md",
-    "Bjoulsae river culture.md",
-    "Orcish culture.md",
-    "Topics/High Rock cultures.md",
-    "races.md",
-    "Imperial culture.md",
-    "the Empire.md",
-    "Fines and compensation.md",
-    "Imperial law.md",
-    "Class;Pilgrim.md",
-    "Classes/Class;Barbarian.md",
     "Topics/Items",
     "OOG Lore/Timelines",
     "Class;Merchant",
