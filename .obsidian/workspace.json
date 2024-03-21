@@ -4,77 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "382eb7fdcefa342d",
-        "type": "tabs",
-        "dimension": 53.517587939698494,
+        "id": "414c900509f540de",
+        "type": "split",
         "children": [
           {
-            "id": "c4c2236ed45ec5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/PGE1 High Rock.md",
-                "mode": "source",
-                "source": false
+            "id": "3417460bb382ffa0",
+            "type": "tabs",
+            "dimension": 50.57692307692307,
+            "children": [
+              {
+                "id": "3c7a7662ab14ce5d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               }
-            }
+            ]
           },
           {
-            "id": "51bb652b001b3c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imperial culture.md",
-                "mode": "source",
-                "source": false
+            "id": "31e82385b66fce40",
+            "type": "tabs",
+            "dimension": 49.42307692307693,
+            "children": [
+              {
+                "id": "5d1113b56f6ecb74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "settlements in High Rock.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "ab376d2b692e84b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "small predators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb75d49396cbf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "small predators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "01e21176e554d292",
-        "type": "tabs",
-        "dimension": 46.482412060301506,
-        "children": [
-          {
-            "id": "ac89371afe02f430",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -124,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -140,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "small predators.md",
+                "file": "settlements in High Rock.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "small predators.md",
+                "file": "settlements in High Rock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "small predators.md"
+                "file": "settlements in High Rock.md"
               }
             }
           }
@@ -189,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 451.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +173,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab376d2b692e84b0",
+  "active": "5d1113b56f6ecb74",
   "lastOpenFiles": [
-    "Reachman culture.md",
-    "native creatures.md",
-    "large predators.md",
-    "Imperial law.md",
-    "water creatures.md",
-    "small predators.md",
-    "Reachmen.md",
-    "Orcish culture.md",
-    "Topics/slaughterfish.md",
-    "Breton culture.md",
-    "flying creatures.md",
-    "Imperial culture.md",
-    "Bjoulsae river culture.md",
-    "Eltheric Ocean.md",
-    "Masconian Trade Way.md",
-    "Topics/Items/silver.md",
-    "Topics/Items/sengreen.md",
-    "Topics/Groups/river tribes.md",
-    "Topics/Groups/Redguard.md",
-    "Topics/Groups/Manmer.md",
-    "Topics/Groups/Breton.md",
+    "settlements in High Rock.md",
+    "Books/PGE3 High Rock.md",
     "Books/PGE1 High Rock.md",
-    "Topics/my trade.md",
-    "Topics/High Rock cultures.md",
-    "Topics/Items/animal products.md",
+    "geographic regions.md",
+    "Topics/Groups/river tribes.md",
+    "Topics/Regions/Bjoulsae.md",
+    "Topics/Regions/Glenumbria Moors.md",
+    "Topics/Items/mineral products.md",
+    "Topics/Items/malouchite.md",
+    "Wrothgarian mountains.md",
+    "Topics/Items/rimewort root.md",
+    "Topics/Items/sengreen.md",
     "Topics/Items/vegetable products.md",
+    "Topics/Places/High Rock.md",
+    "Topics/geography of High Rock.md",
+    "Reachmen.md",
+    "Bjoulsae river culture.md",
+    "Orcish culture.md",
+    "Topics/High Rock cultures.md",
+    "races.md",
+    "Imperial culture.md",
+    "the Empire.md",
+    "Fines and compensation.md",
+    "Imperial law.md",
+    "Class;Pilgrim.md",
+    "Classes/Class;Barbarian.md",
     "Topics/Items",
     "OOG Lore/Timelines",
     "Class;Merchant",

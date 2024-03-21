@@ -1,1 +1,1 @@
-Animal products of commercial value in [[High Rock]] include the following: bear pelt, boar pelt, dreugh wax, pig sac, rat meat, scales, snail slime, spider milk, wolf pelt, wormmouth hide, 
+Animal products of commercial value in High Rock include the following: bear pelt, boar pelt, dreugh wax, pig sac, rat meat, scales, snail slime, spider milk, wolf pelt, wormmouth hide, 

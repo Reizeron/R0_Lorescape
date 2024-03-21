@@ -15,6 +15,9 @@ Class;Commoner Province;Morrowind
 I am a commoner. I do whatever needs doing -- cooking, cleaning, building, baking, making, breaking. And, by your accent, I can tell YOU are an outlander. Since you're new to these parts, perhaps you'd like me to share a little local lore.
 *;Commoner; Morrowind lore, local lore*
 
+Class;Scout
+I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the [[geography of High Rock]], and the various [[geographic regions]]. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
+
 Class;Scout Province;Morrowind
 I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the geography of Vvardenfell, and the various geographic regions. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
 *;Scout; Geography*
@@ -22,6 +25,9 @@ I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as
 Class;Agent Province;Morrowind
 I'm an agent. I work for a House, or a company, or the state, and I do things that need doing. All sorts of things. Mostly I handle matters in the business or diplomatic line, things that require mercantile skills, or the arts of speechcraft. I trade in knowledge -- hard facts and rumors. 'Knowledge is power,' as they say. And sometimes I do other sorts of things. Things I can't talk about.
 *;Agent; Rumors, Mercantile*
+
+Class;Pilgrim
+I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of [[pilgrimages]] that reenact the tests and trials of gods, saints, and heroes. I visit the [[shrines]] and make devotions everywhere I travel...
 
 Class;Pilgrim Province;Morrowind
 I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of pilgrimages that reenact the tests and trials of gods, saints, and heroes. I visit the shrines and make devotions everywhere I travel -- in village Temple shrines, and the High Fane of Vivec, or at the remote shrines scattered all over Vvardenfell.
@@ -50,6 +56,12 @@ I'm what they call a crusader. Crusaders used to be warriors in service to a cul
 Class;Barbarian
 I'm a barbarian, and proud of it. I like the wilderness, and know how to live comfortably off the land. I know the various creatures of the wild, how to hunt them, what bits are good to eat, and what bits the city-folk will pay for. I know weapons and armor, and how to stay healthy, so I can play soldier for pay. But I hate taking orders, so I rather live by hunting.
 *;Barbarian; Wildlife*
+*Replace "various creatures" with "various [[native creatures]]" - R-Zero*
+
+Class;Hunter Province;Morrowind
+I am a hunter. I range across the ashlands and wastes, hunting for meat and hides. I know the [[native creatures]] of Vvardenfell, and know to avoid the diseased creatures, and the blighted creatures, for they are foul and worthless, and deadly to the careless hunter. I know the Ashlands and the Grazelands, Azura's Coast and Molag Amur, and can tell you of these places.
+*;Hunter; Ashlands geography*
+*Add a High Rock version - R-Zero*
 
 Class;Merchant
 I am a merchant. I look for goods that are well-made, that people want to buy, that I can buy and sell at a profit. There are many different kinds of materials I can buy and sell -- [[animal products]], [[vegetable products]], [[mineral products]], even [[exotic products]]. Crafts and manufactured goods I deal in include weapons, armor, clothing, books, potions, enchanted items, and various housewares. I travel, talk with people I meet, buy what I like, and sell what people like.

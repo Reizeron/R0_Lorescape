@@ -81,13 +81,13 @@ Ted:
 "Yeah, as I said, we named them after beta testers and it works - both are trying to fix what’s wrong!"
 
 Atharaon:
-"Was Ephen/S’ephen always intended to be a Dunmer of the First Era, an actual [[Breton]] god or both? How did he relate to Jephre? Could the name have existed previous to the Dunmer as a name for a nature god?"
+"Was Ephen/S’ephen always intended to be a Dunmer of the First Era, an actual Breton god or both? How did he relate to Jephre? Could the name have existed previous to the Dunmer as a name for a nature god?"
 
 Ted:
 "The King Edward series was never finished. They’re not still using that in the games, are they? Anyway, rising to godhood is standard for the series so in that sense, it’s proof of concept. Both Ephen and Jephre are nature gods. But yeah, I think a pre-existing nature god might have been the idea. The Dunmer was named after the god."
 
 Atharaon:
-"Was there any background lore on those deities mentioned in the [[Breton]] Calendar, like Druagaa or Secunda?"
+"Was there any background lore on those deities mentioned in the Breton Calendar, like Druagaa or Secunda?"
 Ted:
 "Nope."
 

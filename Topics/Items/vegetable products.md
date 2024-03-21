@@ -1,2 +1,2 @@
-Class;Merchant
-Vegetable products of commercial value in [[High Rock]] include the following: [[apple]], [[battaglir weed]], drothweed, foxglove, heather, [[sengreen]], [[rimewort root]], narcissus, thyrwort,  
+Class;Merchant Author;R-Zero
+Vegetable products of commercial value in High Rock include the following: [[apple]], [[battaglir weed]], [[combwort]], drothweed, foxglove, heather, [[sengreen]], [[rimewort root]], narcissus, thyrwort,  

@@ -1,0 +1,4 @@
+Class;Savant Author;R-Zero
+The smallest "settlements" in the province are the temporary campsites comprised of several portable tents. Rural people live in [[Breton village style]], which are collections of half-timbered structures of one or two stories. Town and city settlements are usually a combination of the cosmopolitan [[Imperial urban style]], which itself is strongly influenced by traditional Breton architecture, and the [[Breton manorial style]].
+(continue)
+The rural Reachmen prefer to live in secluded villages consisting of several well-concealed pit-houses. The river tribes of Bjoulsae live in the [[Wander-town style]] which is a group of heavy horse-drawn wagons arranged in a circular or rectangular shape and reinforced by portable walls. 
