@@ -1,4 +1,4 @@
 *Also referred to in MW dialogue as "Greater Betony". The spelling "Greater Bretony" is used instead in both PGE1 and the in-game book "Provinces of Tamriel", and it does make more sense in general, so I'll consider the latter spelling to be the correct one. - R-Zero*
 
 Class;Savant Author;R-Zero
-Greater Bretony is the heavy settled peninsula in the westernmost part of the High Rock province.
+Greater Bretony is the heavy settled peninsula in the westernmost part of the High Rock province. It's considered to be the cradle of the Breton culture and civilization. Many towns and cities, ancient and new, line its shores both on the [[Iliac Bay]] and the sea coast, and travel across the country is easy along the developed road system. Politically, the region is dominated by the [[Kingdom of Daggerfall]] in the south, the [[Kingdom of Camlorn]] in the north and the [[Kingdom of Wayrest]] in the east.
