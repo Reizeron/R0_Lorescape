@@ -1,2 +1,2 @@
 Class;Sorcerer Class;Priest
-Atronachs encountered here are of three elemental domains: flame atronachs, or fire daedra; frost atronachs, or frost daedra; and storm atronachs, also called storm daedra.
+Atronachs encountered here are of three elemental domains: [[flame atronachs]], or fire daedra; [[frost atronachs]], or frost daedra; and [[storm atronachs]], also called storm daedra.

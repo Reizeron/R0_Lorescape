@@ -1,0 +1,2 @@
+Class;Alchemist
+Frost salts are the crystalline compound that precipitates from elemental frost in solution. Such residues may be collected from the remains of [[frost atronachs]] that have been banished from the mortal plane.
