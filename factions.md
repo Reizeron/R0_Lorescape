@@ -1,0 +1,5 @@
+Class;Noble Class;Savant Author;R-Zero
+Among the myriad of factions in High Rock, these are the most important ones. The primary Imperial factions are the [[Imperial legion]] and the [[Imperial Guilds]] of Fighters, Mages, and Thieves. The primary native Breton factions are the [[royal courts]] of the local kingdoms, the [[regional temples]] and the many [[knightly orders]] associated with both. Finally, the [[witch covens]] and cells of the [[Dark Brotherhood]] and the [[Cult of the Black Worm]] can be found throughout the province. 
+
+Class;Noble Class;Savant Province;Morrowind
+Observers of Vvardenfell's politics have identified eleven main factions, some aligned with Imperial interests, some aligned with native Dunmer interests. The primary Imperial factions are the Imperial cult, the Imperial legions, and the Fighters, Mages, and Thieves Guilds. The primary native Dunmer factions are the three Great Houses, Redoran, Hlaalu, and Telvanni, the Temple, and the Morag Tong. The Ashlander barbarians are native Dunmer, but are opposed to both the Empire and the settled Dunmer.

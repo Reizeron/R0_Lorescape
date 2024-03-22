@@ -37,6 +37,10 @@ Class;Scout Province;Morrowind
 I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the geography of ==Vvardenfell==, and the various geographic regions. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
 *;Scout; Geography*
 
+Class;Agent Author;R-Zero
+I'm an agent. I work for one of the [[factions]] like a guild, a company, or the state, and I do things that need doing. All sorts of things. Mostly I handle matters in the business or diplomatic line, things that require mercantile skills, or the arts of speechcraft. I trade in knowledge -- hard facts and rumors. 'Knowledge is power,' as they say. And sometimes I do other sorts of things. Things I can't talk about.
+;Agent; Rumors, Mercantile, Factions*
+
 Class;Agent Province;Morrowind
 I'm an agent. I work for a ==House==, or a company, or the state, and I do things that need doing. All sorts of things. Mostly I handle matters in the business or diplomatic line, things that require mercantile skills, or the arts of speechcraft. I trade in knowledge -- hard facts and rumors. 'Knowledge is power,' as they say. And sometimes I do other sorts of things. Things I can't talk about.
 *;Agent; Rumors, Mercantile*
