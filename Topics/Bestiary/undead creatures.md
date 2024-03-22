@@ -1,5 +1,5 @@
 Class;Priest Class;Mage
-Undead creatures encountered in High Rock include spirit revenants like the [[ghost]], the [[wraith]], the [[spectral hound]], and also those bound to inanimate objects like the armored [[dullahan]]. Fleshy revenants are the [[zombie]] and the [[flesh atronach]], fleshless revenants include a [[skeleton]] and a [[bone golem]]. But the most profane undead creature is the [[vampire]].
+Undead creatures encountered in High Rock include spirit revenants like the [[ghost]], the [[wraith]], the [[spectral hound]], and also those bound to inanimate objects like the armored [[dullahan]]. Fleshy revenants are the [[zombie]] and the [[flesh atronach]], fleshless revenants include a [[skeleton]] and a [[bone golem]]. But the most profane undead creatures are the [[vampires]].
 
 Class;Priest Class;Mage Province;Morrowind
 Undead creatures encountered on Vvardenfell include ghosts like the ancestor ghost, guardian ancestor, wraith, dwarven ghost, dwarven guardian, and dwarven wraith. A fleshy revenant is called a bonewalker, and includes the bonewalker and the greater bonewalker. Fleshless revenants include skeletons, skeleton archers, skeleton warriors, skeleton champions, and bonelords. Vampires, profane undead creatures, have been hunted almost to extinction.

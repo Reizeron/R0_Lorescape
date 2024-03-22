@@ -1,0 +1,3 @@
+Class;Savant Author;R-Zero
+While the term "lycanthrope" originally referred to the ubiquitous [[werewolves]], it's now commonly used for all kinds of werebeasts. Two other varieties can be found in High Rock - the [[wereboars]] and the [[werebears]], the latter appearing mostly in the colder northern regions of the province.
+Lycanthropes are universally reviled throughout the Empire, the only exception being perhaps the Western Reach where witch covens hold the most sway over the local population.

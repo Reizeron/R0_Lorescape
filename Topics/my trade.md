@@ -20,6 +20,9 @@ I'm what they call a crusader. Crusaders used to be warriors in service to a cul
 *;Crusader; Blunt, Heavy Armor, Armorer*
 
 Class;Witchhunter
+I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are [[necromancers]] who defile the dead, the evil Daedra worshippers and the abominations like [[vampires]] and [[lycanthropes]]. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
+
+Class;Witchhunter
 I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are [[necromancers]], who defile the bodies and spirits of the sacred dead. Equally abominable are the evil Daedra worshippers. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
 *;Witchhunter; Daedra, Necromancy*
 

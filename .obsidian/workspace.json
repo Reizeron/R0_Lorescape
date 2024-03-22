@@ -10,7 +10,7 @@
           {
             "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 80.76923076923077,
+            "dimension": 72.98076923076923,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -27,7 +27,7 @@
           {
             "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 19.230769230769234,
+            "dimension": 27.019230769230766,
             "children": [
               {
                 "id": "1dc4e20bda3aa2ea",
@@ -47,9 +47,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Topics/Items/exotic products.md",
+                    "file": "bonemeal.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   }
                 }
               }
@@ -163,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,32 +181,32 @@
   },
   "active": "3c7a7662ab14ce5d",
   "lastOpenFiles": [
-    "Topics/Items/exotic products.md",
     "bonemeal.md",
-    "Scamp skin.md",
-    "Hunger's tongue.md",
-    "Daedra's heart.md",
-    "Daedra skin.md",
-    "frost salts.md",
+    "Werewolf pelt.md",
+    "lycanthropes.md",
     "Vampire dust.md",
+    "Hunger's tongue.md",
+    "Topics/my trade.md",
+    "Topics/Bestiary/undead creatures.md",
+    "Topics/necromancers.md",
+    "corruption of mortals.md",
+    "Medusa tendril.md",
+    "Topics/Items/exotic products.md",
+    "Scamp skin.md",
     "void salts.md",
+    "Daedra skin.md",
+    "Daedra's heart.md",
+    "Topics/Bestiary/perthan.md",
+    "frost salts.md",
     "fire salts.md",
     "Topics/Bestiary/Atronachs.md",
     "Topics/Bestiary/ogrim.md",
-    "Topics/Bestiary/perthan.md",
     "Topics/Bestiary/golden saint.md",
     "Topics/Bestiary/medusa.md",
     "Topics/Bestiary/clannfear.md",
     "Topics/Bestiary/scamp.md",
     "Topics/Bestiary/hunger.md",
     "Topics/Bestiary/Daedric summonings.md",
-    "Topics/politics.md",
-    "Topics/necromancers.md",
-    "Topics/my trade.md",
-    "Topics/Masconian Trade Way.md",
-    "Topics/current events.md",
-    "Topics/High Rock lore.md",
-    "Topics/factions.md",
     "Untitled",
     "Factions",
     "Topics/Bestiary",
