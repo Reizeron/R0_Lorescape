@@ -1,0 +1,12 @@
+| Rank:       |
+| ----------- |
+| Servant     |
+| Page        |
+| Retainer    |
+| Pursuivant  |
+| Herald      |
+| Esquire     |
+| Knight      |
+| Chamberlain |
+| Councillor  |
+| Steward     |

@@ -10,7 +10,7 @@
           {
             "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 61.346153846153854,
+            "dimension": 69.90384615384615,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -27,7 +27,7 @@
           {
             "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 38.65384615384615,
+            "dimension": 30.096153846153843,
             "children": [
               {
                 "id": "1dc4e20bda3aa2ea",
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "royal courts.md",
+                    "file": "Topics/Kingdoms of High Rock.md",
                     "mode": "source",
                     "source": true
                   }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:Topics/Regions file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Topics/Kingdoms of High Rock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Topics/Kingdoms of High Rock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Topics/Kingdoms of High Rock.md"
+              }
             }
           }
         ],
@@ -168,35 +171,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c7a7662ab14ce5d",
+  "active": "1dc4e20bda3aa2ea",
   "lastOpenFiles": [
-    "royal courts.md",
+    "Factions/Faction;Court of Daggerfall.md",
+    "Topics/Kingdoms of High Rock.md",
+    "Topics/court of Daggerfall.md",
+    "Topics/court of Wayrest.md",
+    "Topics/necromancers.md",
+    "Topics/royal courts.md",
+    "Untitled",
+    "Factions",
+    "Books/PGE1 High Rock.md",
     "Topics/Items/malouchite.md",
-    "Kingdoms of High Rock.md",
-    "Imperial Guilds.md",
+    "Topics/Imperial Guilds.md",
     "Topics/my trade.md",
-    "factions.md",
+    "Topics/factions.md",
     "Books/PGE3 High Rock.md",
     "Topics/races.md",
-    "Wrothgarian Mountains.md",
+    "Topics/Regions/Wrothgarian Mountains.md",
     "Topics/Regions/Greater Bretony.md",
     "Topics/Regions/Bjoulsae.md",
-    "Northern Coast.md",
+    "Topics/Regions/Northern Coast.md",
     "Topics/Regions/Western Reach.md",
     "Topics/Reachman culture.md",
     "Topics/Bestiary/domestic animals.md",
     "Topics/geography of High Rock.md",
     "Topics/the Empire.md",
-    "Books/PGE1 High Rock.md",
     "Topics/Places/High Rock.md",
     "Topics/Groups/Breton.md",
     "Topics/Breton culture.md",
     "Topics/Bestiary/Daedric summonings.md",
-    "Topics/Items/vegetable products.md",
-    "Topics/Regions/Dellese Isles.md",
     "Topics/Bestiary",
-    "Topics/Regions/Glenumbria Moors.md",
-    "Topics/Eltheric Ocean.md",
     "Topics/Items",
     "OOG Lore/Timelines",
     "Class;Merchant",
@@ -204,8 +209,6 @@
     "R0_Lorescape",
     "Topics/Groups",
     "Untitled.canvas",
-    "Topics/Events",
-    "Topics/People",
-    "Topics/Places"
+    "Topics/Events"
   ]
 }
