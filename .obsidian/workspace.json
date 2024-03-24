@@ -10,7 +10,7 @@
           {
             "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 75.86538461538461,
+            "dimension": 57.403846153846146,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -27,7 +27,7 @@
           {
             "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 24.134615384615383,
+            "dimension": 42.59615384615385,
             "children": [
               {
                 "id": "defa7609887843e2",
@@ -59,8 +59,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Books/Wayrest, Jewel of the Bay.md",
-                    "mode": "source",
+                    "file": "Topics/Order of the Black Worm.md",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Wayrest, Jewel of the Bay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Wayrest, Jewel of the Bay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Books/Wayrest, Jewel of the Bay.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,16 +192,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15ea65bc85e089e1",
+  "active": "3c7a7662ab14ce5d",
   "lastOpenFiles": [
+    "Topics/Order of the Black Worm.md",
+    "Topics/Bestiary/undead creatures.md",
     "README.md",
+    "Topics/necromancers.md",
     "Books/Wayrest, Jewel of the Bay.md",
-    "durzog.md",
+    "Topics/Bestiary/durzog.md",
     "Topics/large predators.md",
     "Topics/Bestiary/slaughterfish.md",
     "wormmouth.md",
-    "Topics/necromancers.md",
-    "necromancy.md",
+    "Topics/necromancy.md",
     "Classes/Class;Savant.md",
     "Classes/Class;Commoner.md",
     "Classes/Class;Barbarian.md",
@@ -214,8 +212,7 @@
     "Classes/Class;Merchant.md",
     "Classes/Class;Noble.md",
     "Classes/Class;Pilgrim.md",
-    "Order of the Black Worm.md",
-    "secret societies.md",
+    "Topics/secret societies.md",
     "Books/A Game at Dinner.md",
     "Topics/Items/animal products.md",
     "Books/PGE1 Orsinium.md",
@@ -223,7 +220,6 @@
     "Books/The Warp in the West.md",
     "Books/How Orsinium Passed to the Orcs.md",
     "Books/Frontier, Conquest.md",
-    "Books/Broken Diamonds.md",
     "Untitled",
     "Factions",
     "Topics/Bestiary",
