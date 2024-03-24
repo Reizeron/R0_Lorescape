@@ -1,13 +1,13 @@
 #book
 by Ryston Baylor
 
-I remember as a young lad in Glenumbria Moors my first Broken Diamonds holiday. The big noisy festivals I remember very well -- Harvests' End, Mid Year, New Year, the Emperor's Day. All of these I have memories of that stretch back before I became truly aware of the meaning of our celebrating. On the 19th of Frost Fall, every year, my family and I would walk to a ruined castle in the middle of the wilderness, together with everyone else we knew in the Moors. Hands clutched in hands, we would form an enormous circle around the ruins, and head reverently bowed we would sing a song, the Sephavre.
+I remember as a young lad in Glenumbria Moors my first Broken Diamonds holiday. The big noisy festivals I remember very well -- Harvests' End, Mid Year, New Year, the Emperor's Day. All of these I have memories of that stretch back before I became truly aware of the meaning of our celebrating. On the 19th of Frost Fall, every year, my family and I would walk to a ruined castle in the middle of the wilderness, together with everyone else we knew in the Moors. Hands clutched in hands, we would form an enormous circle around the ruins, and head reverently bowed we would sing a song, the [[Sephavre]].
 
 For years, we did this and I never asked why. It is an odd thing that normally curious children, from my experience, never ask questions about Broken Diamonds, and adults seldom volunteer information. Gradually, as we learn about our homeland through university or the prattling of ancient relatives, we come to guess and then know the meaning of Broken Diamonds.
 
 I cannot be objective as a native of Glenumbria Moors, but visitors have told me that the sorrow -- more often they use the word shame -- of the natives is almost overwhelming. There is a sense that a great and ancient crime still burns in the conscience of the people of the Moors. Though it did not happen in our lifetimes, we know that the debt is not yet paid.
 
-I refer, of course, to the murder of Her Terrible Majesty, Kintyra II, Empress of Tamriel, on the frozen morning of the 23rd of Frost Fall, in the year 3E 123.
+I refer, of course, to the murder of Her Terrible Majesty, [[Kintyra II]], Empress of Tamriel, on the frozen morning of the 23rd of Frost Fall, in the year 3E 123.
 
 We do not know the name of the castle where she was held; we do not know the name of her murderer (though the man who ordered the murder was her cousin and usurper, Uriel III); we do not know where she was buried. But our ancestors knew that their rightful ruler was imprisoned somewhere in their land, and did nothing to help her. For that, we bear their shame.
 

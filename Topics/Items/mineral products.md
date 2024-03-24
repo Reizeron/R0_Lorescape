@@ -9,7 +9,7 @@ Mineral products of commercial value in High Rock include the following:
 7. [[quicksilver]], 
 8. [[lead]], 
 9. [[lodestone]], 
-10. [[malouchite]], 
+10. [[maulochite]], 
 11. [[raw adamantium]], 
 12. [[ruby]], 
 13. [[sapphire]] and 
