@@ -1,0 +1,12 @@
+| Rank:     |
+| --------- |
+| Associate |
+| Student   |
+| Bachelor  |
+| Magister  |
+| Lecturer  |
+| Docent    |
+| Professor |
+| Dean      |
+| Provost   |
+| Rector    |

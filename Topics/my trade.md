@@ -15,15 +15,18 @@ Class;Commoner Province;Morrowind
 I am a commoner. I do whatever needs doing -- cooking, cleaning, building, baking, making, breaking. And, by your accent, I can tell YOU are an ==outlander==. Since you're new to these parts, perhaps you'd like me to share a little local lore.
 *;Commoner; Morrowind lore, local lore*
 
+Class;Apothecary
+I'm an apothecary. I brew and sell potions to heal wounds, restore bodily and mental attributes, and cure [[disease|diseases]]. I also buy and sell ingredients.
+
 Class;Crusader
-I'm what they call a crusader. Crusaders used to be warriors in service to a cult, but now any heavily armored warrior with a good cause calls himself a crusader. My good cause is hunting down [[necromancers]] and witches and bandits and other malefactors. And I do well by doing good -- salvage on arms, armor, and goods taken from malefactors earns me a good living. I'm tough and strong, so I wear heavy armor and use blunt weapons. And I won't fight with worn weapons or worn armor, so I'm my own armorer.
+I'm what they call a crusader. Crusaders used to be warriors in service to a cult, but now any heavily armored warrior with a good cause calls himself a crusader. My good cause is hunting down necromancers and witches and bandits and other malefactors. And I do well by doing good -- salvage on arms, armor, and goods taken from malefactors earns me a good living. I'm tough and strong, so I wear heavy armor and use blunt weapons. And I won't fight with worn weapons or worn armor, so I'm my own armorer.
 *;Crusader; Blunt, Heavy Armor, Armorer*
 
-Class;Witchhunter
-I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are [[necromancers]] who defile the dead, the evil Daedra worshippers and the abominations like [[vampires]] and [[lycanthropes]]. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
+~~Class;Witchhunter~~
+~~I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are necromancers who defile the dead, the evil Daedra worshippers and the abominations like vampires and lycanthropes. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.~~
 
 Class;Witchhunter
-I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are [[necromancers]], who defile the bodies and spirits of the sacred dead. Equally abominable are the evil Daedra worshippers. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
+I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are necromancers, who defile the bodies and spirits of the sacred dead. Equally abominable are the evil Daedra worshippers. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
 *;Witchhunter; Daedra, Necromancy*
 
 Class;Witch Author;R-Zero
@@ -41,7 +44,7 @@ I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as
 *;Scout; Geography*
 
 Class;Agent Author;R-Zero
-I'm an agent. I work for one of the [[factions]] like a guild, a company, or the state, and I do things that need doing. All sorts of things. Mostly I handle matters in the business or diplomatic line, things that require mercantile skills, or the arts of speechcraft. I trade in knowledge -- hard facts and rumors. 'Knowledge is power,' as they say. And sometimes I do other sorts of things. Things I can't talk about.
+I'm an agent. I work for a guild, a company, or the state, and I do things that need doing. All sorts of things. Mostly I handle matters in the business or diplomatic line, things that require mercantile skills, or the arts of speechcraft. I trade in knowledge -- hard facts and rumors. 'Knowledge is power,' as they say. And sometimes I do other sorts of things. Things I can't talk about.
 ;Agent; Rumors, Mercantile, Factions*
 
 Class;Agent Province;Morrowind

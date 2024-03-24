@@ -1,1 +1,22 @@
-Animal products of commercial value in High Rock include the following: [[bear pelt]], [[boar pelt]], [[dreugh wax]], [[boar sac]], [[durzog meat]] [[rat meat]], [[scales]], [[snail slime]], [[spider milk]], [[wolf pelt]], [[wormmouth hide]], [[horker tusk]]...
+#todo 
+Animal products of commercial value in High Rock include the following:
+1. [[pork]],
+2. [[beef]],
+3. [[horse meat]],
+4. [[rat meat]],
+5. [[durzog meat]], 
+6. [[bear pelt]],
+7. [[boar pelt]],
+8. [[wolf pelt]],
+9. [[grub fur]],
+10. [[boar sac]],
+11. [[wormmouth hide]],
+12. [[ambergris]],
+13. [[dreugh wax]],
+14. [[scales]],
+15. [[snail slime]],
+16. [[spider milk]],
+17. [[horker tusk]],
+18. [[trichobezoar]],
+19. [[pearlessence]], 
+20. [[Orc's blood]], 
