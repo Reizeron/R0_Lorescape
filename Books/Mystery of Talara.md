@@ -32,7 +32,7 @@ Afterwards, while the women were all en route back to their tents to change into
 
 "I've seen looks of hunger before, and that wasn't one of them," laughed Gyna. "I'd wager he thought I was someone else, like that lady who tried to run us over with her horse. She's probably his kin, and he thought she had dressed up like a courtesan and joined the March of Beauty. Can you imagine the scandal?"
 
-When they arrived at the tents, they were greeted by a stocky, well-dressed young man with a bald pate and a commanding presence of authority. He introduced himself as ==Lord Strale==, ambassador to the Emperor himself, and their chief patron. It was Strale who had hired them, on the Emperor's behalf, as a gift to the King and the kingdom of Camlorn.
+When they arrived at the tents, they were greeted by a stocky, well-dressed young man with a bald pate and a commanding presence of authority. He introduced himself as [[Lord Strale]], ambassador to the Emperor himself, and their chief patron. It was Strale who had hired them, on the Emperor's behalf, as a gift to the King and the kingdom of Camlorn.
 
 "The March of Beauty is but a precursor to the Flower Festival tonight," he said. Unlike the King, he did not have to yell to be heard. His voice was loud and precise in its natural modulations. "I expect each of you to perform well, and justify the significant expense I've suffered bringing you all the way up here. Now hurry, you must be dressed and in position on ==Cavilstyr Rock== before the sun goes down."
 

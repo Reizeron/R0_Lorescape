@@ -20,3 +20,4 @@ Animal products of commercial value in High Rock include the following:
 18. [[trichobezoar]],
 19. [[pearlessence]], 
 20. [[Orc's blood]], 
+21. grub fur,

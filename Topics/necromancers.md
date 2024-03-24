@@ -1,3 +1,3 @@
 #todo
-*The Necromancers, the faction?*
-*Must include a link to topics: [[necromancy]] and [[undead creatures]]. - R-Zero*
+Class;Savant
+In some backwards regions of the Empire adepts of necromancy are executed on the spot. Here in the West, the educated authorities tend to take a more tolerant, utilitarian approach towards the practitioners, but among the common populace the necromancers are still widely ostracized. It is rare for a necromancer to practice his craft openly, unless backed by a powerful patron or sanctioned by the Mages Guild, but few can deny the need for their expertise when dealing with [[hauntings]] of various kinds.

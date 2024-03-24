@@ -10,7 +10,7 @@
           {
             "id": "31e82385b66fce40",
             "type": "tabs",
-            "dimension": 32.98076923076923,
+            "dimension": 75.86538461538461,
             "children": [
               {
                 "id": "3c7a7662ab14ce5d",
@@ -27,7 +27,7 @@
           {
             "id": "fbbb01490fcc4d21",
             "type": "tabs",
-            "dimension": 67.01923076923076,
+            "dimension": 24.134615384615383,
             "children": [
               {
                 "id": "defa7609887843e2",
@@ -54,31 +54,19 @@
                 }
               },
               {
-                "id": "4c090840d3278bc5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Books/The Warp in the West.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
                 "id": "15ea65bc85e089e1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mystery of Talara.md",
+                    "file": "Books/Wayrest, Jewel of the Bay.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mystery of Talara.md",
+                "file": "Books/Wayrest, Jewel of the Bay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mystery of Talara.md",
+                "file": "Books/Wayrest, Jewel of the Bay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mystery of Talara.md"
+                "file": "Books/Wayrest, Jewel of the Bay.md"
               }
             }
           }
@@ -210,32 +198,32 @@
   },
   "active": "15ea65bc85e089e1",
   "lastOpenFiles": [
-    "Mystery of Talara.md",
+    "Books/Wayrest, Jewel of the Bay.md",
+    "durzog.md",
+    "Topics/large predators.md",
+    "Topics/Bestiary/slaughterfish.md",
+    "wormmouth.md",
+    "Topics/necromancers.md",
+    "necromancy.md",
+    "Classes/Class;Savant.md",
+    "Classes/Class;Commoner.md",
+    "Classes/Class;Barbarian.md",
+    "Topics/my trade.md",
+    "Classes/Class;Knight.md",
+    "Classes/Class;Merchant.md",
+    "Classes/Class;Noble.md",
+    "Classes/Class;Pilgrim.md",
+    "Order of the Black Worm.md",
+    "secret societies.md",
+    "Books/A Game at Dinner.md",
+    "Topics/Items/animal products.md",
+    "Books/PGE1 Orsinium.md",
+    "Books/Mystery of Talara.md",
     "Books/The Warp in the West.md",
     "Books/How Orsinium Passed to the Orcs.md",
     "Books/Frontier, Conquest.md",
     "Books/Broken Diamonds.md",
     "Books/A History of Daggerfall.md",
-    "Books/PGE1 High Rock.md",
-    "Books/Holidays of the Iliac Bay.md",
-    "Books/Before the Ages of Man.md",
-    "Books/A Game at Dinner.md",
-    "Topics/Regions/Wrothgarian Mountains.md",
-    "Topics/royal courts.md",
-    "Books/PGE3 Orsinium.md",
-    "PGE1 Orsinium.md",
-    "Topics/Masconian Trade Way.md",
-    "Topics/Items/maulochite.md",
-    "Books/PGE3 High Rock.md",
-    "Topics/politics.md",
-    "secret societies.md",
-    "necromancy.md",
-    "Topics/necromancers.md",
-    "Topics/Bestiary/undead creatures.md",
-    "Factions/Faction;Court of Daggerfall.md",
-    "native Breton factions.md",
-    "Imperial factions.md",
-    "Factions/Faction;University of Gwylim.md",
     "Untitled",
     "Factions",
     "Topics/Bestiary",
