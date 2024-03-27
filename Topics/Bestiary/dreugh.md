@@ -1,0 +1,2 @@
+Class;Hunter Class;Barbarian
+Dreugh are ancient sea monsters, half-human, half-octopus in appearance. Dreugh are hunted for their hides, which are used for making armor, and dreugh wax, a tough, waxy substance with modest magical properties, scraped from dreugh shells.

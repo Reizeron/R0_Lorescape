@@ -1,0 +1,2 @@
+Class;Savant
+Cyrodiil is the cradle of Human Imperial high culture on Tamriel. It is the largest region of the continent, and most is endless jungle. The Imperial City is in the heartland, the fertile Nibenay Valley. The densely populated central valley is surrounded by wild rain forests drained by great rivers into the swamps of Argonia and Topal Bay. The land rises gradually to the west and sharply to the north. Between its western coast and its central valley are deciduous forests and mangrove swamps.

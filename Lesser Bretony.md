@@ -1,0 +1,2 @@
+Class;Savant Class;Scout Author;R-Zero
+Lesser Bretony is a pleasant land of farms and pastures located at the southwestern tip of Greater Bretony.  The major settlements include the City of [[Daggerfall]] which stands on the great chalk cliffs on the western coast and towns of [[Rhalta]] and [[Tulune]] located to the south and east and interspersed by numerous agricultural villages.

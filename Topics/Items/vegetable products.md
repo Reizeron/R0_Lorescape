@@ -1,4 +1,4 @@
-Class;Merchant Author;R-Zero
+Class;Merchant Class;Farmer Author;R-Zero
 Vegetable products of commercial value in High Rock include the following:
 1. [[apple]], 
 2. [[wheat]], 

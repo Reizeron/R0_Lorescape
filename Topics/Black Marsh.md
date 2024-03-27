@@ -1,0 +1,2 @@
+Class;Savant
+Most of the native Argonian population of Black Marsh is confined to the great inland waterways and impenetrable swamps of the southern interior. There are few roads here, and most travel is by boat. The coasts and the northwestern upland forests are largely uninhabited. For ages the Dunmer have raided Black Marsh for slaves; though the Empire has made this illegal, the practice persists, and Dunmer and Argonians have a long-standing and bitter hatred for one another.

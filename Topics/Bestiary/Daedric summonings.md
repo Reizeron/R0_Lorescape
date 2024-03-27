@@ -1,4 +1,4 @@
-Class;Sorcerer Class;Priest Author;R-Zero
+Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
 Certain Daedric summonings are more often encountered in High Rock. Boethiah's servant, the [[medusa]]; Namira's servant, the [[hunger]]; Mephala's servant, the [[perthan]]; Hircine's servant, the [[herne]]; Mehrunes Dagon's servants, the [[scamp]] and the [[dremora]]; Malacath's servants, the [[ogrim]] and the [[clannfear]] and Sheogorath's servant, the [[golden saint]]. [[Atronachs]] are unaligned Daedra of the elemental planes. But don't judge a summoning by its patron - for they must always do the summoner's bidding.
 *Moved some of the patrons around to balance it a bit better - R-Zero*
 

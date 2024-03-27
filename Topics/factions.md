@@ -1,4 +1,4 @@
-Class;Noble Class;Savant Author;R-Zero
+Class;Noble Class;Savant Class;Agent Author;R-Zero
 The province of High Rock is notorious for its byzantine political landscape, defined by a myriad of interest groups acting in support or against each other. These can be broadly divided into the following categories: the [[Imperial factions]] that represent the interests of the Imperial metropoly, the [[native Breton factions]] that represent the local population and nobility and the enigmatic [[secret societies]] whose true interests are often obscure.
 
 Class;Noble Class;Savant Province;Morrowind

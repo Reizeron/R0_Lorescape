@@ -8,7 +8,7 @@ Before man came to rule Tamriel, and before the chronicles of the historians rec
 For convenience, historians divide the distant ages of prehistory into two broad periods of time -- the Dawn Era, and the Merethic Era.
 
 The Dawn Era
-The Dawn Era is that period before the beginning of mortal time, when the feats of the gods take place. The Dawn Era ends with the exodus of the gods and magic from the World at the founding of the [[Adamantine Tower]].
+The Dawn Era is that period before the beginning of mortal time, when the feats of the gods take place. The Dawn Era ends with the exodus of the gods and magic from the World at the founding of the Adamantine Tower.
 
 The term 'Merethic' comes from the Nordic, literally, "Era of the Elves." The Merethic Era is the prehistoric time after the exodus of the gods and magic from the World at the founding of the Adamantine Tower and before the arrival of Ysgramor the Nord in Tamriel.
 
@@ -16,7 +16,7 @@ The following are the most notable events of the Dawn Era, presented roughly in 
 
 The Cosmos formed from the Aurbis (chaos, or totality) by Anu and Padomay. Akatosh (Auriel) formed and Time began. The Gods (et'Ada) formed. Lorkhan convinced -- or tricked -- the Gods into creating the mortal plane, Nirn. The mortal plane was at this point highly magical and dangerous. As the Gods walked, the physical make-up of the mortal plane and even the timeless continuity of existence itself became unstable.
 
-When Magic (Magnus), architect of the plans for the mortal world, decided to terminate the project, the Gods convened at the Adamantine Tower ([[Direnni Tower]]), the oldest known structure in Tamriel) and decided what to do. Most left when Magic did. Others sacrificed themselves into other forms so that they might Stay (the Ehlnofey). Lorkhan was condemned by the Gods to exile in the mortal realms, and his heart was torn out and cast from the Tower. Where it landed, a Volcano formed. With Magic (in the Mythic Sense) gone, the Cosmos stabilized. Elven history, finally linear, began (ME2500).
+When Magic (Magnus), architect of the plans for the mortal world, decided to terminate the project, the Gods convened at the Adamantine Tower (Direnni Tower), the oldest known structure in Tamriel) and decided what to do. Most left when Magic did. Others sacrificed themselves into other forms so that they might Stay (the Ehlnofey). Lorkhan was condemned by the Gods to exile in the mortal realms, and his heart was torn out and cast from the Tower. Where it landed, a Volcano formed. With Magic (in the Mythic Sense) gone, the Cosmos stabilized. Elven history, finally linear, began (ME2500).
 
 The Merethic Era
 The Merethic Era was figured by early Nord scholars as a series of years numbered in reverse order backward from their 'beginning of time' -- the founding of the [[Camoran Dynasty]], recorded as Year Zero of the First Era. The prehistoric events of the Merethic Era are listed here with their traditional Nordic Merethic dates. The earliest Merethic date cited by King Harald's scholars was ME2500 -- the Nordic reckoning of the first year of time. As such, the Merethic Era extends from ME2500 in the distant past to ME1 -- the year before the founding of the Camoran Dynasty and the establishment of the White Gold Tower as an independent city-state.

@@ -1,4 +1,5 @@
 #todo 
+Class;Farmer Class;Merchant
 Animal products of commercial value in High Rock include the following:
 1. [[pork]],
 2. [[beef]],

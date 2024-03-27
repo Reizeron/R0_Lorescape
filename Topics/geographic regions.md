@@ -1,1 +1,0 @@
-High Rock has [number] regions, each with their own plants and terrain. They're called: the [[Lesser Bretony]], The [[Skeffington Wood]], the [[Ilessan Hills]], the [[Glenumbria Moors]], the [[Norcambria Plateau]], the [[Wrothgarian Mountains]], the [[Bjoulsae river basin]], the [[Creag Coast]], the [[Kurallian Mountains]], the [[Druadach Highlands]] and [[Heldun Scogh]].

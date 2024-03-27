@@ -1,0 +1,2 @@
+Class;Master-at-Arms Class;Smith Class;Warrior Class;Drillmaster Author;R-Zero
+Rapier is a type of thrusting sword first developed by High Elven clans of Summerset Isles and High Rock. Originally a noble's duel weapon, it has since became increasingly popular among common citizen and mercenary alike due to its swiftness and elegant balance

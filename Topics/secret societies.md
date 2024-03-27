@@ -1,2 +1,2 @@
-Class;Noble Class;Savant Author;R-Zero
+Class;Noble Class;Savant Class;Agent Author;R-Zero
 The primary secret societies of High Rock are the [[Dark Brotherhood]], the [[Order of the Black Worm]], the [[Arcturians]] and the [[Blades]], as well as the numerous [[witch covens]] and [[vampire clans]].

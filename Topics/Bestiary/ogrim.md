@@ -1,2 +1,2 @@
-Class;Sorcerer Class;Priest
+Class;Sorcerer Class;Priest Class;Witch
 Ogrim are massive, powerful, dimly intelligent servants of the Daedra Lord Malacath. Daedra hearts have modest magical properties, but you have to dig through a lot of Daedra to get at an ogrim's heart.
