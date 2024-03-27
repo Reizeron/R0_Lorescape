@@ -8,7 +8,7 @@ Good roads lead south to [[Tulune]] through [[Gothway Garden]] and east towards 
 *;this one should include basic info and directions toward Daggerfall from other towns*
 
 Class;Noble Author;R-Zero
-The capital city of the Kingdom of Daggerfall is ruled by King [[Gothryd]] of the House of Daggerfall. Their crest is vert, dragon rampart gules, double tressure flory-counter-flory. Their knights belong to the [[Order of the Dragon]].
+The capital city of the Kingdom of Daggerfall is ruled by King [[Gothryd]] of the House of Daggerfall. Their crest is vert, dragon rampart gules, double tressure flory-counter-flory or. Their knights belong to the [[Order of the Dragon]].
 *;this one should include info about the ruling family*
 
 Location;Daggerfall

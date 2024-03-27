@@ -56,11 +56,19 @@ Class;Merchant
 I am a merchant. I look for goods that are well-made, that people want to buy, that I can buy and sell at a profit. There are many different kinds of materials I can buy and sell -- [[animal products]], [[vegetable products]], [[mineral products]], even [[exotic products]]. Crafts and manufactured goods I deal in include weapons, armor, clothing, books, potions, enchanted items, and various housewares. I travel, talk with people I meet, buy what I like, and sell what people like.
 *;Merchant; generic merchants do not have services, and do not buy and sell; they are just merchant quest and scenery characters*
 
+Class;Necromancer Faction;Worm Cult Author;R-Zero
+I am a necromancer, an anointed priest of our Lord and Teacher, the [[God of Worms]]. I partake in His Transcendent Wisdom and learn the mysteries of souls and how to bring dead to life, and by His Red Wisdom I put the live ones to death. I disregard the superstitious [[burial practices]] of the unenlightened, which earns me their scorn, so as ordained, I stay Hidden when I must. I can illuminate you on the holy craft of [[necromancy]] or teach you how to take care of [[undead creatures]].
+;necromancer, worm cultist
+
+Class;Necromancer Author;R-Zero
+I am a necromancer. Mastery of the College of Conjuration allows me to commune with all things dead, and I am the one to call when you have to deal with [[hauntings]], both natural and unnatural. In case that fails, I also know how to exploit weak points of [[undead creatures]] using the College of Destruction. People of my profession are not liked by the common folk, so I have to learn how to stay out of sight. If you so desire, I can tell you more about [[necromancy]], or the local [[burial practices]].
+;necromancer, NOT worm cultist
+
 Class;Noble
 I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
 *;Noble; generic [Imperial]; make sure more specific Great House noble topics are above this one*
 
-Class;Pilgrim
+Class;Pilgrim Author;R-Zero
 I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of [[pilgrimages]] that reenact the tests and trials of gods, saints, and heroes. I visit the [[shrines]] and make devotions everywhere I travel...
 
 Class;Pilgrim Province;Morrowind
