@@ -1,0 +1,2 @@
+Class;Savant Author;R-Zero
+Bretons who live outside the urbanized West of the province organize themselves into clan structures based on territorial and cultural proximity and old systems of familial allegiance. The highland clans are roughly divided into three main groups: the bellicose [[clans of Kambray]], the mercantile [[clans of Normar]] and the warlock [[clans of the Reach]].

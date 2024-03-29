@@ -1,3 +1,4 @@
+#oog 
 The 1st Era
 1E 0 Oldest date given in written record. Camorian Dynasty founded by King Eplear.
 1E 143 King Harald conquers Skyrim.

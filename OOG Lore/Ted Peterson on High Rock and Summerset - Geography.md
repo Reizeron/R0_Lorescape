@@ -1,4 +1,3 @@
-
 #oog
 Atharaon:
 "The general shape of Tamriel has been consistent since Arena. Even in Daggerfall, the continent map of Tamriel is the same shape we expect. However, the in-game Iliac Bay map differs substantially, especially the High Rock peninsula. It looks like it was cut off prematurely around where Glenpoint was in Arena.

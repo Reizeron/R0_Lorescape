@@ -1,4 +1,3 @@
-
 #oog
 Atharaon:
 "In TES1, it was said the Bretons descended from the “Druids of Galen”. Can you tell us anything about them?"

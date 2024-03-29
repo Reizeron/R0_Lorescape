@@ -1,3 +1,3 @@
 Class;Savant Author;R-Zero
-The forested peaks and deep, narrow valleys of Wrothgarian mountains are occupied by the bellicose highland Breton clans, ever in conflict with each other and the local Orcs over the alpine pastures and hunting grounds. Caverns, mines and secret underground passages litter every mile of this labyrinthine region.
+The forested peaks and deep, narrow valleys of Wrothgarian mountains are occupied by both the [[clans of Kambray]] and the [[clans of Normar]], ever in conflict with each other and the local Orcs over the alpine pastures and hunting grounds. Caverns, mines and secret underground passages litter every mile of this labyrinthine region.
 Traditionally, the [[Kingdom of Shornhelm]] was the most influential local state, but it has been hopelessly eclipsed by the newly created [[Kingdom of Orsinium]] in the last decade.

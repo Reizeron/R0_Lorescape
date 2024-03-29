@@ -1,5 +1,4 @@
-#book
-
+#oog
 High Rock, the westernmost province on the mainland of Tamriel, is a land of temperate climates and soft rolling hills, split in half by the towering Wrothgarian Mountains. The quaint charm of its hamlets and austere grandeur of its cities speak of a gentle life, something that was only a distant dream for most of the long, peculiar history of the Bretons.
 
 History

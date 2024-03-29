@@ -4,7 +4,7 @@ Class;Savant Author;R-Zero
 *;this one should include basic information about history*
 
 Class;Scout Author;R-Zero
-Good roads lead south to [[Tulune]] through [[Gothway Garden]] and east towards [[Glenpoint]]. Glenpoint can also be reached by traveling along the river channels, same as the town of [[Rhalta]] to the southeast.
+Good roads lead south to Tulune through Gothway Garden and east towards Glenpoint. Glenpoint can also be reached by traveling along the river channels, same as the town of Rhalta to the southeast.
 *;this one should include basic info and directions toward Daggerfall from other towns*
 
 Class;Noble Author;R-Zero

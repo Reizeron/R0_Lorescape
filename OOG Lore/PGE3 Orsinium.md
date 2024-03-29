@@ -1,5 +1,4 @@
 #oog 
-
 The Orc homeland of [[Orsinium]] has had a troubled history. Indeed, for most of the past two thousand years Orsinium has existed only in the dreams of the Orc people. The current land, sometimes called [[Nova Orsinium]], is the second incarnation of an Orc homeland in the Wrothgarian Mountains of High Rock. The first was a creation of the tenth century of the First Era, a refuge for Orcs harried from High Rock, Cyrodiil, and Skyrim by the expansions of the Empires of the men and mer.
 
 High in the mountains, far from their enemies, the Orc chieftain [[Torug]] gro-Igron brought his people together. A few huts grew into more permanent structures as word spread to the far-flung Orcs of Tamriel that there was a civilization on the rise that would welcome them from their wanderings. If the Myth of [[Mauloch]] is to be believed, the Orcs or Orsimer had been pariah of the land for two hundred years, and if it is not true, their destitution was even longer. The dream of Orsinium was too beautiful not to be sought.

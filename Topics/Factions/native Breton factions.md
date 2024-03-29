@@ -1,2 +1,2 @@
 Class;Noble Class;Savant Class;Agent Author;R-Zero
-The primary native Breton factions are the [[royal courts]] of the local kingdoms with their traditional mediators the [[Direnni]], the [[regional temples]] of the divines and the many [[knightly orders]] associated with either of those. The [[University of Gwylim]] also wields considerable influence as the foremost seat of learning.
+The primary native Breton factions are the [[royal courts]] of the local kingdoms, the free [[highland clans]], the clan [[Direnni]], the regional temples of the divines and the countless [[knightly orders]] associated with all of the above. The [[University of Gwylim]] also wields considerable influence as the foremost seat of learning.

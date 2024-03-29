@@ -4,6 +4,8 @@ Let me tell you about [[settlements in High Rock]].
 Let me tell you about [[High Rock's economy]].
 Let me tell you about [[High Rock history]].
 Let me tell you about the [[High Rock cultures]].
+Let me tell you about the [[geography of High Rock]].
+Let me tell you about the [[waters of High Rock]].
 Let me tell you about the [[royal courts]].
 Let me tell you about the local [[politics]].
 Let me tell you about the local [[factions]].
