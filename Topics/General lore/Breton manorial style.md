@@ -1,3 +1,2 @@
 Class;Savant Author;R-Zero
-Owing its birth to the architectural restrictions imposed during the early Third Empire, the modern manorial style of High Rock is harkening back to traditional palace styles of Wayrest in their noble grandeur while incorporating the defensive layout and other elements of their castle counterparts.
-Often even built on surviving castle foundations, many a Breton manor of today is a fortress in everything but name.
+Owing its birth to the architectural restrictions imposed during the early Third Empire, the modern manorial style of High Rock is harkening back to traditional palace styles of Iliac Bay in their noble grandeur while incorporating the defensive layout and other elements of their castle counterparts. Often even built on surviving castle foundations, many a Breton manor of today is a fortress in everything but name.

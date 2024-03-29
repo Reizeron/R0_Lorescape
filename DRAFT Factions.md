@@ -35,10 +35,10 @@ Arcturians
 
 Traditional kingdoms of High Rock:
 
-| Kingdom               | Est.    |
-| --------------------- | ------- |
-| Kingdom of Daggerfall | 1E 609  |
-| Kingdom of Wayrest    | 1E 1100 |
-| Kingdom of Camlorn    | 2E 301  |
-| Kingdom of Shornhelm  | 3E 247  |
-| Kingdom of Orsinium   | 3E 417  |
+| Kingdom                  | Est.    |
+| ------------------------ | ------- |
+| Kingdom of Daggerfall    | 1E 609  |
+| Kingdom of Wayrest       | 1E 1100 |
+| Kingdom of Camlorn       | 2E 301  |
+| Kingdom of Shornhelm     | 3E 247  |
+| Kingdom of Nova Orsinium | 3E 417  |
