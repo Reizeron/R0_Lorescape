@@ -4,7 +4,7 @@ The river Bjoulsae is the largest river in Western Tamriel. It's an important tr
 (continue)
 Settlements along the river itself are few and it's mostly nomadic Bjoulsae [[river tribes]] that herd their horses in the basin valleys. 
 
-Much of Bjoulsae coast is currently controlled by the [Kingdom of Orsinium](Kingdom%20of%20Orsinium)
+Much of Bjoulsae coast is currently controlled by the [[Kingdom of Orsinium]]
 
 
 Class;Noble Author;R-Zero

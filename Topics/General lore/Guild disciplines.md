@@ -1,0 +1,2 @@
+Class;Savant
+In the West they speak of three guilds of mercenaries and adventurers: the Fighters Guild, the Mages Guild, and the Thieves Guild. Each of these guilds by tradition acknowledge nine different disciplines as their proper areas of study and mastery. Thus it is common to speak of the nine [[fighter disciplines]], the nine [[mage disciplines]], and the nine [[stealth disciplines]].

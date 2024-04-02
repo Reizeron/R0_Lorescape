@@ -38,7 +38,7 @@ The assault stopped suddenly, and I could smell smoke. I learned later that most
 It was there I learned that there had been a three-way clash between Daggerfall, Wayrest, and Orsinium not far from where I had been, and that the land midway between their kingdoms had been decimated.'
 
 The Report of Ambassador Lord Naigon Strale
-'His Imperial Majesty had sent me on a delicate errand, the details of which I cannot convey in this unsecure report, but my official capacity was to be the Emperor's ambassador to the court of Wayrest. From there, I was to meet with an old friend, [[Lady Brisienna]], who was already in the vicinity. Forgoing any attempt at stealth, I was on an Imperial barge, sailing westward on the Bjoulsae, the morning of the 9th of Frostfall. I remember it was a slightly chilly day, but the sky was very blue.
+'His Imperial Majesty had sent me on a delicate errand, the details of which I cannot convey in this unsecure report, but my official capacity was to be the Emperor's ambassador to the court of Wayrest. From there, I was to meet with an old friend, Lady Brisienna, who was already in the vicinity. Forgoing any attempt at stealth, I was on an Imperial barge, sailing westward on the Bjoulsae, the morning of the 9th of Frostfall. I remember it was a slightly chilly day, but the sky was very blue.
 
 'We had just passed the delightful riverside village of Candlemass when the captain sounded the alarum. There, in front of us, was a colossal wall of water, at least thirty feet high. It smashed our barge to splinters before any of us had a chance to react. I woke up on the shore, having been rescued by one of my servants who had miraculously not lost consciousness. He and I and one other man were the only survivors.
 
