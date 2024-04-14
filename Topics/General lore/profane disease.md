@@ -1,2 +1,2 @@
-Class;Healer Class;Apothecary Class;Savant Author;R-Zero
+>[!dialogue] Class;Healer Class;Apothecary Class;Savant Author;R-Zero
 Profane ailments that twist the person's very essence include [[vampirism]] that turns those afflicted into undead monsters, [[lycanthropy]] that turns people into savage beasts and [[Daedric possession]] that turns the victim into a cruel and malevolent pawn of the Daedra inside. There is no known cure for any of those and so the carriers of the profane diseases are hunted and put to death.

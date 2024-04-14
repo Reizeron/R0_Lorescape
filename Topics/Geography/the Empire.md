@@ -1,2 +1,2 @@
-Class;Savant
+>[!dialogue] Class;Savant
 The Empire of Tamriel encompasses the nine Imperial provinces: [[Skyrim]], [[High Rock]], [[Hammerfell]], [[Summerset Isle]], [[Valenwood]], [[Elsweyr]], [[Black Marsh]], [[Morrowind]], and the ancient Imperial province itself, [[Cyrodiil]]. Dating from the First Era Cyrodilic Empire, the Empire is almost 4000 years ago. But more properly, the current Empire dates from the beginning of the Third Era and the crowning of Tiber Septim as Emperor of Tamriel over 400 years ago. The current emperor is Uriel Septim, 24th of the Septim line.

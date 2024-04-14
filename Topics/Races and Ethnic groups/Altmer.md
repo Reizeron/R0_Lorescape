@@ -1,2 +1,2 @@
-Class;Savant
+>[!dialogue] Class;Savant
 Altmer are the light-skinned, tall Elven peoples of the Summerset Isles. 'High' is taken to mean variously 'tall,' 'proud,' and 'culturally snobbish.' In the Empire, 'High Elves' is the common usage. They consider themselves the most civilized culture of Tamriel, and, in truth, the common tongue of the Empire, Tamrielic, is based on their speech and writing, and most of the Empire's arts, crafts, and sciences are derived from High Elven traditions.

@@ -1,3 +1,3 @@
-Class;Savant
+>[!dialogue] Class;Savant
 Hammerfell is primarily an urban and maritime province, with most of its population confined to the great port and trade cities. The interior is sparsely populated with small poor farms and beastherds. The Redguard love of travel, adventure, and the high seas has dispersed them as sailors, mercenaries, and adventurers in ports of call throughout the Empire.
-;Imperial Legion; Imperial cult; bard, bookseller, savant;
+*;Imperial Legion; Imperial cult; bard, bookseller, savant;*

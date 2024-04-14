@@ -1,5 +1,5 @@
-Class;Hunter Class;Barbarian Author;R-Zero
+>[!dialogue] Class;Hunter Class;Barbarian Author;R-Zero
 The following creatures are commonly encountered in High Rock's coastal and water environments. [[slaughterfish]] are small but very aggressive, and the larger varieties, the blind slaughterfish and the electric slaughterfish, are quite dangerous. The [[shark]], The [[sea serpent]], The [[horker]].
 
-Class;Hunter Class;Barbarian Province;Morrowind
+>[!dialogue] Class;Hunter Class;Barbarian Province;Morrowind
 Three creatures are commonly encountered in Vvardenfell's coastal and water environments. The mudcrab, and its larger cousins the king mudcrab and mudcrab titan, are large but unaggressive. Slaughterfish are small but very aggressive, and the larger varieties, the blind slaughterfish and the electric slaughterfish, are quite dangerous. But the most dangerous water creature is the large and powerful dreugh and the dreugh man o'war.

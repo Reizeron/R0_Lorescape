@@ -1,2 +1,2 @@
-Class;Savant Author;R-Zero
+>[!dialogue] Class;Savant Author;R-Zero
 The court of Daggerfall serves King [[Gothryd]], the current ruler of the [[Kingdom of Daggerfall]]. Lord [[Bridwell]] is the current Steward of the court and the leader of the knightly [[Order of the Dragon]]. Magister [[Popudax]] is the court sorcerer, lord ??? is the guard captain and Lord [[Coulder]] is the court spymaster.

@@ -1,2 +1,2 @@
-Class;Alchemist Author;R-Zero
+>[!dialogue] Class;Alchemist Author;R-Zero
 The roots of the low, creeping Rimewort plant, sometimes also called "Hoarfrost weed", have healing properties and are commonly used in folk remedies. Just as these names suggests, it appears as if covered in frozen dew even in midsummer's heat - making it easy to identify.

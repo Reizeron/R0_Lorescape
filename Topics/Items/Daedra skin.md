@@ -1,2 +1,2 @@
-Class;Alchemist
+>[!dialogue] Class;Alchemist
 Daedra skin must be removed from the specimen while it remains on the mortal plane. Daedra skin has modest magical properties, but collecting it from the daedra is hard work and dangerous.

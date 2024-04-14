@@ -1,23 +1,2 @@
-#todo 
-Class;Farmer Class;Merchant
-Animal products of commercial value in High Rock include the following:
-1. [[pork]],
-2. [[beef]],
-3. [[horse meat]],
-4. [[rat meat]],
-5. [[durzog meat]], 
-6. [[bear pelt]],
-7. [[boar pelt]],
-8. [[wolf pelt]],
-9. [[grub fur]],
-10. [[boar sac]],
-11. [[wormmouth hide]],
-12. [[ambergris]],
-13. [[dreugh wax]],
-14. [[scales]],
-15. [[snail slime]],
-16. [[spider milk]],
-17. [[horker tusk]],
-18. [[trichobezoar]],
-19. [[pearlessence]], 
-20. [[Orc's blood]], 
+>[!dialogue] Class;Farmer Class;Merchant
+Animal products of commercial value in High Rock come in several varieties: the farming products like [[pork]], [[beef]], [[horse meat]] and [[grub fur]], those harvested from the wild game like [[rat meat]], [[durzog meat]], [[bear pelt]], [[boar pelt]], [[boar sac]], [[wolf pelt]], [[wormmouth hide]], [[horker tusk]] and fish [[scales]], and the alchemical ingredients like [[dreugh wax]], [[ambergris]], [[snail slime]], [[spider milk]], [[trichobezoar]], [[pearlessence]] and [[Orc's blood]].

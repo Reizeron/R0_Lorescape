@@ -1,2 +1,2 @@
-Class;Savant Class;Trader Author;R-Zero
+>[!dialogue] Class;Savant Class;Trader Author;R-Zero
 High Rock has a bustling mercantile economy, most of the profits coming from the interprovincial maritime trade. Important industries include mining and fishing, as well as agriculture. The coastal cities, especially those of the Iliac Bay, are important centers of production and trade, with developed banking and stock exchange systems. In the rural areas, production and trade are organized along the lines of market towns, traditional noble manors and clansteads.

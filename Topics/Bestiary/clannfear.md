@@ -1,2 +1,2 @@
-Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
+>[!dialogue] Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
 The clannfear is a fierce, green, lizardlike bipedal Daedric summoning. Their rock-crushing claws have modest magical properties, and are prized by alchemists.

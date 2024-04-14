@@ -1,0 +1,3 @@
+>[!dialogue] Class;Sorcerer Author;R-Zero
+Planes of existence that lie outside the mortal realm of [[Mundus]] are called the Outer Realms and include the many voids of [[Oblivion]] and the many heavens of [[Aetherius]], both commonly thought of as the worlds of afterlife. The possibility of corporal travel to these realms is historically proven but the exact means to accomplishing it without relying on the whims of the corresponding Powers are esoteric and obscure.
+*Sorcerers, introduction to Cosmology*

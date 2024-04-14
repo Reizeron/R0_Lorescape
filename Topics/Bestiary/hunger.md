@@ -1,2 +1,2 @@
-Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
+>[!dialogue] Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
 The hunger is one of the many voracious servants of the Daedra Lord Namira, notorious for its appetite for rotting flesh. Hunger's tongues have modest magical properties.

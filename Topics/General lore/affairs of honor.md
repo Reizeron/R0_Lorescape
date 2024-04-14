@@ -1,2 +1,2 @@
-Faction;Redoran Faction;Hlaalu Faction;Temple Faction;Imperial cult Class;Knight
+>[!dialogue] Faction;Redoran Faction;Hlaalu Faction;Temple Faction;Imperial cult Class;Knight
 A challenge of honor is a public declaration of a scandal against a private party. Only nobles fight duels, and the higher the rank, the stronger the obligation. Law and custom despises dishonorable duelists. If the victim was bullied, intimidated, or goaded by a stronger party with suspect motives, magistrates often convict the stronger party of foul murder.

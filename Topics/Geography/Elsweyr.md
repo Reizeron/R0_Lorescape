@@ -1,2 +1,2 @@
-Class;Savant
+>[!dialogue] Class;Savant
 The Khajiit of the southern Elsweyr jungles and river basins are settled city dwellers with ancient mercantile traditions and a stable agrarian aristocracy based on sugarcane and saltrice plantations. The nomadic tribal Khajiit of the dry northern wastes and grasslands are, by contrast, aggressive and territorial tribal raiders periodically united under tribal warlords. While the settled south has been quick to adopt Imperial ways, the northern nomadic tribes cling to their warlike barbarian traditions.

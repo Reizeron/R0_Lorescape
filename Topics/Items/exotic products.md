@@ -1,6 +1,6 @@
-Class;Merchant
+>[!dialogue] Class;Merchant
 Exotic products of commercial value in High Rock include the following: 
-1. [[bonemeal]],  
+>1. [[bonemeal]],  
 2. [[ectoplasm]], 
 3. [[Daedra skin]], 
 4. [[Daedra's heart]], 
@@ -15,7 +15,7 @@ Exotic products of commercial value in High Rock include the following:
 13. [[Medusa tendril]], 
 14. [[Feywurm scales]], 
 15. [[Sprigann's ear]], 
-16. [[Glow Dust]], 
+16. [[glow dust]], 
 17. [[Unicorn's horn]], 
 18. [[Vampire dust]], 
 19. [[Werewolf pelt]] and 

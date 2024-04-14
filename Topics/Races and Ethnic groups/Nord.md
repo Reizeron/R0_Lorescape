@@ -1,3 +1,2 @@
-Class;Savant
-
+>[!dialogue] Class;Savant
 The Nords of Skyrim are a tall and fair-haired people, aggressive and fearless in war, industrious and enterprising in trade and exploration. Skilled sailors, they can be found in seaports and settlements along all the coasts and rivers of Tamriel. Strong, stubborn, and hardy, they are famous for their resistance to cold, even magical frost. Violence is an accepted and comfortable aspect of Nord culture, and they cheerfully face battle with an ecstatic ferocity that shocks and appalls their foes.
