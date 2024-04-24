@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "482c600d00046862",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e41e64266d1d68",
+        "type": "tabs",
+        "dimension": 61.76470588235294,
+        "children": [
+          {
+            "id": "95fb317f1bcb44cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/General lore/High Rock cultures.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "58a8ca063db9ed0b"
+          },
+          {
+            "id": "df3523f5bbbe21e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0628a360c8df9a2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/DRAFT;Religion.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a56d5f74ad8dcaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Faction;NineDivines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fe4fb9ab16dc362",
+        "type": "tabs",
+        "dimension": 38.23529411764706,
+        "children": [
+          {
+            "id": "5be6d9e4215004a9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Topics/General lore/High Rock cultures.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Topics/Religion and Cosmology\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Bestiary  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Factions",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "path:\"Topics/General lore\" ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    },
+                    {
+                      "query": "path:\"Topics/Races and Ethnic groups\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084269
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Items  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Geography  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6053078
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.755208333333333,
+                  "repelStrength": 15.625,
+                  "linkStrength": 1,
+                  "linkDistance": 130,
+                  "scale": 0.5087618855792719,
+                  "close": true
+                }
+              }
+            },
+            "group": "58a8ca063db9ed0b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2eaa73ae3da6b08",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05347f2758b95e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dacba847e4ef666a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92bce88da63cc6e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d87d58ae08388071",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "14fe39f3d75f7c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b03b20b34f4fd5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29a316b5ccf6822d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/General lore/High Rock cultures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "299d54b7b196824a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topics/General lore/High Rock cultures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2948e3edccd8d4d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "70bac3cc60ff4238",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/General lore/High Rock cultures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "95fb317f1bcb44cf",
+  "lastOpenFiles": [
+    "Topics/General lore/High Rock lore.md",
+    "Topics/General lore/High Rock cultures.md",
+    "Topics/Factions/royal courts.md",
+    "Topics/General lore/High Rock's economy.md",
+    "Topics/General lore/settlements in High Rock.md",
+    "Topics/General lore/High Rock's neighbors.md",
+    "Redguard neighbors.md",
+    "Topics/Religion and Cosmology/Old Gods.md",
+    "Topics/Religion and Cosmology/religion in High Rock.md",
+    "Topics/Religion and Cosmology/Aedric Orders.md",
+    "Topics/Religion and Cosmology/Auri-El.md",
+    "Topics/Religion and Cosmology/Aetherius.md",
+    "Topics/Religion and Cosmology/Principalities of Oblivion.md",
+    "Topics/Religion and Cosmology/Daedra Lords.md",
+    "Topics/Religion and Cosmology/Namira.md",
+    "Topics/my trade.md",
+    "Topics/General lore/Nord neighbors.md",
+    "Mundus.md",
+    "Topics/Factions/court of Daggerfall.md",
+    "Factions/Faction;NineDivines.md",
+    "Factions/Faction;ClansKambray.md",
+    "Factions/Faction;ClansNormar.md",
+    "Factions/Faction;ClansReach.md",
+    "Factions/Faction;CourtDaggerfall.md",
+    "Factions/Faction;UniversityGwylim.md",
+    "Topics/Factions/secret societies.md",
+    "Topics/Religion and Cosmology",
+    "assets/Pasted image 20240410124455.png",
+    "Untitled.canvas",
+    "assets/Pasted image 20240410112518.png",
+    "assets/Pasted image 20240409183530.png",
+    "assets/Concepts/Concept;Breton Manorial style/IMG-20240402180637034.png",
+    "assets/Concepts/Concept;Breton Manorial style",
+    "assets/Concepts/Concept;Breton Manorial style/IMG-20240402175948710.png",
+    "assets/Concepts/Concept;Breton castle style",
+    "assets/Concepts",
+    "Concepts",
+    "assets/Concepts/Concept;Breton castle style/IMG-20240402155603586.png",
+    "assets/Concept;Breton castle style",
+    "assets/Concepts/Concept;Breton castle style/IMG-20240402155603432.png",
+    "assets",
+    "Pasted image 20240402143126.png",
+    "Attachments/Pasted image 20240402142502.png",
+    "Pasted image 20240402141844.png",
+    "Attachments",
+    "Topics/Unwritten/People",
+    "Topics/Unwritten"
+  ]
+}

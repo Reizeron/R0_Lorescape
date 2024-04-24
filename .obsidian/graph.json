@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Topics/Bestiary/ ",
+      "color": {
+        "a": 1,
+        "rgb": 13972532
+      }
+    },
+    {
+      "query": "path:Topics/Factions/ ",
+      "color": {
+        "a": 1,
+        "rgb": 13071657
+      }
+    },
+    {
+      "query": "path:Topics/Geography  ",
+      "color": {
+        "a": 1,
+        "rgb": 13953588
+      }
+    },
+    {
+      "query": "path:Topics/Items/ ",
+      "color": {
+        "a": 1,
+        "rgb": 3452212
+      }
+    },
+    {
+      "query": "path:\"Topics/Races and Ethnic groups\"/",
+      "color": {
+        "a": 1,
+        "rgb": 1496245
+      }
+    },
+    {
+      "query": "path:\"Topics/General lore\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3577284
+      }
+    },
+    {
+      "query": "path:Topics/People  ",
+      "color": {
+        "a": 1,
+        "rgb": 4342466
+      }
+    },
+    {
+      "query": "path:Topics/Unwritten  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711791
+      }
+    },
+    {
+      "query": "path:Concepts",
+      "color": {
+        "a": 1,
+        "rgb": 16035502
+      }
+    },
+    {
+      "query": "path:\"Topics/Religion and Cosmology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8472159
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.12083333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.105387369791667,
+  "repelStrength": 8.56608072916667,
+  "linkStrength": 0.490804036458333,
+  "linkDistance": 266,
+  "scale": 0.2588386562185248,
+  "close": true
+}

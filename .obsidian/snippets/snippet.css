@@ -1,0 +1,35 @@
+:root {
+  --color_normal: rgb(202,165,96);
+  --color_link: rgb(112,126,207);
+  --color_link_over: rgb(143,155,218);
+  --color_link_pressed: rgb(175,184,228);
+  --color_answer: rgb(150,50,30);
+  --color_grey: rgb(100,100,100);
+}
+
+body {
+  .callout[data-callout="dialogue"] {
+	  
+	.callout-title-inner {font-weight: normal;};
+	  
+	color: var(--color_normal);
+	font: 1.0em Pelagiad;
+	
+	--callout-border-width: 2px;
+	--callout-radius: 0px;
+    --callout-color: 100, 100, 100;
+    --callout-icon: quote;
+	--callout-title-size: 1.0em;
+	
+	--link-color: var(--color_link);
+	--link-decoration: none;
+	--link-decoration-hover: none;
+	--link-unresolved-color: var(--color_link);
+	--link-unresolved-decoration-style: none;
+	--link-unresolved-decoration-hover: none;
+	--link-unresolved-opacity: 1;
+	--link-color-hover: var(--color_link_over);
+	i, em {color: #3f4f6f; };
+	strong {color: var(--color_answer); font-weight: normal;};
+
+}
