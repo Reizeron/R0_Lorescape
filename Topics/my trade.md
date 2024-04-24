@@ -84,9 +84,11 @@ I am a pilgrim. I search for enlightenment, and hope to purify my soul through f
 I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of pilgrimages that reenact the tests and trials of gods, saints, and heroes. I visit the shrines and make devotions everywhere I travel -- ==in village Temple shrines, and the High Fane of Vivec, or at the remote shrines scattered all over Vvardenfell.==
 *;Pilgrim; Shrines, Pilgrimages*
 
->[!dialogue] Class;Priest Author;R-Zero
-I am a priest of the %faction%. My role is advocate to the gods on behalf of our cult members. The %faction% provides certain benefits for its members at our shrines.
-*;generic one for any temple faction - R-Zero*
+>[!dialogue] Class;Priest Faction;AedricChurch Author;R-Zero
+I am a priest of the [[Aedric Orders]]. My role is advocate to the gods on behalf of our church members. The [[Aedric Orders]] provide certain benefits for its members at our [[shrines]].
+
+>[!dialogue] Class;Priest Faction;NineDivines Author;R-Zero
+I am a priest of the [[Nine Divines]]. My role is advocate to the gods on behalf of our cult members. The [[Nine Divines]] cult provides certain benefits for its members at our [[shrines]].
 
 >[!dialogue] Class;Priest Province;Morrowind
 I am a priest of the Imperial cult. My role is advocate to the gods on behalf of our cult members. The Imperial cult provides certain benefits for its members at our shrines.

@@ -1,0 +1,2 @@
+>[!dialogue] Class;Sorcerer Author;R-Zero
+Oblivion is what we see when looking at the night sky -- a vast expanse of black void surrounding [[Mundus]], the mortal plane; endless and infinite, it is inhabited by a legion of wayward spirits called the [[Daedra]]. Though the true composition of Oblivion is beyond mortal ken, it is for the sake of simplicity divided into several main sectors called the [[Principalities of Oblivion]] which are ruled by the [[Daedra Lords]], with myriads of smaller pocket-realms nestled between those.

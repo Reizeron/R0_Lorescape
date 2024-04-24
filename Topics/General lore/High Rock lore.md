@@ -7,7 +7,8 @@ Let me tell you about the [[High Rock cultures]].
 Let me tell you about the [[geography of High Rock]].
 Let me tell you about [[High Rock's neighbors]].
 Let me tell you about the [[royal courts]].
-Let me tell you about the local [[politics]].
+Let me tell you about the local [[politics of High Rock]].
+Let me tell you about the [[religion in High Rock]].
 Let me tell you about the local [[factions]].
 Let me tell you about [[current events]].
 Let me tell you about the ten [[races]] most commonly encountered in High Rock.

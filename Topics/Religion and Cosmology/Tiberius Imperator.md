@@ -1,0 +1,2 @@
+>[!dialogue] Class;Priest Class;Monk Class;Healer Faction;NineDivines Author;R-Zero
+Orthodox worship of [[Tiber Septim]] in his aspect of Tiberius Imperator is also known as the Citizenship Cult and focuses on his role as a peaceful ruler, honorable judge and skillful administrator. It is popular among the people of the Cyrodiilic Heartland, as well as both the colonists and the native converts from other provinces, including High Rock.

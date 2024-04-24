@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant Class;Witch Class;Sorcerer Author;Anumaril
+>Namira the Ghost-Eater is considered the mother of dualisms, disorder, and decay in Bretonic culture. It is said she was born when Sheor looked upon her void-veiled form and felt inspired to introduce struggle to his creation. With struggle came death, and she fed upon the souls of its victims until Arkay's intervention. Her followers are known to be contemptuous of mortal life, actively infringing on the laws of Arkay to satiate their goddess with forlorn souls and ultimately escape the cycle themselves.

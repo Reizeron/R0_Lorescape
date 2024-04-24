@@ -1,0 +1,2 @@
+>[!dialogue] Class;Priest Class;Monk Class;Healer Faction;NineDivines
+Akatosh, the Dragon God of Time, is the chief deity of the [[Nine Divines]]. He is generally considered to be the first of the Gods to form in the Beginning Place; after his establishment, other spirits found the process of being easier and the various pantheons of the world emerged. Akatosh is the ultimate God of the Cyrodilic Empire, where he embodies the qualities of endurance, invincibility, and everlasting legitimacy.

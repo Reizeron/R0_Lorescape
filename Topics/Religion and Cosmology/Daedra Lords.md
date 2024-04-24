@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant Class;Witch Class;Sorcerer Author;R-Zero
+The Daedra Lords with historically strong influence in High Rock are [[Boethiah]], the Prince of Plots; [[Namira]], the Lady of Decay; [[Hircine]], the Huntsman;  [[Mehrunes Dagon]], the Prince of Destruction;  [[Malacath]], God of Curses; [[Vaernima]], the Dreamweaver and [[Sheogorath]], the Mad God. While officially communion with the Daedra Lords is the domain of the Mages Guild, they are also commonly invoked by the local [[witch covens]], and many sorcerers do so in private.

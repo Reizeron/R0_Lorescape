@@ -1,0 +1,5 @@
+>[!dialogue] Class;Priest Faction;AedricOrders Author;R-Zero
+Auri-El, commonly known in the Empire as "[[Akatosh]]" is the soul of [[Anui-El]], who, in turn, is the soul of [[Anu]] the Everything. He is the direct ancestor of most Aldmeri clans and the chief deity of their religious pantheons.
+**(continue)**
+In his only known moment of weakness, Auri-El agreed to take part in the creation of the mortal plane which forever sundered us from the spirit worlds of eternity. To make up for it, Auri-El led the original Aldmer against the armies of [[Lorkhan]] in mythic times, vanquishing that tyrant and establishing the first kingdoms of the Altmer, Altmora and Old Ehlnofey. Auri-El then ascended to [[Aetherius]] in full observance of his followers so that we might learn the steps needed to escape the mortal plane.
+*;taken from The Varieties just like the vanilla dialogue for Akatosh - R-Zero*

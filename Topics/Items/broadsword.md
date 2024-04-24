@@ -1,0 +1,2 @@
+>[!dialogue] Class;Master-at-Arms Class;Smith Class;Warrior Class;Drillmaster
+Long popular in the West, the mass-produced, one-handed, double-edged heavy broadsword commonly used by the Legions is descended from the original elaborate, decorated Breton broadsword designs. The Nordic broadsword developed independently, and is a more plain, practical weapon. All broadswords are commonly used with sword-and-shield techniques, the Bretons favoring the heavy tower shield, while the legions prefer a smaller standard-sized shield.
