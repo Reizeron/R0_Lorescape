@@ -6,7 +6,7 @@
       {
         "id": "80e41e64266d1d68",
         "type": "tabs",
-        "dimension": 61.76470588235294,
+        "dimension": 42.52450980392157,
         "children": [
           {
             "id": "95fb317f1bcb44cf",
@@ -14,9 +14,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/General lore/High Rock cultures.md",
-                "mode": "preview",
-                "source": false
+                "file": "Topics/General lore/High Rock lore.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             },
             "group": "58a8ca063db9ed0b"
@@ -40,6 +41,7 @@
               "state": {
                 "file": "Concepts/DRAFT;Religion.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
@@ -53,16 +55,18 @@
               "state": {
                 "file": "Factions/Faction;NineDivines.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9fe4fb9ab16dc362",
         "type": "tabs",
-        "dimension": 38.23529411764706,
+        "dimension": 57.475490196078425,
         "children": [
           {
             "id": "5be6d9e4215004a9",
@@ -70,14 +74,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Topics/General lore/High Rock cultures.md",
+                "file": "Topics/General lore/High Rock lore.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -143,7 +147,7 @@
                   "repelStrength": 15.625,
                   "linkStrength": 1,
                   "linkDistance": 130,
-                  "scale": 0.5087618855792719,
+                  "scale": 0.5087618855792743,
                   "close": true
                 }
               }
@@ -216,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/General lore/High Rock cultures.md",
+                "file": "Topics/General lore/High Rock lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/General lore/High Rock cultures.md",
+                "file": "Topics/General lore/High Rock lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/General lore/High Rock cultures.md"
+                "file": "Topics/General lore/High Rock lore.md"
               }
             }
           }
@@ -278,34 +282,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "95fb317f1bcb44cf",
+  "active": "dacba847e4ef666a",
   "lastOpenFiles": [
     "Topics/General lore/High Rock lore.md",
-    "Topics/General lore/High Rock cultures.md",
-    "Topics/Factions/royal courts.md",
-    "Topics/General lore/High Rock's economy.md",
-    "Topics/General lore/settlements in High Rock.md",
     "Topics/General lore/High Rock's neighbors.md",
-    "Redguard neighbors.md",
-    "Topics/Religion and Cosmology/Old Gods.md",
-    "Topics/Religion and Cosmology/religion in High Rock.md",
-    "Topics/Religion and Cosmology/Aedric Orders.md",
-    "Topics/Religion and Cosmology/Auri-El.md",
-    "Topics/Religion and Cosmology/Aetherius.md",
-    "Topics/Religion and Cosmology/Principalities of Oblivion.md",
+    "Topics/Factions/royal courts.md",
+    "Topics/Religion and Cosmology/Nine Divines.md",
     "Topics/Religion and Cosmology/Daedra Lords.md",
     "Topics/Religion and Cosmology/Namira.md",
-    "Topics/my trade.md",
-    "Topics/General lore/Nord neighbors.md",
-    "Mundus.md",
-    "Topics/Factions/court of Daggerfall.md",
-    "Factions/Faction;NineDivines.md",
-    "Factions/Faction;ClansKambray.md",
-    "Factions/Faction;ClansNormar.md",
-    "Factions/Faction;ClansReach.md",
-    "Factions/Faction;CourtDaggerfall.md",
-    "Factions/Faction;UniversityGwylim.md",
+    "Topics/General lore/lycanthropes.md",
     "Topics/Factions/secret societies.md",
+    "Factions/Faction;NineDivines.md",
+    "Concepts/DRAFT;random.md",
+    "Concepts/DRAFT;Dark Elves of the West.md",
+    "Concepts/DRAFT;Druidism.md",
+    "Concepts/DRAFT;Religion.md",
+    "Concepts/DRAFT;Factions.md",
+    "Topics/Religion and Cosmology/Principalities of Oblivion.md",
+    "Topics/Religion and Cosmology/Aetherius.md",
+    "Topics/Religion and Cosmology/Xarxes.md",
+    "Topics/Religion and Cosmology/Magnus.md",
+    "Topics/Religion and Cosmology/religion in High Rock.md",
+    "Topics/Religion and Cosmology/Old Gods.md",
+    "Topics/General lore/High Rock cultures.md",
+    "Topics/General lore/High Rock's economy.md",
+    "Topics/General lore/settlements in High Rock.md",
+    "Redguard neighbors.md",
+    "Topics/Religion and Cosmology/Aedric Orders.md",
+    "Topics/Religion and Cosmology/Auri-El.md",
     "Topics/Religion and Cosmology",
     "assets/Pasted image 20240410124455.png",
     "Untitled.canvas",
