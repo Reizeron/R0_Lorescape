@@ -1,4 +1,4 @@
 >[!dialogue] Class;Savant
-Aldmeri -- the Imperial usage is 'Elves' -- are long-lived, culturally conservative humanoids distinct from Tamriel's "manish" races of the north and "beast peoples" races of the southeast. By contrast with the manish tribes, Elven cultures and social institutions are stable and persistent; Elven nations are neither economically expansive nor militarily adventurous.
-**(continue)**
-Elves are conditionally fertile -- that is, they only conceive when population pressure is low -- so expanding populations do not force them to explore or war with neighbors. The arts, literature, sorceries, technology and theology that have flourished within ancient Elven cultures have profoundly shaped the development of the Empire's manish and beast races.
+>Aldmeri -- the Imperial usage is 'Elves' -- are long-lived, culturally conservative humanoids distinct from Tamriel's "manish" races of the north and "beast peoples" races of the southeast. By contrast with the manish tribes, Elven cultures and social institutions are stable and persistent; Elven nations are neither economically expansive nor militarily adventurous.
+>**(continue)**
+>Elves are conditionally fertile -- that is, they only conceive when population pressure is low -- so expanding populations do not force them to explore or war with neighbors. The arts, literature, sorceries, technology and theology that have flourished within ancient Elven cultures have profoundly shaped the development of the Empire's manish and beast races.

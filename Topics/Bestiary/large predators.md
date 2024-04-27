@@ -1,2 +1,2 @@
 >[!dialogue] Class;Hunter Class;Barbarian Author;R-Zero
-Three large creatures native to High Rock are dangerous predators. The [[bear]] and its variety the [[snow bear]],  the [[durzog]] and the [[wormmouth]].
+>Three large creatures native to High Rock are dangerous predators. The [[bear]] and its variety the [[snow bear]],  the [[durzog]] and the [[wormmouth]].

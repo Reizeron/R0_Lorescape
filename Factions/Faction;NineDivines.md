@@ -14,7 +14,7 @@
 
 | Faction                                             | Standing | Notes |
 | --------------------------------------------------- | :------: | ----- |
-| [Nine Divines](Faction;NineDivines.md)              |    3     |       |
+| Nine Divines            |    3     |       |
 | Blades                                              |    2     |       |
 | Imperial Legion                                     |    2     |       |
 | Imperial Government                                 |    1     |       |

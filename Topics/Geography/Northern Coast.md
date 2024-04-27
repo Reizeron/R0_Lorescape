@@ -1,5 +1,5 @@
 >[!dialogue] Class;Savant Author;R-Zero
-Eroded by the waves of the [[Sea of Ghosts]] and the [[Balothian Bay]], the Northern Coast of High Rock is an inhospitable land of grey cliffs, fjords and cold gravel beaches, and the maritime Breton [[clans of Normar]] that settle this region are hardy and earnest people. The clans formally answer to the local Imperial Governor but the Skyrim [[Kingdom of Solitude]] exerts much influence in the region through military, diplomatic and trade domination.
+>Eroded by the waves of the [[Sea of Ghosts]] and the [[Balothian Bay]], the Northern Coast of High Rock is an inhospitable land of grey cliffs, fjords and cold gravel beaches, and the maritime Breton [[clans of Normar]] that settle this region are hardy and earnest people. The clans formally answer to the local Imperial Governor but the Skyrim [[Kingdom of Solitude]] exerts much influence in the region through military, diplomatic and trade domination.
 
 %%
 ```

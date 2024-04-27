@@ -6,8 +6,47 @@
       {
         "id": "80e41e64266d1d68",
         "type": "tabs",
-        "dimension": 42.52450980392157,
+        "dimension": 53.125,
         "children": [
+          {
+            "id": "3e0bd5136c2556eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Races and Ethnic groups/races.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49bdd5fca7d9e7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contributors/Author;R-Zero.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6b01151305a7877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
           {
             "id": "95fb317f1bcb44cf",
             "type": "leaf",
@@ -46,27 +85,14 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9a56d5f74ad8dcaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Faction;NineDivines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9fe4fb9ab16dc362",
         "type": "tabs",
-        "dimension": 57.475490196078425,
+        "dimension": 46.875,
         "children": [
           {
             "id": "5be6d9e4215004a9",
@@ -147,7 +173,7 @@
                   "repelStrength": 15.625,
                   "linkStrength": 1,
                   "linkDistance": 130,
-                  "scale": 0.5087618855792743,
+                  "scale": 0.5087618855792746,
                   "close": true
                 }
               }
@@ -220,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/General lore/High Rock lore.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/General lore/High Rock lore.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/General lore/High Rock lore.md"
+                "file": "Index.md"
               }
             }
           }
@@ -282,34 +308,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dacba847e4ef666a",
+  "active": "d6b01151305a7877",
   "lastOpenFiles": [
-    "Topics/General lore/High Rock lore.md",
-    "Topics/General lore/High Rock's neighbors.md",
-    "Topics/Factions/royal courts.md",
-    "Topics/Religion and Cosmology/Nine Divines.md",
-    "Topics/Religion and Cosmology/Daedra Lords.md",
-    "Topics/Religion and Cosmology/Namira.md",
-    "Topics/General lore/lycanthropes.md",
-    "Topics/Factions/secret societies.md",
-    "Factions/Faction;NineDivines.md",
-    "Concepts/DRAFT;random.md",
-    "Concepts/DRAFT;Dark Elves of the West.md",
-    "Concepts/DRAFT;Druidism.md",
-    "Concepts/DRAFT;Religion.md",
-    "Concepts/DRAFT;Factions.md",
-    "Topics/Religion and Cosmology/Principalities of Oblivion.md",
-    "Topics/Religion and Cosmology/Aetherius.md",
-    "Topics/Religion and Cosmology/Xarxes.md",
-    "Topics/Religion and Cosmology/Magnus.md",
-    "Topics/Religion and Cosmology/religion in High Rock.md",
-    "Topics/Religion and Cosmology/Old Gods.md",
+    "Topics/Factions/factions.md",
     "Topics/General lore/High Rock cultures.md",
-    "Topics/General lore/High Rock's economy.md",
     "Topics/General lore/settlements in High Rock.md",
-    "Redguard neighbors.md",
-    "Topics/Religion and Cosmology/Aedric Orders.md",
-    "Topics/Religion and Cosmology/Auri-El.md",
+    "Index.md",
+    "Topics/my trade.md",
+    "Topics/Unwritten/Skeffington Wood.md",
+    "Topics/Unwritten/Quill Circus.md",
+    "Topics/Unwritten/Nightside Asylum.md",
+    "Topics/Unwritten/Night Mother.md",
+    "Topics/Unwritten/Ilessan Hills.md",
+    "Topics/Unwritten/Dellese Isles.md",
+    "Topics/Unwritten/Glenumbria Moors.md",
+    "Topics/Unwritten/brass fever.md",
+    "Topics/Unwritten/Bjoulsae river basin.md",
+    "Topics/Unwritten/People/Thyr Topfield.md",
+    "Topics/Unwritten/People/The Crow.md",
+    "Topics/Unwritten/People/Strale.md",
+    "Topics/Unwritten/People/Squid.md",
+    "Topics/Unwritten/People/Quistley.md",
+    "Topics/Unwritten/People/Kilbar.md",
+    "Topics/Unwritten/People/Great Knight.md",
+    "Topics/Unwritten/People/Farrington.md",
+    "Topics/Unwritten/People/Doryanna Flyte.md",
+    "Topics/Unwritten/People/Bertram Spode.md",
+    "Topics/Unwritten/People/Auberon Flyte.md",
+    "Topics/Religion and Cosmology/Zenithar.md",
+    "Contributors",
     "Topics/Religion and Cosmology",
     "assets/Pasted image 20240410124455.png",
     "Untitled.canvas",
@@ -329,7 +356,6 @@
     "Attachments/Pasted image 20240402142502.png",
     "Pasted image 20240402141844.png",
     "Attachments",
-    "Topics/Unwritten/People",
-    "Topics/Unwritten"
+    "Topics/Unwritten/People"
   ]
 }
