@@ -1,4 +1,4 @@
 >[!dialogue] Class;Savant
-An adventurer should know the basics of Imperial law concerning life and property. Verbal assault, pickpocketing, and trespassing are minor crimes, punished by fines or hard labor. Theft and foul murder are felonies. Theft is punished by fines proportional to the value of the property stolen, or by hard labor. Foul murder is punishable by fines of at least 1000 drakes, or by hard labor.
-**(continue)**
-[[Fines and compensation]] are determined by magistrates, and may be paid to guards. In place of fines, the criminal may serve extended sentences of hard labor. The workcamps are hard places for hard men, and for each day served, expect to lose some hard-earned skill as a result of physical, mental, or emotional punishment.
+>An adventurer should know the basics of Imperial law concerning life and property. Verbal assault, pickpocketing, and trespassing are minor crimes, punished by fines or hard labor. Theft and foul murder are felonies. Theft is punished by fines proportional to the value of the property stolen, or by hard labor. Foul murder is punishable by fines of at least 1000 drakes, or by hard labor.
+>**(continue)**
+>[[Fines and compensation]] are determined by magistrates, and may be paid to guards. In place of fines, the criminal may serve extended sentences of hard labor. The workcamps are hard places for hard men, and for each day served, expect to lose some hard-earned skill as a result of physical, mental, or emotional punishment.

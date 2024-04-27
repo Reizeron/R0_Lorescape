@@ -1,2 +1,2 @@
 >[!dialogue] Author;R-Zero
-The most common herd animal found in High Rock is the [[cattle]]. The [[pig]] and the [[goat]] are also widespread and their feral cousins, the [[wild boar]] and the [[mountain goat]] can be found in the province's wilderness areas.
+>The most common herd animal found in High Rock is the [[cattle]]. The [[pig]] and the [[goat]] are also widespread and their feral cousins, the [[wild boar]] and the [[mountain goat]] can be found in the province's wilderness areas.

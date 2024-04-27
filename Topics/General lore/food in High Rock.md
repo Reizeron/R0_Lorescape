@@ -1,7 +1,7 @@
 >[!dialogue] Class;Savant Author;R-Zero
-While High Rock is most famous for its sophisticated [[gourmet cuisine]], the common local foodstuffs are no less delectable. The staple grains are the Bretonian [[wheat]] and the Reach [[rye]] eaten as porridge or baked into pastries with various fillings. No less popular are green vegetables like [[battaglir weed]] and [[combwort]] as well as fruits like an [[apple]].
-**(continue)**
-The most popular sources of protein are meats of the [[domestic animals]] like [[cattle]] and legumes like the [[clover pea]]. The most popular beverages are the [[blackbeer]], a dark ale brewed from rye grain and the famous [[jenever]], a hard liquor flavored with local berries.
+>While High Rock is most famous for its sophisticated [[gourmet cuisine]], the common local foodstuffs are no less delectable. The staple grains are the Bretonian [[wheat]] and the Reach [[rye]] eaten as porridge or baked into pastries with various fillings. No less popular are green vegetables like [[battaglir weed]] and [[combwort]] as well as fruits like an [[apple]].
+>**(continue)**
+>The most popular sources of protein are meats of the [[domestic animals]] like [[cattle]] and legumes like the [[clover pea]]. The most popular beverages are the [[blackbeer]], a dark ale brewed from rye grain and the famous [[jenever]], a hard liquor flavored with local berries.
 
 %%
 Food in Morrowind:

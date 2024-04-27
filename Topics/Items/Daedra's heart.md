@@ -1,2 +1,2 @@
 >[!dialogue] Class;Alchemist
-A Daedra's heart must be removed during the brief period of its appearance on the mortal plane. The Daedra's heart has modest magical properties, but, since removing the heart is generally fatal to the specimen, the substance is rare and expensive.
+>A Daedra's heart must be removed during the brief period of its appearance on the mortal plane. The Daedra's heart has modest magical properties, but, since removing the heart is generally fatal to the specimen, the substance is rare and expensive.
