@@ -6,57 +6,18 @@
       {
         "id": "80e41e64266d1d68",
         "type": "tabs",
-        "dimension": 53.125,
+        "dimension": 45.07042253521127,
         "children": [
-          {
-            "id": "3e0bd5136c2556eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Races and Ethnic groups/races.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49bdd5fca7d9e7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contributors/Author;R-Zero.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6b01151305a7877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
           {
             "id": "95fb317f1bcb44cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/General lore/High Rock lore.md",
-                "mode": "source",
+                "file": "Topics/Religion and Cosmology/Phynaster.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             },
             "group": "58a8ca063db9ed0b"
@@ -79,20 +40,32 @@
               "type": "markdown",
               "state": {
                 "file": "Concepts/DRAFT;Religion.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6c017c22e1ec1123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Varieties of Faith in the Empire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9fe4fb9ab16dc362",
         "type": "tabs",
-        "dimension": 46.875,
+        "dimension": 54.929577464788736,
         "children": [
           {
             "id": "5be6d9e4215004a9",
@@ -100,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Topics/General lore/High Rock lore.md",
+                "file": "Topics/Religion and Cosmology/Phynaster.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,11 +142,11 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.755208333333333,
-                  "repelStrength": 15.625,
+                  "centerStrength": 0.609375,
+                  "repelStrength": 18.3333333333333,
                   "linkStrength": 1,
-                  "linkDistance": 130,
-                  "scale": 0.5087618855792746,
+                  "linkDistance": 30,
+                  "scale": 0.508761885579278,
                   "close": true
                 }
               }
@@ -209,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,14 +219,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Topics/Religion and Cosmology/Phynaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -263,8 +236,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
-                "linksCollapsed": false,
+                "file": "Topics/Religion and Cosmology/Phynaster.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -286,11 +259,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Topics/Religion and Cosmology/Phynaster.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -308,34 +282,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d6b01151305a7877",
+  "active": "95fb317f1bcb44cf",
   "lastOpenFiles": [
+    "Books/Varieties of Faith in the Empire.md",
+    "Concepts/DRAFT;Religion.md",
+    "Topics/Religion and Cosmology/Phynaster.md",
+    "Topics/Religion and Cosmology/Aedric Orders.md",
+    "Concepts/DRAFT;To-do list.md",
+    "Topics/Geography/Balfiera.md",
+    "Topics/General lore/High Rock lore.md",
+    "Topics/Religion and Cosmology/religion in High Rock.md",
     "Topics/Factions/factions.md",
-    "Topics/General lore/High Rock cultures.md",
-    "Topics/General lore/settlements in High Rock.md",
-    "Index.md",
-    "Topics/my trade.md",
-    "Topics/Unwritten/Skeffington Wood.md",
-    "Topics/Unwritten/Quill Circus.md",
-    "Topics/Unwritten/Nightside Asylum.md",
-    "Topics/Unwritten/Night Mother.md",
-    "Topics/Unwritten/Ilessan Hills.md",
-    "Topics/Unwritten/Dellese Isles.md",
-    "Topics/Unwritten/Glenumbria Moors.md",
-    "Topics/Unwritten/brass fever.md",
+    "Imperial Government.md",
+    "Topics/Religion and Cosmology/Auri-El.md",
+    "Topics/Religion and Cosmology/Stendarr.md",
+    "Topics/Religion and Cosmology/Xarxes.md",
+    "Topics/Geography/geography of High Rock.md",
+    "Topics/Geography/Bjoulsae.md",
+    "Topics/Races and Ethnic groups/river tribes.md",
+    "Iliac Bay.md",
+    "Topics/Geography/Sea of Ghosts.md",
     "Topics/Unwritten/Bjoulsae river basin.md",
-    "Topics/Unwritten/People/Thyr Topfield.md",
-    "Topics/Unwritten/People/The Crow.md",
-    "Topics/Unwritten/People/Strale.md",
-    "Topics/Unwritten/People/Squid.md",
-    "Topics/Unwritten/People/Quistley.md",
-    "Topics/Unwritten/People/Kilbar.md",
-    "Topics/Unwritten/People/Great Knight.md",
-    "Topics/Unwritten/People/Farrington.md",
-    "Topics/Unwritten/People/Doryanna Flyte.md",
-    "Topics/Unwritten/People/Bertram Spode.md",
-    "Topics/Unwritten/People/Auberon Flyte.md",
-    "Topics/Religion and Cosmology/Zenithar.md",
+    "Topics/General lore/Masconian Trade Way.md",
+    "Topics/my trade.md",
+    "Index.md",
+    "OOG Lore/Ted Peterson on High Rock and Summerset - Religion.md",
+    "OOG Lore/Ted Peterson on High Rock and Summerset - Geography.md",
+    "Topics/Religion and Cosmology/Magnus.md",
+    "Classes/Class;Agent.md",
     "Contributors",
     "Topics/Religion and Cosmology",
     "assets/Pasted image 20240410124455.png",

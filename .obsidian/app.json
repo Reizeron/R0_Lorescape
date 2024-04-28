@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "hidden",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "assets"
 }

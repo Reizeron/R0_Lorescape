@@ -1,3 +1,7 @@
+---
+title: Welcome to High Rock Zero
+---
+
 by R-Zero and co.
 
 This project is an exercise in a bottom-up, dialogue-driven kind of worldbuilding for the Elder Scrolls, using Obsidian.
@@ -17,7 +21,7 @@ Warning: This is a heavily WIP project! A lot of the pages haven't been created 
 A short explanation of the dialogue response format used in this project:
 
 >[!dialogue] Class;Savant Faction;NineDivines Author;R-Zero
-> On the top of this box you can see the filtering conditions for this response, as well as the name of the contributor. If there's no contributor name, that means it was taken from the vanilla game. The text is styled after actual Morrowind dialogue and uses the Pelagiad font with text color values taken from Morrowind.ini. There can be [[hyperlinks]] to other [[topics]], like this. The character limit is 512 and if more space is required, the box is chained using
+> On the top of this box you can see the filtering conditions for this response, as well as the name of the contributor. If there's no contributor name, that means it was taken from the vanilla game. The text is styled after actual Morrowind dialogue and uses the [Pelagiad](https://isaskar.github.io/Pelagiad/) font with text color values taken from Morrowind.ini. The character limit is 512 and if more space is required, the box is chained using
 >**(continue)**
->like this.
+>like this. There can be hyperlinks to other topics, just like in Morrowind -- you can start browsing by going to the [[my trade]] or the [[High Rock lore]] topic pages.
 >*;this field at the bottom corresponds to the Result field in the MW dialogue system, used for developer comments and script commands.*
