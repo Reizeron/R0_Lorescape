@@ -8,7 +8,7 @@ What to do next:
 	  - Don't remember if I need to echo off or something
 	  - Need bat files for quick preview build using a different content folder:
 	   `-d` or `--directory`: the content folder. This is normally just `content`
-- [ ] Write scripts to transfer website content from the obsidian vault
+- [x] Write scripts to transfer website content from the obsidian vault
 	- Topics only?
 	- Alternatively, create a symlink to the Obsidian vault
 		- Enabled symlinks in git settings, will try again.
