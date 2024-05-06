@@ -1,0 +1,3 @@
+>[!dialogue] Class;Alchemist Class;Apothecary
+>Ingredients sought by alchemists and apothecaries fall into four broad categories: animal, vegetable, and mineral products, and a fourth category loosely described as exotic. [[Animal products]] come from mortal beasts. [[Vegetable products]] come from plants. [[Mineral products]] come from the earth. [[Exotic products]] come from many sources, but are generally of magical or otherworldly origin. When eaten, some ingredients have useful effects; others have bad effects; the scale of effect depends on alchemy skill.
+>*;alchemist; apothecaries;*

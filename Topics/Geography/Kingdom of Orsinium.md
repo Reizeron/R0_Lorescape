@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant Class;Scout Author;R-Zero
+>Kingdom of Orsinium is one of the [number] Imperial administrative [[districts of High Rock]]. Orsinium's territory includes much of the [[Wrothgarian mountains]] and the [[Bjoulsae]] rivercoast, crossing into the province of Hammerfell where it controls parts of the [[Bantha]] and the [[Dragontail mountains]]. Its capital is the city of [[Nova Orsinium]] and it is ruled by its founder king [[Gortwog]] gro-Nagorm.

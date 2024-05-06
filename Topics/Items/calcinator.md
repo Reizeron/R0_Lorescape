@@ -1,0 +1,2 @@
+>[!dialogue] Class;Alchemist
+>A calcinator is a stove or crucible which reduces metals and substances to ash so their arcane properties can be separated from the dross. They must be made of porcelain or iron device to withstand the high temperatures necessary to reduce certain substances to ash.

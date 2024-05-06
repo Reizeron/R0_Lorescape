@@ -1,6 +1,4 @@
-
 #book
-
 by Odiva Gallwood
 
 There is sufficient archaeological evidence for the modern historian to believe that there has been some variety of human settlement in the city-state of Daggerfall starting at least a thousand years before recorded history. The first use of the name Daggerfall to refer to the area around the current capital was most probably in the 246th year of the 1st Era. The north half of the Iliac Bay, in fact all of the current province of High Rock, was conquered by invading Nords who brought a rough sort of civilization with them. One of the first civilized acts the Nords performed was a census -- the so-called Book of Life. Listed on page 933 of the Book is this entry:
@@ -15,7 +13,7 @@ The Daggerfall entry from the Book of Life actually supports one theory about th
 
 Daggerfall thrived during the years of the Skyrim occupancy. When the Wild Hunt killed King Borgas of Winterhold in 1E 369, the northlands engaged in the War of Succession and Skyrim, greatly weakened, lost her holdings in High Rock and Morrowind. The Iliac Bay had become important strategically, and Daggerfall began to expand her military.
 
-There were multiple opportunities for her to exercise this army and navy during the Direnni conflicts with the force of the Alessian Reform. The Dirennis were native Bretons, and Bretons are hardly ever given to excessive religion. Daggerfall became a minor base of operations for the Dirennis and their allies. Raven Direnni, the enchantress whose magic helped secure the final victory over the Alessians in the Glenumbria Moors, was one of the earliest occupants of Castle Daggerfall.
+There were multiple opportunities for her to exercise this army and navy during the Direnni conflicts with the force of the Alessian Reform. The Dirennis were native Bretons, and Bretons are hardly ever given to excessive religion. Daggerfall became a minor base of operations for the Dirennis and their allies. Raven Direnni, the enchantress whose magic helped secure the final victory over the Alessians in the Glenumbria Moors, was one of the earliest occupants of Castle Daggerfall. ^6671a1
 
 Over the centuries that followed, the Dirennis felt into obscurity, but Daggerfall continued her growth. In 1E 609, King Thagore of Daggerfall defeated the army of Glenpoint and became the preeminent economic, cultural, and military force in southern High Rock. A position the kingdom has precariously kept ever since.
 
@@ -25,4 +23,4 @@ The Kingdom of Sentinel did not exhibit Wayrest's aggrandizement during the Firs
 
 The Second Era, like the latter part of the First Era, is a tapestry of wars, insurrections, and plagues. Daggerfall, Sentinel, and Wayrest continued to expand and improve their military and economic positions in the Bay. Daggerfall and Wayrest would transpose positions as major trading center of the Bay, and Daggerfall and Sentinel likewise bandied over which was the superior military power.
 
-The Iliac Bay has continued to hold an important position in the Imperial government of the Third Era. Rarely allies (though the combined armies in opposition to the [[Camoran Usurper]] in the 3rd century of the 3rd Era is a notable exception), but not always enemies, Daggerfall, Sentinel, and Wayrest have weathered the storms of contention, plague, famine, and pestilence. The recent [[War of Betony]] was typical of Iliac Bay warfare: sincere, frighteningly violent, and peaceably resolved.
+The Iliac Bay has continued to hold an important position in the Imperial government of the Third Era. Rarely allies (though the combined armies in opposition to the Camoran Usurper in the 3rd century of the 3rd Era is a notable exception), but not always enemies, Daggerfall, Sentinel, and Wayrest have weathered the storms of contention, plague, famine, and pestilence. The recent War of Betony was typical of Iliac Bay warfare: sincere, frighteningly violent, and peaceably resolved.

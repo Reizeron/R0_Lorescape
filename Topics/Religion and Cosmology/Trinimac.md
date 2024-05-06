@@ -1,0 +1,2 @@
+>[!dialogue] Class;Priest Faction;AedricOrders Author;R-Zero
+>Trinimac was the strongest of all [[Aedra]] and the greatest knight of [[Auri-El]]. He defeated [[Lorkhan]] at the [[Adamantine Tower]], but ultimately failed to destroy him. There, realizing the depth of Lorkhan's treachery, he authored the Psalms of Lament. Trinimac was later tricked and unmade by the foul Dunmeri god [[Boethiah]] and is our ancestor no more.

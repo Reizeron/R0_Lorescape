@@ -1,2 +1,2 @@
 >[!dialogue] Class;Alchemist
->Scamp skin must be removed from the specimen while it is still bound on the mortal plane. It is an unpleasant business for both the scamp and skin-farmer, and alchemists have trouble keeping the substance in stock.
+>Scamp skin must be removed from the specimen while it is still bound on the mortal plane. It is an unpleasant business for both the [[scamp]] and skin-farmer, and alchemists have trouble keeping the substance in stock.

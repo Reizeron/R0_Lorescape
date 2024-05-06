@@ -1,3 +1,3 @@
->[!dialogue] Class;Savant Author;R-Zero
+>[!dialogue] Class;Savant Class;Noble Author;R-Zero
 >Five kingdoms recognized by the Empire are: the traditional [[Kingdom of Daggerfall]], [[Kingdom of Wayrest]], [[Kingdom of Camlorn]] and [[Kingdom of Shornhelm]] and the recently founded [[Kingdom of Orsinium]]. All kings and queens swear fealty directly to the Emperor Uriel Septim VII, and receive Imperial ambassadors to their [[royal courts]]. Pretender-kings of the highland clans meanwhile are not recognized by the Empire as sovereign and their lands are administered by the local Imperial Governors.
 >*;topics for the political realms, corresponding to Morrowind's House district system. Distinct from the topics for the cities themselves as well as the royal courts which are the actual factions. -R-Zero*

@@ -4,9 +4,16 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:\"Topics/Religion and Cosmology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8472159
+      }
+    },
     {
       "query": "path:Topics/Bestiary/ ",
       "color": {
@@ -69,25 +76,18 @@
         "a": 1,
         "rgb": 16035502
       }
-    },
-    {
-      "query": "path:\"Topics/Religion and Cosmology\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 8472159
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2,
-  "nodeSizeMultiplier": 1.325,
-  "lineSizeMultiplier": 1.12083333333333,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.9625244140625,
+  "lineSizeMultiplier": 0.858447265625,
   "collapse-forces": false,
-  "centerStrength": 0.105387369791667,
-  "repelStrength": 8.00130208333333,
-  "linkStrength": 0.490804036458333,
-  "linkDistance": 272,
-  "scale": 0.04778763710969315,
+  "centerStrength": 0.191650390625,
+  "repelStrength": 9.19108072916667,
+  "linkStrength": 0.240966796875,
+  "linkDistance": 104,
+  "scale": 0.3213363860503876,
   "close": true
 }

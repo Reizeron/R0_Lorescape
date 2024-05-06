@@ -1,0 +1,3 @@
+>[!dialogue] Class;Savant Author:R-Zero
+>Aldmeris is the original Elvish, or '[[Aldmer|Aldmeri]]' language, still spoken as a first language among isolated Elven communities, and spoken and written by all educated Elves, and the language of the Elven arts. The root '-mer' is analogous with the root '-man' or '-men' in human language; thus, the Elves are mer as [[Human|Humans]] are men.
+>;edited from a vanilla topic

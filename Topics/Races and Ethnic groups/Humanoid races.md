@@ -1,0 +1,5 @@
+>[!dialogue] Class;Savant Author;R-Zero
+>Elves consider themselves the only 'truly human race,' being descended directly from the gods, and regard the Manish and Beast races as highly intelligent animals. On the other hand, Imperial scholars consider [[Human|Humans]], [[Aldmer|Aldmeri]], and [[Betmer|Betmeri]] as 'men,' on the basis that individuals of all three groups can mate with one another.
+>**(continue)**
+>Offspring of inter-racial matings have the racial appearance of the mother, but may occasionally share inherited characteristics and abilities of the father. [[Sload]], dragons, and other sentient races cannot mate with [[Human|Humans]], [[Aldmer|Aldmeri]], or [[Betmer|Betmeri]], and are not considered 'human.' Exceptional accounts of matings between men and [[daedra]] do not fit smoothly into this scheme.
+>*;edited from a vanilla Humanoid Races topic*

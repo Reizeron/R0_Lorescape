@@ -1,0 +1,5 @@
+>[!dialogue] Class;Savant
+>Dunmer -- literally 'the Dark, or [[Cursed People]],' or 'Dark Elves' -- are the dark-skinned Elven peoples of the East. 'Dark' is variously understood to mean 'dark-skinned,' 'gloomy,' and 'ill-favored by fate.' The Dunmer and their national character embrace these various connotations enthusiastically. In the Empire, 'Dark Elves' is the common usage.
+
+>[!dialogue] Class;Noble
+>Dark Elves are the dark-skinned, red-eyed Elven peoples of [[Morrowind]]. The 'dark' part may come from their dark grey skin, but it also fits their gloomy dispositions. Folks call them 'Dark Elf' in the West, but they call themselves the 'Dunmer.' They have no sense of humor, and always take themselves very seriously. They look down their noses at all the other races -- particularly the Khajiit and Argonians, which they treat like animals.

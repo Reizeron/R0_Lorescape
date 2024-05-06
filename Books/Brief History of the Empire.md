@@ -2,7 +2,7 @@
 by Stronach k'Thojj III
 Imperial Historian
 
-#### Part I
+### Part I
 Before the rule of Tiber Septim, all Tamriel was in chaos. The poet Tracizis called that period of continuous unrest "days and nights of blood and venom." The kings were a petty lot of grasping tyrants, who fought Tiber's attempts to bring order to the land. But they were as disorganized as they were dissolute, and the strong hand of Septim brought peace forcibly to Tamriel. The year was 2E 896. The following year, the Emperor declared the beginning of a new Era-thus began the Third Era, Year Aught.
 
 For thirty-eight years, the Emperor Tiber reigned supreme. It was a lawful, pious, and glorious age, when justice was known to one and all, from serf to sovereign. On Tiber's death, it rained for an entire fortnight as if the land of Tamriel itself was weeping.
@@ -21,7 +21,7 @@ The story of ==Kintyra II==, heiress to her father Antiochus' throne, is certain
 
 The first attack occurred in the ==Iliac Bay region==, which separates High Rock and Hammerfell. Kintyra's entourage was massacred and the Empress taken captive. For two years, Kintyra II languished in an Imperial prison believed to be somewhere in ==Glenpoint or Glenmoril== before she was slain in her cell under mysterious circumstances. The second attack was on a series of Imperial garrisons along the coastal Morrowind islands. The Empress' consort Kontin Arynx fell defending the forts. The third and final attack was a siege of the Imperial City itself, occurring after the Elder Council had split up the army to attack western High Rock and eastern Morrowind. The weakened government had little defence against Uriel's determined aggression, and capitulated after only a fortnight of resistance. Uriel took the throne that same evening and proclaimed himself Uriel III, Emperor of Tamriel. The year was 3E 121. Thus began the War of the Red Diamond, described in Volume II of this series.
 
-#### Part II
+### Part II
 Volume 1 of this series described in brief the lives of the first eight Emperors of the Septim Dynasty, beginning with the glorious Tiber Septim and ending with his great, great, great, great, grandniece Kintyra II. Kintyra's murder in Glenpoint while in captivity is considered by some to be the end of the pure strain of Septim blood in the imperial family. Certainly it marks the end of something significant.
 
 Uriel III not only proclaimed himself Emperor of Tamriel, but also Uriel Septim III, taking the eminent surname as a title. In truth, his surname was Mantiarco from his father's line. In time, Uriel III was deposed and his crimes reviled, but the tradition of taking the name Septim as a title for the Emperor of Tamriel did not die with him.
@@ -44,7 +44,7 @@ When Cassynder assumed the throne upon the death of his mother, he was already m
 
 Uriel IV's story is told in the third volume of this series.
 
-#### Part III
+### Part III
 The first volume of this series told in brief the story of the succession of the first eight Emperors of the Septim Dynasty, from Tiber I to Kintyra II. The second volume described the War of the Red Diamond and the six Emperors that followed its aftermath, from Uriel III to Cassynder I. At the end of that volume, it was described how the Emperor Cassynder's half-brother Uriel IV assumed the throne of the Empire of Tamriel.
 
 It will be recalled that Uriel IV was not a Septim by birth. His mother, though she reigned as Empress for many years, was a Dark Elf married to a true Septim Emperor, Pelagius III. Uriel's father was actually Katariah I's consort after Pelagius' death, a ==Breton nobleman named Gallivere Lariat==. Before taking the throne of Empire, Cassynder I had ruled the kingdom of Wayrest, but poor health had forced him to retire. Cassynder had no children, so he legally adopted his half-brother Uriel and abdicated the kingdom. Seven years later, Cassynder inherited the Empire at the death of his mother. Three years after that, Uriel once again found himself the recipient of Cassynder's inheritance.
@@ -61,7 +61,7 @@ Uriel V, Cephorus II's son and successor, swivelled opinion back toward the late
 
 The last four Emperors, beginning with Uriel V's infant son, are described in the fourth and final volume of this series.
 
-#### Part IV
+### Part IV
 The first book of this series described, in brief, the first eight Emperors of the Septim Dynasty beginning with Tiber I. The second volume described the War of the Red Diamond and the six Emperors who followed. The third volume described the troubles of the next three Emperors-the frustrated Uriel IV, the ineffectual Cephorus II, and the heroic Uriel V.
 
 On Uriel V's death across the sea in distant, hostile Akavir, Uriel VI was but five years old. In fact, Uriel VI was born only shortly before his father left for Akavir. Uriel V's only other progeny, by a morganatic alliance, were the twins Morihatha and Eloisa, who had been born a month after Uriel V left. Uriel VI was crowned in the 290th year of the Third Era. The Imperial Consort Thonica, as the boy's mother, was given a restricted Regency until Uriel VI reached his majority. The Elder Council retained the real power, as they had ever since the days of Katariah I.

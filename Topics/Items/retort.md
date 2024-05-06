@@ -1,0 +1,2 @@
+>[!dialogue] Class;Alchemist
+>An retort is a vessel with a beaked cap or head used in alchemical processes to transform, purify, or refine raw materials into the sublime substances used in alchemical preparations.

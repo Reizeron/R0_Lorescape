@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1714599663253,
+      "title": "Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:Topics/Bestiary/ ",
+            "color": {
+              "a": 1,
+              "rgb": 13972532
+            }
+          },
+          {
+            "query": "path:Topics/Factions/ ",
+            "color": {
+              "a": 1,
+              "rgb": 13071657
+            }
+          },
+          {
+            "query": "path:Topics/Geography  ",
+            "color": {
+              "a": 1,
+              "rgb": 13953588
+            }
+          },
+          {
+            "query": "path:Topics/Items/ ",
+            "color": {
+              "a": 1,
+              "rgb": 3452212
+            }
+          },
+          {
+            "query": "path:\"Topics/Races and Ethnic groups\"/",
+            "color": {
+              "a": 1,
+              "rgb": 1496245
+            }
+          },
+          {
+            "query": "path:\"Topics/General lore\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 3577284
+            }
+          },
+          {
+            "query": "path:Topics/People  ",
+            "color": {
+              "a": 1,
+              "rgb": 4342466
+            }
+          },
+          {
+            "query": "path:Topics/Unwritten  ",
+            "color": {
+              "a": 1,
+              "rgb": 16711791
+            }
+          },
+          {
+            "query": "path:Concepts",
+            "color": {
+              "a": 1,
+              "rgb": 16035502
+            }
+          },
+          {
+            "query": "path:\"Topics/Religion and Cosmology\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 8472159
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -1.8,
+        "nodeSizeMultiplier": 0.9625244140625,
+        "lineSizeMultiplier": 0.858447265625,
+        "collapse-forces": false,
+        "centerStrength": 0.191650390625,
+        "repelStrength": 9.19108072916667,
+        "linkStrength": 0.240966796875,
+        "linkDistance": 104,
+        "scale": 0.08317427835928057,
+        "close": true
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1714599682153,
+      "path": "Concepts/Unwritten Notes.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1714599696503,
+      "path": "Concepts/Concept;Religion.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1714599708715,
+      "path": "Index.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1714845235098,
+      "path": "Concepts/Unified Timeline.md"
+    }
+  ]
+}

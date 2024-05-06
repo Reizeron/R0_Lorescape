@@ -1,12 +1,11 @@
 #book
-
 by Menyna Gsost
 
 The year was 3E 399 and standing on a mountainside overlooking a vast tract of land between the lands of Menevia and Wayrest was a great and learned judge, an arbitrator and magistrate, impartial in his submission to the law.
 
 "You have a very strong claim to the land, my lad," said the judge. "I won't lie to you about that. But your competition has an equal claim. This is what makes my particular profession difficult at times."
 
-"You would call it my competition?" sneered Lord Bowyn, gesturing to the Orc. The creature, called [[Gortwog]] gro-Nagorm, looked up with baleful eyes.
+"You would call it my competition?" sneered Lord Bowyn, gesturing to the Orc. The creature, called Gortwog gro-Nagorm, looked up with baleful eyes.
 
 "He has ample documentation to make a claim on the land," the magistrate shrugged. "And the particular laws of our land do not discriminate between particular races. We had a Bosmer regency once, many generations ago."
 
@@ -36,7 +35,7 @@ Berylth commiserated. As the servants cleared the plates, Bowyn stood up in his 
 
 "Would you like me to?" asked Tunner obsequiously.
 
-Unknown to Berylith but known to him now, his servant had once ridden with the legendary [[Cursed Legion]] of High Rock. He not only knew how to fight in Orcish armor himself, but he had acted as trainer to other Orcs before retiring into domestic service. Desperate, Bowyn immediately engaged him as his full-time trainer.
+Unknown to Berylith but known to him now, his servant had once ridden with the legendary Cursed Legion of High Rock. He not only knew how to fight in Orcish armor himself, but he had acted as trainer to other Orcs before retiring into domestic service. Desperate, Bowyn immediately engaged him as his full-time trainer.
 
 "You try too hard, sir," said the Orc on their first day in the arena. "It is easy to strain yourself in heavy mail. The joints are just so to let you to bend with only a little effort. If you fight against the joints, you won't have any strength to fight your foe."
 

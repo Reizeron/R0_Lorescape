@@ -1,5 +1,4 @@
 #book
-
 A Report Compiled By Ulvius Tero, Blades Archivist
 
 Secret: For Your Eyes Only
@@ -17,9 +16,9 @@ Your Lordship should know that the Blades have concluded there is no plausible h
 
 There is good reason to believe that the ruling families of the four modern Iliac Bay counties had forewarning of the event. There is also some evidence that some of these ruling families may have been directly or indirectly responsible for the event. We do not know the exact sequence of actions that produced the event, although we are confident that the 'Totem' artifact was involved, and that a Blades agent was involved in employing that artifact. We unfortunately lost contact with that agent immediately after the event; his report might have gone some way to resolving the contradictory and paradoxical accounts of the event.
 
-The Blades have on file few reports from agents dating from the "Warp in the West" period. Most of our agents were lost in the initial dislocations, and others were lost in the confusion after the event. I present a few of these reports to give you a general sense of their limitations, including the report of your diplomatic predecessor, [[Lord Strale]]. You will have had access to other private and rumored accounts of the period. I believe you will agree that these documents raise more questions than they answer.
+The Blades have on file few reports from agents dating from the "Warp in the West" period. Most of our agents were lost in the initial dislocations, and others were lost in the confusion after the event. I present a few of these reports to give you a general sense of their limitations, including the report of your diplomatic predecessor, Lord Strale. You will have had access to other private and rumored accounts of the period. I believe you will agree that these documents raise more questions than they answer.
 
-The Report of Hammerfell Agent 'Briarbird'
+##### The Report of Hammerfell Agent 'Briarbird'
 'I was on assignment in the Alik'r Desert, a few miles south of Bergama on the 9th of Frostfall. I was encamped, as it was still early morning, when I felt the ground shake so violently, I was thrown to the ground. Dazed, I was aware of a great roar of a sandstorm, which alarmed me, as I had been on a high dune and had seen nothing like that on the horizon. It was on me before I was even on my knees, burying me and my camp.
 
 When I crawled my way out of the sand, I realized that I must make haste and get to Bergama as soon as possible, as all my food and water had been swept away. The sun was just rising as I began, like I said. When I reached Bergama, it was nightfall. The town was in chaos, filled with the soldiers of Sentinel. The Lord of Bergama's fortress was in ruins.
@@ -28,8 +27,8 @@ There had been an attack, but no one had seen it, only the invasion that followe
 
 I since have concluded that they had received advance warning, and so were better prepared to deal with the strange confusion of time and dates associated with the Warp.'
 
-The Report of High Rock Agent 'Graylady'
-'I was, at the time of the Warp, undercover as a witch in the [[Skeffington Coven]] of Phrygias, in central High Rock. In order to give my report, I had volunteered for an expedition to gather supplies, which would allow me the freedom to reach my contact in Camlorn. I was traveling north-east along the foothills of the Wrothgarian Mountains, on the 9th of Frostfall, when I felt a great heat behind me, like a fire. I turned, but I regret to say I cannot tell you what I saw. The healers tell me my eyes were burned out of my sockets.
+##### The Report of High Rock Agent 'Graylady'
+'I was, at the time of the Warp, undercover as a witch in the Skeffington Coven of Phrygias, in central High Rock. In order to give my report, I had volunteered for an expedition to gather supplies, which would allow me the freedom to reach my contact in Camlorn. I was traveling north-east along the foothills of the Wrothgarian Mountains, on the 9th of Frostfall, when I felt a great heat behind me, like a fire. I turned, but I regret to say I cannot tell you what I saw. The healers tell me my eyes were burned out of my sockets.
 
 I think I must have fallen into a state of semi-consciousness, for I distinctly remember falling as the ground seemed to give way beneath me. Then there was a series of explosions in the distance, to the south, and I heard high whistling noises that were getting louder, coming closer. I had my shield with me, and fortunately anticipated that volleys of some sort were falling from the sky. Though I could not see them, I could hear them coming from a distance away, and was able to use my shield to block them from striking me.
 
@@ -37,7 +36,7 @@ The assault stopped suddenly, and I could smell smoke. I learned later that most
 
 It was there I learned that there had been a three-way clash between Daggerfall, Wayrest, and Orsinium not far from where I had been, and that the land midway between their kingdoms had been decimated.'
 
-The Report of Ambassador Lord Naigon Strale
+##### The Report of Ambassador Lord Naigon Strale
 'His Imperial Majesty had sent me on a delicate errand, the details of which I cannot convey in this unsecure report, but my official capacity was to be the Emperor's ambassador to the court of Wayrest. From there, I was to meet with an old friend, Lady Brisienna, who was already in the vicinity. Forgoing any attempt at stealth, I was on an Imperial barge, sailing westward on the Bjoulsae, the morning of the 9th of Frostfall. I remember it was a slightly chilly day, but the sky was very blue.
 
 'We had just passed the delightful riverside village of Candlemass when the captain sounded the alarum. There, in front of us, was a colossal wall of water, at least thirty feet high. It smashed our barge to splinters before any of us had a chance to react. I woke up on the shore, having been rescued by one of my servants who had miraculously not lost consciousness. He and I and one other man were the only survivors.
@@ -68,7 +67,7 @@ I can say that there were other strange events on that day which kept the kingdo
 
 And I can say there is nothing left of it - this power, this weapon - in the Bay. The Warp that it created swallowed it up.'
 
-Current Political Affairs in the Iliac Bay
+##### Current Political Affairs in the Iliac Bay
 Almost twenty years have passed, and the region, though transformed, has stabilized. There are no more disputed territories, and the kingdoms of Daggerfall, Wayrest, Sentinel, and Orsinium hold their new borders in relative peace.
 
 Wayrest spreads across the eastern coast of the Bay, stretching from the land formerly called Anticlere to half of Gavaudon. Eadwyre has passed on to his ancestors, leaving his kingdom in the hands of his daughter, Elysana, who has two children by her royal consort, and seems likely to hold her father's lands. Your Lordship may also choose to communicate directly with King Helseth and Queen Barenziah in Mournhold. Their primary preoccupations are, of course, with Morrowind's affairs, but they may still have useful observations upon Wayrest's ruling families and political environment that may aid you in your understanding of the court of Queen Elysana.

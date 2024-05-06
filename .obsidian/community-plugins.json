@@ -2,5 +2,9 @@
   "better-word-count",
   "obsidian-query-control",
   "persistent-graph",
-  "attachment-management"
+  "attachment-management",
+  "links",
+  "dataview",
+  "better-fn",
+  "sync-graph-settings"
 ]

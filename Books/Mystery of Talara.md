@@ -1,7 +1,7 @@
 #book 
 by Mera Llykith
 
-Part I
+### Part I
 The year was 3E 405. The occasion was the millennial celebration of the founding of the Breton Kingdom of Camlorn. Every grand boulevard and narrow alley was strung with ==gold and purple== banners, some plain, some marked with the heraldic symbols of the Royal Family or the various principalities and dukedoms which were vassals of the King. Musicians played in the plazas great and small, and on every street corner was a new exotic entertainer: Redguard ==snake charmers==, Khajiiti acrobats, magicians of genuine power and those whose flamboyant skill was equally impressive if largely illusion.
 
 The sight that drew most of the male citizens of Camlorn was the March of Beauty. A thousand comely young women, brightly and provocatively dressed, danced their way down the ==long, wide main street== of the city, from the ==Temple of Sethiete to the Royal Palace==. The menfolk jostled one another and craned their necks, picking their favorites. It was no secret that they were all prostitutes, and after the March and the Flower Festival that evening, they would be available for more intimate business.
@@ -76,7 +76,7 @@ The music and the festival were too loud up above: no one could hear her - she c
 
 She released her grip and let herself fall like a leaf into the water below.
 
-Part II
+### Part II
 She felt nothing, darkness enveloping her body and mind. Pain surged through her leg and with that sensation, a great feeling of cold washed over her. She opened her eyes and saw that she was drowning.
 
 Her left leg would not move at all, but using her right one and her arms, she pulled herself up toward the moons above. It was long way through the swirling currents that wrenched back at her. At last she broke the surface and sucked in the cold night air. She was still close to the ==rocky shoreline== of the capitol city of the kingdom of Camlorn, but the water had carried her quite a ways from the point where she fell at Cavilstyr Rock.
@@ -149,7 +149,7 @@ She had not been walking for very long, when a black carriage drawn by three hor
 
 So she did. And he listened.
 
-Part III
+### Part III
 Gnorbooth was leaving his favorite pub in Camlorn, ==The Breaking Branch==, when he heard someone calling his name. His was not the sort of a name that could be mistaken for another. He turned and saw ==Lord Eryl==, the Royal Battlemage from the palace, emerge from the darkness of the alley.
 
 "Milord," said Gnorbooth with a pleasant smile.
@@ -238,7 +238,7 @@ There was an explosion of energy that filled the night, and an echoing boom that
 
 "Let's start with everything," replied Lord Strale with perfect patience.
 
-Part IV
+### Part IV
 Gyna never saw the Emperor's agent Lady Brisienna again, but she kept her promise. ==Proseccus, a nightblade in the service of the Empire==, arrived at Lord Strale's house in disguise. She was an apt pupil, and within days, he had taught what she needed to know.
 
 "It is a simple charm, not the sort of spell that could turn a raging daedroth into a love-struck puppy," said Proseccus. "If you do or say anything that would normally anger or offend your target, the power will weaken. It will alter temporarily his perception of you, as spells of the school of illusion do, but his feelings of respect and admiration for you must be supported by means of a charm of a less magickal nature."
@@ -339,7 +339,7 @@ Lord Strale turned to Proseccus: "We would speak with the Lady Jyllia alone. You
 
 Proseccus nodded and had the doors to the throne room closed once again. The courtiers pressed against the wood, straining to hear everything. Though they could not say it, they wanted an explanation almost as much as her Ladyship did.
 
-Part V
+### Part V
 "By what right do you arrest my father?" cried the Lady Jyllia. "What has he done?"
 
 "I arrest the King of Camlorn, the former Duke of Oloine, by my right as an ==Imperial Commanding Officer and Ambassador==," said Lord Strale. "By the right of law of the Emperor of Tamriel which supersedes all provincial royal authority."

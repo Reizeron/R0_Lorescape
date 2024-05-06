@@ -1,5 +1,4 @@
 #book
-
 by Aicantar of Shimerene
 
 Timeline Series - Vol 1
@@ -7,7 +6,7 @@ Before man came to rule Tamriel, and before the chronicles of the historians rec
 
 For convenience, historians divide the distant ages of prehistory into two broad periods of time -- the Dawn Era, and the Merethic Era.
 
-The Dawn Era
+###### The Dawn Era
 The Dawn Era is that period before the beginning of mortal time, when the feats of the gods take place. The Dawn Era ends with the exodus of the gods and magic from the World at the founding of the Adamantine Tower.
 
 The term 'Merethic' comes from the Nordic, literally, "Era of the Elves." The Merethic Era is the prehistoric time after the exodus of the gods and magic from the World at the founding of the Adamantine Tower and before the arrival of Ysgramor the Nord in Tamriel.
@@ -18,8 +17,8 @@ The Cosmos formed from the Aurbis (chaos, or totality) by Anu and Padomay. Akato
 
 When Magic (Magnus), architect of the plans for the mortal world, decided to terminate the project, the Gods convened at the Adamantine Tower (Direnni Tower), the oldest known structure in Tamriel) and decided what to do. Most left when Magic did. Others sacrificed themselves into other forms so that they might Stay (the Ehlnofey). Lorkhan was condemned by the Gods to exile in the mortal realms, and his heart was torn out and cast from the Tower. Where it landed, a Volcano formed. With Magic (in the Mythic Sense) gone, the Cosmos stabilized. Elven history, finally linear, began (ME2500).
 
-The Merethic Era
-The Merethic Era was figured by early Nord scholars as a series of years numbered in reverse order backward from their 'beginning of time' -- the founding of the [[Camoran Dynasty]], recorded as Year Zero of the First Era. The prehistoric events of the Merethic Era are listed here with their traditional Nordic Merethic dates. The earliest Merethic date cited by King Harald's scholars was ME2500 -- the Nordic reckoning of the first year of time. As such, the Merethic Era extends from ME2500 in the distant past to ME1 -- the year before the founding of the Camoran Dynasty and the establishment of the White Gold Tower as an independent city-state.
+###### The Merethic Era
+The Merethic Era was figured by early Nord scholars as a series of years numbered in reverse order backward from their 'beginning of time' -- the founding of the Camoran Dynasty, recorded as Year Zero of the First Era. The prehistoric events of the Merethic Era are listed here with their traditional Nordic Merethic dates. The earliest Merethic date cited by King Harald's scholars was ME2500 -- the Nordic reckoning of the first year of time. As such, the Merethic Era extends from ME2500 in the distant past to ME1 -- the year before the founding of the Camoran Dynasty and the establishment of the White Gold Tower as an independent city-state.
 
 According to King Harald's bards, ME2500 was the date of construction of the Adamantine Tower on Balfiera Island in High Rock, the oldest known structure of Tamriel. (This corresponds roughly to the earliest historical dates given in various unpublished Elvish chronicles.)
 
@@ -35,4 +34,4 @@ The Late Merethic Era marks the precipitous decline of Velothi culture. Some Vel
 
 It was in the Late Merethic Era that the pre-literate humans, the so-called "Nedic Peoples", from the continent of Atmora (also 'Altmora' or 'the Elder Wood' in Aldmeris) migrated and settled in northern Tamriel. The Nord culture hero Ysgramor, leader of a great colonizing fleet to Tamriel, is credited with developing a runic transcription of Nord speech based on Elvish principles, and so Ysgramor is considered the first human historian. Ysgramor's fleet landed at Hsaarik Head at the extreme northern tip of Skyrim's Broken Cape. The Nords built there the legendary city of Saarthal. The Elves drove the Men away during the Night of Tears, but Ysgramor soon returned with his Five Hundred Companions.
 
-Also during the Late Merethic Era the legendary immortal hero, warrior, sorcerer, and king variously known as Pelinal Whitestrake, Harrald Hairy Breeks, Ysmir, [[Hans the Fox]], etc., wandered Tamriel, gathering armies, conquering lands, ruling, then abandoning his kingdoms to wander again.
+Also during the Late Merethic Era the legendary immortal hero, warrior, sorcerer, and king variously known as Pelinal Whitestrake, Harrald Hairy Breeks, Ysmir, Hans the Fox, etc., wandered Tamriel, gathering armies, conquering lands, ruling, then abandoning his kingdoms to wander again.

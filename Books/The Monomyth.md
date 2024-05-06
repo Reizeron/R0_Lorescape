@@ -40,8 +40,7 @@ The magical beings created the races of the mortal Aurbis in their own image, ei
 The magical beings, then, having died, became the et'Ada. The et'Ada are the things perceived and revered by the mortals as gods, spirits, or geniuses of Aurbis. Through their deaths, these magical beings separated themselves in nature from the other magical beings of the Unnatural realms.
 
 The Daedra were created at this time also, being spirits and Gods more attuned to Oblivion, or that realm closer to the Void of Padomay. This act is the dawn of the Mythic (Merethic) Era. It has been perceived by the earliest mortals many different ways, either as a joyous 'second creation', or (especially by the Elves) as a painful fracturing from the divine. The originator of the event is always Lorkhan.
-Lorkhan
-
+###### Lorkhan
 This Creator-Trickster-Tester deity is in every Tamrielic mythic tradition. His most popular name is the Aldmeri "Lorkhan," or Doom Drum. He convinced or contrived the Original Spirits to bring about the creation of the Mortal Plane, upsetting the status quo much like his father Padomay had introduced instability into the universe in the Beginning Place. After the world is materialized, Lorkhan is separated from his divine center, sometimes involuntarily, and wanders the creation of the et'Ada. Interpretations of these events differ widely by culture. Below are some of the better known:
 
 #### Yokudan, "Satakal the Worldskin"

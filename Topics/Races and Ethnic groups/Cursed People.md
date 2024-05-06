@@ -1,0 +1,3 @@
+>[!dialogue] Class;Savant
+>In Imperial stories, the dark skin and red eyes of the [[Dunmer]] derives from 'the Dark Elven Curse,' which was caused by a moral taint, a sorcerous curse, and the pernicious environment of the northeastern wastelands, according to various legends and fables. These stories may be plausibly ascribed to western Imperial racial prejudice and fear of the Dark Elves; such legends play no part in the Dunmer's own accounts of their past.
+>*;from the unused vanilla topic "the Dark Elven Curse"*

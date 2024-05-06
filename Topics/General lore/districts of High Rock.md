@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant Class;Scout Author;R-Zero
+>For the purposes of government and tax collection, High Rock's many lands are divided into [number] Imperial administrative districts. They include: the [[Kingdom of Daggerfall]], the [[Kingdom of Wayrest]], the [[Kingdom of Camlorn]], the [[Kingdom of Shornhelm]] and the [[Kingdom of Orsinium]], as well as the Governorate of [[Kambray Highlands]], the Governorate of [[Northern Coast]], the Governorate of the [[Western Reach]] and finally, the special District of [[Balfiera]].

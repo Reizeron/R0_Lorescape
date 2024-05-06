@@ -1,5 +1,4 @@
 #book
-
 by An Anonymous Spy
 
 > Foreward From The Publisher:

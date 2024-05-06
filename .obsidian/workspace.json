@@ -4,157 +4,209 @@
     "type": "split",
     "children": [
       {
-        "id": "80e41e64266d1d68",
-        "type": "tabs",
-        "dimension": 42.27078891257996,
+        "id": "377edfd34d4525f3",
+        "type": "split",
         "children": [
           {
-            "id": "95fb317f1bcb44cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Religion and Cosmology/Y'ffre.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "58a8ca063db9ed0b"
-          },
-          {
-            "id": "df3523f5bbbe21e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "0628a360c8df9a2a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/DRAFT;Religion.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+            "id": "80e41e64266d1d68",
+            "type": "tabs",
+            "dimension": 41.65651644336175,
+            "children": [
+              {
+                "id": "685c828599f43b12",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Topics/Factions/royal courts.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "bad29887d1fbce4a"
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "90b6d2e000cdcd23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Varieties of Faith in the Empire.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9fe4fb9ab16dc362",
-        "type": "tabs",
-        "dimension": 57.72921108742004,
-        "children": [
-          {
-            "id": "5be6d9e4215004a9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Topics/Religion and Cosmology/Y'ffre.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:\"Topics/Religion and Cosmology\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:Topics/Bestiary  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "path:Topics/Factions",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "path:\"Topics/General lore\" ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "path:\"Topics/Races and Ethnic groups\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    },
-                    {
-                      "query": "path:Topics/Items  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6073814
-                      }
-                    },
-                    {
-                      "query": "path:Topics/Geography  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6053078
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.7,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.609375,
-                  "repelStrength": 18.3333333333333,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.5087618855792806,
-                  "close": true
+              {
+                "id": "af42bf80ebef1fc1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/A History of Daggerfall.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "df3523f5bbbe21e9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "bf3e5bfed16dce41",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Topics/General lore/politics of High Rock.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
               }
-            },
-            "group": "58a8ca063db9ed0b"
+            ]
+          },
+          {
+            "id": "1265fcce53b54c13",
+            "type": "tabs",
+            "dimension": 58.34348355663824,
+            "children": [
+              {
+                "id": "5be6d9e4215004a9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Topics/Factions/royal courts.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:\"Topics/Religion and Cosmology\"  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8472159
+                          }
+                        },
+                        {
+                          "query": "path:Topics/Bestiary/ ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13972532
+                          }
+                        },
+                        {
+                          "query": "path:Topics/Factions/ ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13071657
+                          }
+                        },
+                        {
+                          "query": "path:Topics/Geography  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13953588
+                          }
+                        },
+                        {
+                          "query": "path:Topics/Items/ ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3452212
+                          }
+                        },
+                        {
+                          "query": "path:\"Topics/Races and Ethnic groups\"/",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1496245
+                          }
+                        },
+                        {
+                          "query": "path:\"Topics/General lore\"  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3577284
+                          }
+                        },
+                        {
+                          "query": "path:Topics/People  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4342466
+                          }
+                        },
+                        {
+                          "query": "path:Topics/Unwritten  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711791
+                          }
+                        },
+                        {
+                          "query": "path:Concepts",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16035502
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.609375,
+                      "repelStrength": 18.3333333333333,
+                      "linkStrength": 1,
+                      "linkDistance": 211,
+                      "scale": 0.3628873693012488,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "bad29887d1fbce4a"
+              },
+              {
+                "id": "2f70b00e979b7301",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Topics/Factions/court of Daggerfall.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "19483894b1238981",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Topics/Factions/court of Wayrest.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -183,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storyteller",
+                "query": "merchant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,13 +252,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -222,14 +272,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Varieties of Faith in the Empire.md",
+                "file": "Topics/Factions/court of Wayrest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -239,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Varieties of Faith in the Empire.md",
+                "file": "Topics/Factions/court of Wayrest.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -262,12 +312,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Varieties of Faith in the Empire.md"
+                "file": "Topics/Factions/court of Wayrest.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,38 +334,47 @@
       "random-note:Open random note": false
     }
   },
-  "active": "90b6d2e000cdcd23",
+  "active": "19483894b1238981",
   "lastOpenFiles": [
-    "Concepts/DRAFT;Religion.md",
-    "Topics/Religion and Cosmology/Y'ffre.md",
-    "Topics/Religion and Cosmology/Aedric Orders.md",
-    "Topics/Religion and Cosmology/Phynaster.md",
-    "Topics/Religion and Cosmology/Stendarr.md",
-    "Books/Of Jephre.md",
-    "Books/The Monomyth.md",
-    "The Annotated Anuad.md",
-    "Topics/Religion and Cosmology/Mara.md",
-    "Topics/Religion and Cosmology/Magnus.md",
-    "Topics/Religion and Cosmology/Xarxes.md",
-    "Topics/Religion and Cosmology/religion in High Rock.md",
-    "Books/Varieties of Faith in the Empire.md",
-    "Topics/Religion and Cosmology/Principalities of Oblivion.md",
-    "Topics/Geography/the Empire.md",
-    "Index.md",
-    "Concepts/DRAFT;To-do list.md",
-    "Topics/Geography/Balfiera.md",
-    "Topics/General lore/High Rock lore.md",
-    "Topics/Factions/factions.md",
-    "Imperial Government.md",
-    "Topics/Religion and Cosmology/Auri-El.md",
-    "Topics/Geography/geography of High Rock.md",
-    "Topics/Geography/Bjoulsae.md",
-    "Topics/Races and Ethnic groups/river tribes.md",
-    "Iliac Bay.md",
+    "Topics/Factions/royal courts.md",
+    "Topics/Factions/court of Wayrest.md",
+    "Topics/Factions/court of Daggerfall.md",
+    "Order of the White Rose.md",
+    "Books/A History of Daggerfall.md",
+    "Factions/Clan Direnni Faction.md",
+    "Topics/Geography/Daggerfall.md",
+    "Topics/Factions/Direnni.md",
+    "Topics/Factions/court of Orsinium.md",
+    "Topics/General lore/Kingdoms of High Rock.md",
+    "Topics/Geography/Kingdom of Daggerfall.md",
+    "Topics/Geography/Kingdom of Orsinium.md",
+    "Factions/Court of Daggerfall Faction.md",
+    "Topics/General lore/politics of High Rock.md",
+    "Topics/High Rock lore.md",
+    "OOG Lore/PGE1/PGE1 High Rock.md",
+    "Books/Before the Ages of Man.md",
+    "Concepts/Technicals;To-do list.md",
+    "Concepts/Unwritten Notes.md",
+    "Concepts/Unified Timeline.md",
+    "Topics/Races and Ethnic groups/Breton.md",
+    "OOG Lore/Ted Peterson on High Rock and Summerset - Culture.md",
+    "Topics/Races and Ethnic groups/races.md",
+    "Topics/General lore/current events.md",
+    "Topics/General lore/High Rock's neighbors.md",
+    "Topics/General lore/lycanthropes.md",
+    "OOG Lore/PGE1",
+    "Untitled.canvas",
+    "assets/Maps/Maps/IMG-20240429124027235.gif",
+    "assets/Maps/Maps/IMG-20240429123948131.jpg",
+    "assets/Maps/Maps/IMG-20240429123745987.png",
+    "assets/Maps/Maps/IMG-20240429123653546.png",
+    "assets/Maps/Maps",
+    "assets/Maps",
+    "assets/Maps/Maps/IMG-20240429123342687.jpg",
+    "Maps",
     "Contributors",
     "Topics/Religion and Cosmology",
     "assets/Pasted image 20240410124455.png",
-    "Untitled.canvas",
     "assets/Pasted image 20240410112518.png",
     "assets/Pasted image 20240409183530.png",
     "assets/Concepts/Concept;Breton Manorial style/IMG-20240402180637034.png",
@@ -324,15 +382,6 @@
     "assets/Concepts/Concept;Breton Manorial style/IMG-20240402175948710.png",
     "assets/Concepts/Concept;Breton castle style",
     "assets/Concepts",
-    "Concepts",
-    "assets/Concepts/Concept;Breton castle style/IMG-20240402155603586.png",
-    "assets/Concept;Breton castle style",
-    "assets/Concepts/Concept;Breton castle style/IMG-20240402155603432.png",
-    "assets",
-    "Pasted image 20240402143126.png",
-    "Attachments/Pasted image 20240402142502.png",
-    "Pasted image 20240402141844.png",
-    "Attachments",
-    "Topics/Unwritten/People"
+    "Concepts"
   ]
 }

@@ -1,2 +1,2 @@
 >[!dialogue] Class;Alchemist Author;R-Zero
->A medusa's tendrils must be removed from the specimen while it remains on the mortal plane, and the difficulty of defeating one in the first place makes it a rare and valuable ingredient.
+>A [[medusa]]'s tendrils must be removed from the specimen while it remains on the mortal plane, and the difficulty of defeating one in the first place makes it a rare and valuable ingredient.

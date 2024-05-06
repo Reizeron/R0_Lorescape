@@ -1,0 +1,2 @@
+>[!dialogue] Class;Alchemist
+>An alembic is glass container in which the arcane properties of natural and supernatural substances are distilled from their raw ingredients. The substances are infused, then heated until vapor is produced. The vapor then condenses in a separate container, precipitating the distilled elements with the desired magical properties.

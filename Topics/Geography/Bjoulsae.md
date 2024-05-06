@@ -1,5 +1,3 @@
- #todo
- 
 >[!dialogue] Class;Savant Author;R-Zero
 >Bjoulsae is the largest river in Western Tamriel. It takes its source in the highlands of [[Western Reach]] and flows westward, merging with many tributaries on the way and forming a massive muddy delta where it drains into the [[Iliac Bay]]. Settlements along the river itself are few and it's mostly nomadic Bjoulsae [[river tribes]] that herd their horses in its basin valleys. Much of Bjoulsae coast is currently controlled by the [[Kingdom of Orsinium]].
 

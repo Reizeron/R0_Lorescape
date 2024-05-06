@@ -1,0 +1,3 @@
+>[!dialogue] Faction;NineDivines Faction;ImperialLegion Class;Agent
+>The Blades is an prestigious service order for citizens demonstrating the greatest loyalty to the Emperor. To be named to the Blades by the Emperor is a great honor, and publicly acknowledged members serve openly in noble courts and diplomatic posts. Privately, many Blades members act as the Empire's intelligence agency. Such agents conceal themselves with secret identities, operating in disguise as couriers, observers, and spies throughout the Empire.
+>*;Imperial Legion; Imperial cult;*
