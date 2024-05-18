@@ -1,4 +1,4 @@
-#book 
+#book #tes2 #tes3
 by Kier-Jo Chorvak
 
 In the wilds of most every province of Tamriel, descended philosophically if not directly from the original inhabitants of the land, are the Ayleids, commonly called the Wild Elves. While three races of Elven stock -- the Altmer (or High Elves), the Bosmer (or Wood Elves), and the Dunmer (or Dark Elves) -- have assimilated well into the new cultures of Tamriel, the Ayleids and their brethren have remained aloof toward our civilization, preferring to practice the old ways far from the eyes of the world.

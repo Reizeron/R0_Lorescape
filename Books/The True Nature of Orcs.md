@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 Orcs were born during the latter days of the Dawn Era. History has mislabeled them beastfolk, related to the goblin races, but the Orcs are actually the children of Trinimac, strongest of the Altmeri ancestor spirits. When Trinimac was eaten by the Daedroth Prince Boethiah, and transformed in that foul god's insides, the Orcs were transformed as well. The ancient name for the Orcs is 'Orsimer,' which means 'The Pariah Folk.' They now follow Malauch, the remains of Trinimac.
 
 Who is Malauch?

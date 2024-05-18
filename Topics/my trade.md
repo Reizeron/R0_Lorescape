@@ -74,7 +74,7 @@
 > *;necromancer, NOT worm cultist*
 
 >[!dialogue] Class;Noble
-> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
+> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of [[the Emperor]] and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
 > *;Noble; generic [Imperial]; make sure more specific Great House noble topics are above this one*
 
 >[!dialogue] Class;Pilgrim Author;R-Zero

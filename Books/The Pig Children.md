@@ -1,4 +1,4 @@
-#book 
+#book #tes2 #tes3
 by Tyston Bane
 
 No one -- not the oldest Dark Elf of Mount Dagoth-Ur or the Ancient Sage of Solitude himself -- can recall a time when the Orc did not ravage our fair Tamriel. Whatever foul and pestilent Daedra of Oblivion conjured them up could scarcely have created a more constant threat to the well-being of the civilized races of Tamriel than the obnoxious Orc.

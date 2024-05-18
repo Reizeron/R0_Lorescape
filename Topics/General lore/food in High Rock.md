@@ -9,7 +9,32 @@ The staple is the saltrice grain, usually eaten as a cooked porridge mixed with 
 (continue)
 The most popular sources of protein are kwama eggs and the meat of the domesticated guar. The most popular beverages are mazte (a local beer brewed from fermented saltrice) and sujamma (a potent, bitter liquor).
 
-
+How Orsinium passed to the orcs
 A liquor of poppies and goose fat, and cock tinsh with buttered hyssop for a first course; roasted pike, combwort, and balls of rabbit meat for a second; sliced fox tongues, ballom pudding with oyster gravy, battaglir weed and beans for the main course; collequiva ice and sugar fritters for dessert.
+
+Arena drinks:
+- Ale
+- Beer
+- Bitters
+- Cider
+- Djinn 'n' Tonic
+- Guttgeist
+- Lager
+- Orcgut
+- Pilsner
+- Port
+- Red wine
+- Stout
+- Sulphurwater
+- White wine
+-  Unused:
+	  Golem-maker
+	  Charybdis-on-the-Rocks
+	  Liquid Lich
+	  High Rock Milk
+	  Claymore-Through-Your-Spleen.
+
 %%
+
+
 

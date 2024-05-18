@@ -1,0 +1,3 @@
+>[!dialogue] Class;Agent Author;R-Zero
+>Uriel Septim is sick, and wizards say his heir, Geldall Septim, and the younger Septims, Enman and Ebel, are just doppelgangers placed in the household during [[Jagar Tharn]]'s tenure as Imperial Battlemage. They say the [[Imperial Guard]] charged a mob demanding destruction of the false heirs... lots of folks were killed.
+>*;edited from the vanilla topic "Unrest in Cyrodiil City", might have to merge into the Latest Rumors topic.*

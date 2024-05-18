@@ -1,0 +1,3 @@
+>[!dialogue] Class;Smith Author;R-Zero
+>Based on High Elven designs and of superior quality, orcish armaments are among the most prized in the Empire. Orcish armor is an ornate but remarkably light steel plate worn over cloth padding. Light and comfortable by contrast with other steel plate designs, orcish armor commands premium prices from campaigning mercenary officers and style-conscious nobles.
+>*;compiled from the vanilla topic*

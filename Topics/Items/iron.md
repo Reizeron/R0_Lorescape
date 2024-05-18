@@ -1,0 +1,3 @@
+>[!dialogue] Class;Smith Author;R-Zero
+>For centuries, cheap and serviceable iron and iron-reinforced armors and weapons have been produced in quantity for the Legions. These and similarly made iron armaments are in use throughout the Empire. Western-style iron plate provides good protection, but is so heavy and uncomfortable that adventurers and mercenaries quickly upgrade to better-quality metal armors.
+>*;compiled from the vanilla topic*

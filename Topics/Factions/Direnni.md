@@ -7,7 +7,7 @@
 >*;nobility view on Direnni: their politics and symbols?*
 
 >[!dialogue] Class;Merchant Author;R-Zero
->Direnni are a powerful High Elven merchant clan deriving their wealth from banking, shipping and the ever lucrative adamantium mining. They readily invest into large-scale ventures like the East Empire Company's expansion into Vvardenfell, but also engage in patronage, charity and cofinancing public works through the Imperial Building Commissions.
+>Direnni are a powerful High Elven merchant clan deriving their wealth from banking, shipping and the ever lucrative adamantium mining. They readily invest into large-scale ventures like the [[East Empire Company]]'s expansion into Vvardenfell, but also engage in patronage, charity and cofinancing public works through the Imperial Building Commissions.
 >*;Merchant view on Direnni: their economy*
 
 >[!dialogue] Class;Agent Author;R-Zero

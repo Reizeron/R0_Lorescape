@@ -4,209 +4,217 @@
     "type": "split",
     "children": [
       {
-        "id": "377edfd34d4525f3",
-        "type": "split",
+        "id": "80e41e64266d1d68",
+        "type": "tabs",
+        "dimension": 78.95065584009994,
         "children": [
           {
-            "id": "80e41e64266d1d68",
-            "type": "tabs",
-            "dimension": 41.65651644336175,
-            "children": [
-              {
-                "id": "685c828599f43b12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/Factions/royal courts.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                },
-                "group": "bad29887d1fbce4a"
-              },
-              {
-                "id": "af42bf80ebef1fc1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Books/A History of Daggerfall.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "df3523f5bbbe21e9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "bf3e5bfed16dce41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/General lore/politics of High Rock.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
+            "id": "685c828599f43b12",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Concepts/Canvas.canvas",
+                "viewState": {
+                  "x": -2574.512514766282,
+                  "y": 903.4449705193265,
+                  "zoom": -1.2872939862481252
                 }
               }
-            ]
+            },
+            "group": "61b0ebd64777618b"
           },
           {
-            "id": "1265fcce53b54c13",
-            "type": "tabs",
-            "dimension": 58.34348355663824,
-            "children": [
-              {
-                "id": "5be6d9e4215004a9",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Topics/Factions/royal courts.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:\"Topics/Religion and Cosmology\"  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8472159
-                          }
-                        },
-                        {
-                          "query": "path:Topics/Bestiary/ ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13972532
-                          }
-                        },
-                        {
-                          "query": "path:Topics/Factions/ ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13071657
-                          }
-                        },
-                        {
-                          "query": "path:Topics/Geography  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 13953588
-                          }
-                        },
-                        {
-                          "query": "path:Topics/Items/ ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 3452212
-                          }
-                        },
-                        {
-                          "query": "path:\"Topics/Races and Ethnic groups\"/",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1496245
-                          }
-                        },
-                        {
-                          "query": "path:\"Topics/General lore\"  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 3577284
-                          }
-                        },
-                        {
-                          "query": "path:Topics/People  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 4342466
-                          }
-                        },
-                        {
-                          "query": "path:Topics/Unwritten  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16711791
-                          }
-                        },
-                        {
-                          "query": "path:Concepts",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16035502
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -2,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.609375,
-                      "repelStrength": 18.3333333333333,
-                      "linkStrength": 1,
-                      "linkDistance": 211,
-                      "scale": 0.3628873693012488,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "bad29887d1fbce4a"
-              },
-              {
-                "id": "2f70b00e979b7301",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/Factions/court of Daggerfall.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "19483894b1238981",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/Factions/court of Wayrest.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
+            "id": "632a10cf015f4c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Concept;Factions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
+          },
+          {
+            "id": "df3523f5bbbe21e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "41fbd8a88894b8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Unified Timeline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255190ec0c81d107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Mystery of Talara.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af7ebfc0534dee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Concept;Religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e36d0132d318630f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/General lore/food in High Rock.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 6
+      },
+      {
+        "id": "581b6669ef1bbd6e",
+        "type": "tabs",
+        "dimension": 21.04934415990006,
+        "children": [
+          {
+            "id": "6703f203da45c92b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Concepts/Canvas.canvas",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Topics/Religion and Cosmology\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8472159
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Bestiary/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13972532
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Factions/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13071657
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Geography  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13953588
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Items/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3452212
+                      }
+                    },
+                    {
+                      "query": "path:\"Topics/Races and Ethnic groups\"/",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1496245
+                      }
+                    },
+                    {
+                      "query": "path:\"Topics/General lore\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3577284
+                      }
+                    },
+                    {
+                      "query": "path:Topics/People  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4342466
+                      }
+                    },
+                    {
+                      "query": "path:Topics/Unwritten  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711791
+                      }
+                    },
+                    {
+                      "query": "path:Concepts",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16035502
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.692708333333333,
+                  "repelStrength": 12.1875,
+                  "linkStrength": 1,
+                  "linkDistance": 138,
+                  "scale": 1.0000000000000153,
+                  "close": true
+                }
+              }
+            },
+            "group": "61b0ebd64777618b"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merchant",
+                "query": "beve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,11 +260,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 274.5
   },
   "right": {
     "id": "14fe39f3d75f7c7a",
@@ -272,13 +281,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Factions/court of Wayrest.md",
+                "file": "Topics/General lore/food in High Rock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -289,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Factions/court of Wayrest.md",
+                "file": "Topics/General lore/food in High Rock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -312,8 +321,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Factions/court of Wayrest.md"
+                "file": "Topics/General lore/food in High Rock.md"
               }
+            }
+          },
+          {
+            "id": "3abb2fef0be82481",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -331,39 +348,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19483894b1238981",
+  "active": "e36d0132d318630f",
   "lastOpenFiles": [
-    "Topics/Factions/royal courts.md",
-    "Topics/Factions/court of Wayrest.md",
-    "Topics/Factions/court of Daggerfall.md",
-    "Order of the White Rose.md",
-    "Books/A History of Daggerfall.md",
-    "Factions/Clan Direnni Faction.md",
-    "Topics/Geography/Daggerfall.md",
-    "Topics/Factions/Direnni.md",
-    "Topics/Factions/court of Orsinium.md",
-    "Topics/General lore/Kingdoms of High Rock.md",
-    "Topics/Geography/Kingdom of Daggerfall.md",
-    "Topics/Geography/Kingdom of Orsinium.md",
-    "Factions/Court of Daggerfall Faction.md",
-    "Topics/General lore/politics of High Rock.md",
-    "Topics/High Rock lore.md",
-    "OOG Lore/PGE1/PGE1 High Rock.md",
-    "Books/Before the Ages of Man.md",
-    "Concepts/Technicals;To-do list.md",
-    "Concepts/Unwritten Notes.md",
+    "Concepts/Concept;Religion.md",
     "Concepts/Unified Timeline.md",
-    "Topics/Races and Ethnic groups/Breton.md",
-    "OOG Lore/Ted Peterson on High Rock and Summerset - Culture.md",
-    "Topics/Races and Ethnic groups/races.md",
-    "Topics/General lore/current events.md",
-    "Topics/General lore/High Rock's neighbors.md",
-    "Topics/General lore/lycanthropes.md",
+    "Books/Mystery of Talara.md",
+    "Concepts/Canvas.canvas",
+    "Concepts/Concept;Factions.md",
+    "Books/Wayrest, Jewel of the Bay.md",
+    "OOG Lore/PGE1/PGE1 Cyrodiil.md",
+    "Books/The Sage.md",
+    "Books/Varieties of Faith in the Empire.md",
+    "Concepts/Concept;Camlorn.md",
+    "Factions/Court of Camlorn faction.md",
+    "Concepts/Concept;Academia.md",
+    "Concepts/Concept;Burial Rituals.md",
+    "Factions/University of Gwylim Faction.md",
+    "Concepts/Unwritten Notes.md",
+    "Factions/Court of Daggerfall Faction.md",
+    "Factions/Clan Direnni Faction.md",
+    "Topics/Geography/geography of High Rock.md",
+    "Topics/General lore/High Rock history.md",
+    "Topics/General lore/districts of High Rock.md",
+    "Topics/Factions/court of Daggerfall.md",
+    "Topics/Factions/Direnni.md",
+    "Factions/Nine Divines Faction.md",
+    "Topics/Factions/court of Camlorn.md",
+    "Topics/Factions/court of Wayrest.md",
+    "Topics/Geography/Kingdom of Daggerfall.md",
     "OOG Lore/PGE1",
-    "Untitled.canvas",
     "assets/Maps/Maps/IMG-20240429124027235.gif",
     "assets/Maps/Maps/IMG-20240429123948131.jpg",
     "assets/Maps/Maps/IMG-20240429123745987.png",

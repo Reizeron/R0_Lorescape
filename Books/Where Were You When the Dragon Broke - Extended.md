@@ -1,15 +1,14 @@
-
-#oog 
-1E1200-2208 The Dragon Break
-Scholar-priests of the Alessian Order tamper with the Dragon God of Time.
-
-A fanatical sect of the Alessian Order, the Maruhkati Selective, becomes frustrated by ancient Aldmeri traditions still present within the theological system of the Eight Divines. Specifically, they hated any admission that Akatosh, the Supreme Spirit, was indisputably also Auriel, the Elven High God.
-
-Newly invented rituals were utilized to disprove this theory, to no avail. Finally, the secret masters of the Maruhkati Selective channeled the Aurbis itself to mythically remove those aspects of the Dragon God they disapproved of. A staff or tower appeared before them. The secret masters danced on it until it writhed and trembled and spoke its protonymic.
-
-The tower split into eight pieces and Time broke. The non-linearity of the Dawn Era had returned.
-
-Tamriel slept through the disaster, which 'lasted one thousand and eight years', until the pieces of the tower came to rest on the mortal plane.
+#oog #tes3
+> 1E1200-2208 The Dragon Break
+> Scholar-priests of the Alessian Order tamper with the Dragon God of Time.
+> 
+> A fanatical sect of the Alessian Order, the Maruhkati Selective, becomes frustrated by ancient Aldmeri traditions still present within the theological system of the Eight Divines. Specifically, they hated any admission that Akatosh, the Supreme Spirit, was indisputably also Auriel, the Elven High God.
+> 
+> Newly invented rituals were utilized to disprove this theory, to no avail. Finally, the secret masters of the Maruhkati Selective channeled the Aurbis itself to mythically remove those aspects of the Dragon God they disapproved of. A staff or tower appeared before them. The secret masters danced on it until it writhed and trembled and spoke its protonymic.
+> 
+> The tower split into eight pieces and Time broke. The non-linearity of the Dawn Era had returned.
+> 
+> Tamriel slept through the disaster, which 'lasted one thousand and eight years', until the pieces of the tower came to rest on the mortal plane.
 
 Every culture on Tamriel remembers the Dragon Break in some fashion; to most it is a spiritual anguish that they cannot account for. Several texts survive this timeless period, all (unsurprisingly) conflicting with each other regarding events, people, and regions: wars are mentioned in some that never happen in another, the sun changes color depending on the witness, and the gods either walk among the mortals or they don't. Even the 'one thousand and eight years,' a number (some say arbitrarily) chosen by the Elder Council, is an unreliable measure.
 

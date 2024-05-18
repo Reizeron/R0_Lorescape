@@ -1,6 +1,4 @@
-court-type faction
-
-
+A corporation-like faction with royal court characteristics. Members of Clan Direnni are embedded into the royal court and clan structure, serving as advisors and consultants.
 ### Ranks
 |     | Rank:        |
 | :-: | ------------ |

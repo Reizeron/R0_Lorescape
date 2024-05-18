@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 *"In Mundus, conflict and disparity are what bring change, and change is the most sacred of the Eleven Forces. Change is the force without focus or origin."*—Oegnithr, Taheritae, Order of PSJJJJ
 
 Simply put, the schism in the Human/Aldmeri worldview is the mortal's relationship to the divine. Humans take the humble path that they were created by the immortal forces, while the Aldmer claim descent from them. It doesn't seem like much, but it is a distinction that colors the rest of their diverging mythologies.

@@ -1,0 +1,3 @@
+>[!dialogue] Class;Smith Author;R-Zero
+>These light and elegant armaments of Elven manufacture feature extravagant use of rare metals and cutting edges and studs made from rare crystalline materials. Remarkably light and flexible, glass armor absorbs and distributes shock better than steel, and the delicate balance and sinister sharpness of glass weapons is appreciated by both duelists and assassins.
+>*;compiled from the vanilla topic*

@@ -1,4 +1,4 @@
-#book 
+#book #tes4
 by Sinjin
 
 Like all true heroes, Rislav Larich had inauspicious beginnings. We are told by chroniclers that the springtide night in the 448th year of the first era on which he was born was unseasonably cold, and that his mother Queen Lynada died very shortly after setting eyes upon her son. If he were much beloved of his father, King Mhorus of Skingrad, who already had plenty of heirs, three sons and four daughters before him, the chroniclers make no mention of it.

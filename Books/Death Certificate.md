@@ -1,0 +1,17 @@
+#book #tes2
+23 Morning Star 3E 400
+Castle Faallem
+
+Two days I was sealed within this crypt without food or water. I do not know whether hunger or poor health or one of the creatures who share this dank hole with me will kill me first -- I only know that I will soon be dead, and not even my bones with remain. My hope is that in the years that come, this letter will be read and the sad story of Arthago, Prince of Sentinel will be told.
+
+I am fifteen years old at the time of this writing, and have been plagued with bad health for most of my life, to the frustration of my hearty parents. The finest healers and apothecaries in western Tamriel have labored over my every cough and fever, but while they could save my life time and time again, they could not improve my sickly constitution. In retrospect, I received little real affection from the king and queen, embarrassed as they were about begetting such a cripple as the heir of the kingdom. I cannot say I missed the love; I received much attention from the doctors, priests, and herbalists constantly at court. Certainly I was not to be the sort of warrior that King Camaron was, but one of my dearest friends, a priest of Stendarr said that I might be the first scholar-king in the history of Sentinel.
+
+My younger sister Aubk-i was the true favorite of my parents: athletic, beautiful, and charming. It is hard to think of an uncomplimentary word for her. I am resigned to my imminent death, and yet, I would like to see her once again. For six years, Aubk-i and I were the only children of Sentinel. Eight years ago, the queen had a boy child and named him Greklith, after the ancient Redguard word for Strong King. Few speak that tongue any longer, but all the scholars and nobles of Hammerfell understood. And Greklith is a strong boy indeed -- I have never so much as seen him cough. The Queen's next child, born only a year after Greklith, had an even more ominous birthname -- Lhotun. Second Boy. Perhaps had I been less sheltered, more suspicious by nature, I might have read into these nominations. Lhotun and Greklith are common enough names in our family, I reasoned. Now I know that even then, I was disinherited -- even if it was not official yet.
+
+For several months before Lhotun's birth and over three years afterward, I was in the throes of a very serious fever. The doctors despaired of me, but somehow and very, very gradually, I recovered. For the first time, and the last, I read an expression on my father, the King's face that was not indifference. It was disgust.
+
+That was a fortnight ago. Three nights ago, I was seized by men I had never seen while I was having a walk. My nursemaid stood by watching placidly as I was gagged and tied and thrown roughly into a sack. I do not know how long they rode with me, but I was eventually left here. When I finally freed myself from my bonds, I found that I was alone. My wanders have gotten me nowhere. This place is filled with undead creatures that prevent me from finding any exit.
+
+I have no hope left, but no fear either. A few regrets. Perhaps had I studied magic instead of history and science I could free myself of this place. One of my tutors told the story of the Underking, how he had placed his lifeforce in the body of a powerful being and had thus conquered all Tamriel long, long ago. Had I only had the strength of a more powerful body like that.
+
+But I did not study magic. I studied history, so I leave this letter -- not to revenge myself, but as an historic document. 

@@ -1,2 +1,0 @@
->[!dialogue] Class;Sorcerer Class;Priest Class;Witch
->The flame atronach is a powerful Daedric summoning associated with elemental fire. Crystalline elemental fire compounds called fire salts may be salvaged from the remains of banished fire atronachs.

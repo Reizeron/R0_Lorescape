@@ -1,0 +1,3 @@
+>[!dialogue] Class;Smith Author;R-Zero
+>The secrets of Dwemer metalwork being long-forgotten, enterprising adventurers risk life and limb to recover these refined and elegant armaments from the Dwarven ruins scattered throughout Tamriel. Dwemer craftsmanship and metallurgy are unmatched to this day and their weapons and armors resist corrosion and retain their edge and durability in spite of hard use.
+>*;compiled from the vanilla topic*

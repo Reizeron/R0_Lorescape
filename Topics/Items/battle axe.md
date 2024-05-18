@@ -1,0 +1,2 @@
+>[!dialogue] Class;Master-at-Arms Class;Smith Class;Warrior Class;Drillmaster
+>The term 'battle axe' includes all very heavy axes used two-handed. Most battle axes are double-bladed, but the Nordic battle axe has a single blade. The great mass and efficiency of the battle axe enables a strong warrior to penetrate heavy armor, but the battle axe is also a powerful shock weapon against massed, lightly armored opponents.

@@ -1,0 +1,2 @@
+>[!dialogue] Class;Master-at-Arms Class;Smith Class;Warrior Class;Drillmaster
+>The club is usually a crude, improvised one-handed blunt weapon common among less technologically sophisticated cultures like the Argonians, but it also a cheap and effective militia weapon used with a light shield in Cyrodiil and the Western provinces.

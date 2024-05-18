@@ -1,10 +1,9 @@
-#book 
+#book #tes3
 by Mera Llykith
-
 ### Part I
-The year was 3E 405. The occasion was the millennial celebration of the founding of the Breton Kingdom of Camlorn. Every grand boulevard and narrow alley was strung with ==gold and purple== banners, some plain, some marked with the heraldic symbols of the Royal Family or the various principalities and dukedoms which were vassals of the King. Musicians played in the plazas great and small, and on every street corner was a new exotic entertainer: Redguard ==snake charmers==, Khajiiti acrobats, magicians of genuine power and those whose flamboyant skill was equally impressive if largely illusion.
+The year was 3E 405. The occasion was the millennial celebration of the founding of the Breton Kingdom of Camlorn. Every grand boulevard and narrow alley was strung with gold and purple banners, some plain, some marked with the heraldic symbols of the Royal Family or the various principalities and dukedoms which were vassals of the King. Musicians played in the plazas great and small, and on every street corner was a new exotic entertainer: Redguard snake charmers, Khajiiti acrobats, magicians of genuine power and those whose flamboyant skill was equally impressive if largely illusion.
 
-The sight that drew most of the male citizens of Camlorn was the March of Beauty. A thousand comely young women, brightly and provocatively dressed, danced their way down the ==long, wide main street== of the city, from the ==Temple of Sethiete to the Royal Palace==. The menfolk jostled one another and craned their necks, picking their favorites. It was no secret that they were all prostitutes, and after the March and the Flower Festival that evening, they would be available for more intimate business.
+The sight that drew most of the male citizens of Camlorn was the March of Beauty. A thousand comely young women, brightly and provocatively dressed, danced their way down the long, wide main street of the city, from the Temple of Sethiete to the Royal Palace. The menfolk jostled one another and craned their necks, picking their favorites. It was no secret that they were all prostitutes, and after the March and the Flower Festival that evening, they would be available for more intimate business.
 
 Gyna attracted much of the attention with her tall, curvaceous figure barely covered by strips of silk and her curls of flaxen hair specked with flower petals. In her late twenties, she wasn't the youngest of the prostitutes, but she was certainly one of the most desirable. It was clear by her demeanor that she was used to the lascivious glances, though she was far from jaded at the sight of the city in splendor. Compared to the ==squalid quarter of Daggerfall== where she made her home, Camlorn at the height of celebration seemed so unreal. And yet, what was even stranger was how, at the same time, familiar it all looked, though she had never been there before.
 
@@ -32,13 +31,13 @@ Afterwards, while the women were all en route back to their tents to change into
 
 "I've seen looks of hunger before, and that wasn't one of them," laughed Gyna. "I'd wager he thought I was someone else, like that lady who tried to run us over with her horse. She's probably his kin, and he thought she had dressed up like a courtesan and joined the March of Beauty. Can you imagine the scandal?"
 
-When they arrived at the tents, they were greeted by a stocky, well-dressed young man with a bald pate and a commanding presence of authority. He introduced himself as [[Lord Strale]], ambassador to the Emperor himself, and their chief patron. It was Strale who had hired them, on the Emperor's behalf, as a gift to the King and the kingdom of Camlorn.
+When they arrived at the tents, they were greeted by a stocky, well-dressed young man with a bald pate and a commanding presence of authority. He introduced himself as Lord Strale, ambassador to the Emperor himself, and their chief patron. It was Strale who had hired them, on the Emperor's behalf, as a gift to the King and the kingdom of Camlorn.
 
-"The March of Beauty is but a precursor to the Flower Festival tonight," he said. Unlike the King, he did not have to yell to be heard. His voice was loud and precise in its natural modulations. "I expect each of you to perform well, and justify the significant expense I've suffered bringing you all the way up here. Now hurry, you must be dressed and in position on ==Cavilstyr Rock== before the sun goes down."
+"The March of Beauty is but a precursor to the Flower Festival tonight," he said. Unlike the King, he did not have to yell to be heard. His voice was loud and precise in its natural modulations. "I expect each of you to perform well, and justify the significant expense I've suffered bringing you all the way up here. Now hurry, you must be dressed and in position on Cavilstyr Rock before the sun goes down."
 
 The ambassador needn't have worried. The women were all professionals, experts at getting dressed and undressed with none of the time-consuming measures less promiscuous females required. His manservant Gnorbooth offered his assistance, but found he had little to do. Their costumes were simplicity itself: soft, narrow sheets with a hole for their heads. Not even a belt was required, so the gowns were open at the sides exposing the frame of their skin.
 
-So it was long before the sun had set that the prostitutes turned dancers were at Cavilstyr Rock. It was a ==great, wide promontory facing the sea==, and for the occasion of the Festival of Flowers, a large circle of unlit torches and covered baskets had been arranged. As early as they were, a crowd of spectators had already arrived. The women gathered in the center of the circle and waited until it was time.
+So it was long before the sun had set that the prostitutes turned dancers were at Cavilstyr Rock. It was a great, wide promontory facing the sea, and for the occasion of the Festival of Flowers, a large circle of unlit torches and covered baskets had been arranged. As early as they were, a crowd of spectators had already arrived. The women gathered in the center of the circle and waited until it was time.
 
 Gyna watched the crowd as it grew, and was not surprised when she saw the lady from the March approaching, hand-in-hand with a very old, very short white-haired woman. The old woman was distracted, pointing out islands out at sea. The blonde lady seemed nervous, unsure of what to say. Gyna was used to dealing with uneasy clients, and spoke first.
 
@@ -62,7 +61,7 @@ Lady Jyllia gasped and took a step back. She gripped the old woman, who had been
 
 "It's her!" the old woman cried, wild-eyed. She tried to run forward, arms outstretched, but Jyllia held her back. Gyna felt strangely naked, and pulled her robe against her body.
 
-"No, you're wrong," Lady Jyllia whispered to Ramke, holding the old woman tightly. "The Princess Talara is dead, you know that. I shouldn't have brought you here. I'll take you back home." She turned back to Gyna, her eyes welling with tears. "==The entire royal family of Camlorn was assassinated over twenty years ago==. My father was ==Duke of Oloine==, the King's brother, and so he inherited the crown. I'm sorry to have bothered you. Goodnight."
+"No, you're wrong," Lady Jyllia whispered to Ramke, holding the old woman tightly. "The Princess Talara is dead, you know that. I shouldn't have brought you here. I'll take you back home." She turned back to Gyna, her eyes welling with tears. "The entire royal family of Camlorn was assassinated over twenty years ago. My father was Duke of Oloine, the King's brother, and so he inherited the crown. I'm sorry to have bothered you. Goodnight."
 
 Gyna gazed after Lady Jyllia and the old nurse as they disappeared into the crowd, but she had little time to consider all she had heard. The sun was setting, and it was time for the Flower Festival. Twelve young men emerged from the darkness wearing only loincloths and masks, and lit the torches. The moment the fire blazed, Gyna and all the rest of the dancers rushed to the baskets, pulling out blossoms and vines by the handful.
 
@@ -79,7 +78,7 @@ She released her grip and let herself fall like a leaf into the water below.
 ### Part II
 She felt nothing, darkness enveloping her body and mind. Pain surged through her leg and with that sensation, a great feeling of cold washed over her. She opened her eyes and saw that she was drowning.
 
-Her left leg would not move at all, but using her right one and her arms, she pulled herself up toward the moons above. It was long way through the swirling currents that wrenched back at her. At last she broke the surface and sucked in the cold night air. She was still close to the ==rocky shoreline== of the capitol city of the kingdom of Camlorn, but the water had carried her quite a ways from the point where she fell at Cavilstyr Rock.
+Her left leg would not move at all, but using her right one and her arms, she pulled herself up toward the moons above. It was long way through the swirling currents that wrenched back at her. At last she broke the surface and sucked in the cold night air. She was still close to the rocky shoreline of the capitol city of the kingdom of Camlorn, but the water had carried her quite a ways from the point where she fell at Cavilstyr Rock.
 
 Not fell, she thought, correcting herself. She had been pushed.
 
@@ -121,7 +120,7 @@ Gyna sighed. "You must have loved Lady Jyllia very much."
 
 "What do you mean?" asked Gyna. "What happened?"
 
-"I don't know if I should tell a stranger this, but it's fairly well-known in Camlorn, and I really feel like I know you," Ramke struggled with her conscience and then released. "Jyllia saw the assassination, you see. I found her afterwards, hiding in that terrible blood-stained throne room, and she was like a little broken doll. She wouldn't speak, she wouldn't eat. I tried all my healing spells, but it was quite beyond my power. So much more than a scraped knee. Her father who was then Duke of Oloine sent her to a ==sanitarium== in the country to get well."
+"I don't know if I should tell a stranger this, but it's fairly well-known in Camlorn, and I really feel like I know you," Ramke struggled with her conscience and then released. "Jyllia saw the assassination, you see. I found her afterwards, hiding in that terrible blood-stained throne room, and she was like a little broken doll. She wouldn't speak, she wouldn't eat. I tried all my healing spells, but it was quite beyond my power. So much more than a scraped knee. Her father who was then Duke of Oloine sent her to a sanitarium in the country to get well."
 
 "That poor little girl," cried Gyna.
 
@@ -150,7 +149,7 @@ She had not been walking for very long, when a black carriage drawn by three hor
 So she did. And he listened.
 
 ### Part III
-Gnorbooth was leaving his favorite pub in Camlorn, ==The Breaking Branch==, when he heard someone calling his name. His was not the sort of a name that could be mistaken for another. He turned and saw ==Lord Eryl==, the Royal Battlemage from the palace, emerge from the darkness of the alley.
+Gnorbooth was leaving his favorite pub in Camlorn, The Breaking Branch, when he heard someone calling his name. His was not the sort of a name that could be mistaken for another. He turned and saw Lord Eryl, the Royal Battlemage from the palace, emerge from the darkness of the alley.
 
 "Milord," said Gnorbooth with a pleasant smile.
 
@@ -172,7 +171,7 @@ Gnorbooth shrugged: "He's in love, I would imagine, milord. It can make men act 
 
 "Is that all? How tedious for the poor fellow. I suppose I'll see him when he returns then," Lord Eryl bowed. "Thank you for being so informative. Farewell."
 
-The moment the royal battlemage turned the corner, Gnorbooth leapt onto his horse. He had drunk one or two ales too many, but he knew he must find his way to ==Umbington== before Lord Eryl's agents did. He galloped east out of the capitol, hoping there were signs along the road.
+The moment the royal battlemage turned the corner, Gnorbooth leapt onto his horse. He had drunk one or two ales too many, but he knew he must find his way to Umbington before Lord Eryl's agents did. He galloped east out of the capitol, hoping there were signs along the road.
 
 Seated in a tavern that smelled of mildew and sour beer, Lord Strale marveled at how the Emperor's agent Lady Brisienna always found the most public of places for her most private of conferences. It was harvest time in Umbington, and all of the field hands were drinking away their meager wages in the noisiest of fashions. He was dressed appropriately for the venue, rough trousers and a simple peasant's vest, but he still felt conspicuous. In comparison to his two female companions, he certainly was. The woman to his right was used to frequenting the low places of Daggerfall as a common prostitute. Lady Brisienna to his left was even more clearly in her element.
 
@@ -245,7 +244,7 @@ Gyna never saw the Emperor's agent Lady Brisienna again, but she kept her promis
 
 "I understand," smiled Gyna, thanking her tutor for the two spells of illusion he had taught her. The time had come to use her new-found skill.
 
-==The Prostitutes Guildhouse of Camlorn== was a great palace in an ==affluent northern quarter of the city==. ==Prince Sylon== could have found his way there blindfolded, or blind drunk as he often was. Tonight, however, he was only lightly inebriated and he resolved to drink no more. Tonight he was in the mood for pleasure. His kind of pleasure.
+The Prostitutes Guildhouse of Camlorn was a great palace in an affluent northern quarter of the city. Prince Sylon could have found his way there blindfolded, or blind drunk as he often was. Tonight, however, he was only lightly inebriated and he resolved to drink no more. Tonight he was in the mood for pleasure. His kind of pleasure.
 
 "Where is my favorite, Grigia?" he demanded of the Guildmistress upon entering.
 
@@ -315,7 +314,7 @@ The ambassador pulled from his pocket a sheaf of old yellowed parchment. "Your H
 
 "What is this all about, sir?" the King boomed. "What does it say?"
 
-"Nothing about you, your majesty. In truth, at the time of your majesty's ascension, no one reading it could have understood its significance. It was a letter to the Emperor the late king your brother was penning at the time of his assassination, concerning a thief ==who had once been a mage-priest== at the ==Temple of Sethiete== here in Camlorn. His name was ==Jagar Tharn==."
+"Nothing about you, your majesty. In truth, at the time of your majesty's ascension, no one reading it could have understood its significance. It was a letter to the Emperor the late king your brother was penning at the time of his assassination, concerning a thief who had once been a mage-priest at the Temple of Sethiete here in Camlorn. His name was Jagar Tharn."
 
 "Jagar Tharn?" the Queen laughed nervously. "Why, we were just talking about him."
 

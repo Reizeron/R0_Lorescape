@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant Class;Witch Class;Sorcerer Author;R-Zero
+> In Bretonic culture, Mehrunes Dagon the Blood-King is associated with droughts -- he once drained all the oceans of Nirn, before Kynareth filled them back with her tears -- as well as sudden outbreaks of violence and the horrors of war. His unruly, iconoclastic followers see Mehrunes Dagon as an engine of perpetual revolution leading to the ultimate liberty. Popular uprisings against the clergy and feudal lords have historically been inspired by Dagonite philosophies.

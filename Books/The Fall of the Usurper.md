@@ -1,4 +1,4 @@
-#book 
+#book #tes2
 by Palaux Illthre
 
 The people of Dwynnen celebrate Othroktide every 5th of Suns Dawn, the date when, according to legend, a man emerged from the wilderness of High Rock and defeated the undead of Castle Wightmoor to become the first Baron of Dwynnen. Few people believe the legend anymore, but there most certainly was a Baron Othrok of Dwynnen who was destined to become one of true heroes of High Rock, if not all Tamriel.

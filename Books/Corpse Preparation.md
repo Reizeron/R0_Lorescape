@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 ### Volume One: The Acquisition of the Corpse
 While the Arts of Necromancy are ==only illegal in the province of Morrowind==, few citizens of the Empire have an ==enlightened view== of our Art. Thus, the acquisition of corpses on which to experiment is often difficult.
 

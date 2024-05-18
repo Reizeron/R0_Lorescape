@@ -1,4 +1,4 @@
-#book 
+#book #tes2 #tes3
 by Stronach k'Thojj III
 Imperial Historian
 
@@ -70,7 +70,7 @@ The Council so enjoyed its unlimited and unrestricted freedom to promulgate laws
 
 This power, however, he regularly and vigorously exercised. By 313, Uriel VI could boast with conviction that he truly did rule Tamriel. He utilized defunct spy networks and guard units to bully and coerce the difficult members of the Elder Council. His half-sister Morihatha was (not surprisingly) his staunchest ally, especially after her marriage to Baron Ulfe Gersen of Winterhold brought her considerable wealth and influence. As the Sage Ugaridge said, "Uriel V conquered Esroniet, but Uriel VI conquered the Elder Council."
 
-When Uriel VI fell off a horse and could not be resuscitated by the finest Imperial healers, his beloved sister Morihatha took up the imperial tiara. *(3E 317 -R-Zero)* At 25 years of age, she had been described by (admittedly self-serving) diplomats as the most beautiful creature in all of Tamriel. She was certainly well-learned, vivacious, athletic, and a well-practised politician. She brought the Archmagister of Skyrim to the Imperial City and created the second Imperial Battlemage since the days of Tiber Septim.
+When Uriel VI fell off a horse and could not be resuscitated by the finest Imperial healers, his beloved sister Morihatha took up the imperial tiara. At 25 years of age, she had been described by (admittedly self-serving) diplomats as the most beautiful creature in all of Tamriel. She was certainly well-learned, vivacious, athletic, and a well-practised politician. She brought the Archmagister of Skyrim to the Imperial City and created the second Imperial Battlemage since the days of Tiber Septim.
 
 Morihatha finished the job her brother had begun, and made the Imperial Province a true government under the Empress (and later, the Emperor). Outside the Imperial Province, however, the Empire had been slowly disintegrating. ==Open revolutions and civil wars had raged unchallenged since the days of her grandfather Cephorus II==. Carefully coordinating her counterattacks, Morihatha slowly claimed back her rebellious vassals, always avoiding overextending herself.
 

@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant
+>The enchant discipline concerns imbuing physical items with magical properties called [[enchantments]]. The simplest enchantment are magical scrolls with a single enchantment that are destroyed with one use. The most complex enchantments are enchanted artifacts, objects with one or more magical effects powered by built-in soul gems. Skilled enchanters also use enchanted items more efficiently, with less waste of the magicka trapped in the soul gems.

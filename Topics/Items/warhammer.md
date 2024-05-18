@@ -1,0 +1,2 @@
+>[!dialogue] Class;Master-at-Arms Class;Smith Class;Warrior Class;Drillmaster
+>Heavy two-handed hammers were developed in the West to counter the defensive protection of the heavily armored Western knight. The iron warhammer has a single head with a balancing spike to penetrate plate armor. The steel warhammer, on the other hand, has two heavy heads, and is designed to batter or knock down an armored opponent.

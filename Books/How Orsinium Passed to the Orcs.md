@@ -1,4 +1,4 @@
-#book
+#book #tes3
 by Menyna Gsost
 
 The year was 3E 399 and standing on a mountainside overlooking a vast tract of land between the lands of Menevia and Wayrest was a great and learned judge, an arbitrator and magistrate, impartial in his submission to the law.

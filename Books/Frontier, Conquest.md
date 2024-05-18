@@ -1,5 +1,5 @@
-#book
-by the University of Gwylim Press, 3E 344
+#book #tes3
+by Severus Reva, the University of Gwylim Press, 3E 344
 
 Historians often portray the human settlement of Tamriel as a straightforward process of military expansion of the Nords of Skyrim. In fact, human settlers occupied nearly every corner of Tamriel before Skyrim was even founded. These so-called "Nedic peoples" include the proto-Cyrodilians, the ancestors of the Bretons, the aboriginals of Hammerfell, and perhaps a now-vanished Human population of Morrowind. Strictly speaking, the Nords are simply another of these Nedic peoples, the only one that failed to find a method of peaceful accommodation with the Elves who already occupied Tamriel.
 

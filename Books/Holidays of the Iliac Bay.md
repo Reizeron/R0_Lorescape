@@ -1,4 +1,4 @@
-#book 
+#book #tes2
 by Theth-i
 
 The region of the Iliac Bay has a rich history, and not surprisingly, a number of holidays unique to it because of this history. The Breton and the Redguard cultures have many similarities, but just as many distinctions. An analysis of the holidays is one way to study the people.

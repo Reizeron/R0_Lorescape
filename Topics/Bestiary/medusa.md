@@ -1,2 +1,2 @@
 >[!dialogue] Class;Sorcerer Class;Priest Class;Witch Author;R-Zero
->The medusa is a deadly ophidian servant of the Daedra Lord [[Boethiah]], dreaded for its paralysis spells. Snake-like Medusa tendrils collected from their heads have modest magical properties.
+>The medusa is a deadly ophidian servant of the Daedra Lord [[Boethiah]], dreaded for its paralysis spells. Snake-like [[Medusa tendril]] collected from their heads have modest magical properties.

@@ -1,0 +1,5 @@
+>[!dialogue] Class;Savant Class;Agent Author;R-Zero
+>The most disciplined and effective military force in history, the Imperial Legions [[preserve the peace]] and rule of the [[Imperial law]]. The few legions here in High Rock are garrisoned mostly in the coastal fortresses and along the trade routes. The legions hire qualified recruits of proven skill and character, and provide training, goods, and services at discounts. The lower ranks are common troopers and officers, but the upper ranks include the orders of the Imperial knights.
+
+>[!dialogue] Class;Savant Province;Morrowind
+>The most disciplined and effective military force in history, the Imperial Legions preserve the peace and rule of law in the Empire. The legions have garrisons in the major settlements of Vvardenfell, but the units mostly serve as guards to enforce the law in Morrowind. The legions hire qualified recruits of proven skill and character, and provide training, goods, and services at discounts. The lower ranks are common troopers and officers, but the upper ranks include the orders of the Imperial knights.

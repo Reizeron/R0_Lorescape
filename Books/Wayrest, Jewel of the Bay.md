@@ -1,4 +1,4 @@
-#book
+#book #tes2
 by Sathyr Longleat
 
 Wayrest is one of the most glorious cities of western Tamriel: sparkling in her contemporary beauty, lustrous by her past. She is prized above all cities in High Rock -- no other city has contributed, and continues to contribute so much to the culture of the Bretons. The spirits of her genius children continue to haunt the streets; you can see them in the gabled roofs, grand boulevards, aromatic marketplaces. The people of Wayrest have an instinctive appreciation of their past, but are not obsessed by it, as the people of Daggerfall seem to be. One feels that one is in a modern city when one visits Wayrest, but there is a magic in the air that could only come from thirty-two centuries of civilization.

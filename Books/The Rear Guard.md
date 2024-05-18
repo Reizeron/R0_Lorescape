@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 by Tenace Mourl
 
 The castle would hold. No matter the forces, the walls of [[Cascabel Hall]] would never fail, but that was small consolation for Menegur. He was hungry. In fact, he had never been so hungry. The well in the atrium of the fortress supplied him with enough water to hold there until the Fourth Era, but his stomach reminded Menegur minute to minute that he needed food.

@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 by Berdier Wreans
 
 The wind blew over the open plain, jostling the few trees within to move back and forth with the irritation of it. A young man in ==bright green turban== approached the army and gave his chieftain's terms for peace to the commander. He was refused. It was to be battle, the battle of ==Ain-Kolur==.

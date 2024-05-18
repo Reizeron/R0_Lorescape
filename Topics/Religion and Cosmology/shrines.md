@@ -6,7 +6,7 @@
  >Shrines are altars where prayer and offerings are made to the Nine Divines for healing and blessings. You can worship the Nine Divines at altars of the Imperial cult in temples throughout High Rock.
 >*;answer should depend on the faction. Most priests would be members of regional temples and warn you against using wilderness shrines - R-Zero*
 
->[!dialogue] ;Savant Author;R-Zero
+>[!dialogue] Class;Savant Author;R-Zero
 >Shrines are sanctified objects where the humble and faithful may communicate more directly with their gods. They can be found either inside the temples of the [[Nine Divines]], chantries of the [[Aedric Orders]], or as the [[wayshrines]] or [[standing stones]] in the country. The faithful and respectful guests may make offerings and receive blessings at shrines; the faithful of higher ranks need make no offering to receive blessings.
 
 %%

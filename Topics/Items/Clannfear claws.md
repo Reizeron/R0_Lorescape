@@ -1,0 +1,2 @@
+>[!dialogue] Class;Alchemist Author;R-Zero
+>The effective use of clannfear claws is limited to those capable of atomizing them through alchemical means -- claws of a [[clannfear]] are hard enough to chisel through solid rock, which in turn makes crushing them using a common mortar and pestle an arduous task. The danger of harvesting the claws from a live specimen in the first place makes them even more of a rarity.

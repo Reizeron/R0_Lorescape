@@ -1,4 +1,4 @@
-#book 
+#book #tes3
 by Brother Mikhael Karkuxor of the Imperial College
 
 *This is my best attempt at a listing of the pantheons and associated divine spirits of Tamriel's dominant cultures. This list is by no means complete (the Imperial City of Cyrodiil alone boasts a vast host of saints and holy spirits). It only includes the most important spirits revered by native members of the culture. Other et'Ada, especially Daedra, are often familiar known to many cultures, though specific names are included here only when they possess a particular cultural significance. The omission of any reference to the worships of the Argonians of Black Marsh is a result of my complete inadequacy in reconciling the obscure and contradictory accounts available to me on that subject.*

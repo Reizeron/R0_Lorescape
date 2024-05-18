@@ -1,4 +1,4 @@
-#book
+#book #tes2
 by Odiva Gallwood
 
 There is sufficient archaeological evidence for the modern historian to believe that there has been some variety of human settlement in the city-state of Daggerfall starting at least a thousand years before recorded history. The first use of the name Daggerfall to refer to the area around the current capital was most probably in the 246th year of the 1st Era. The north half of the Iliac Bay, in fact all of the current province of High Rock, was conquered by invading Nords who brought a rough sort of civilization with them. One of the first civilized acts the Nords performed was a census -- the so-called Book of Life. Listed on page 933 of the Book is this entry:
